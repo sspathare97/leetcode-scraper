@@ -1,0 +1,5 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+139,Word Break,Dynamic Programming,40.3%,Medium,8.42302,https://leetcode.com/problems/word-break
+146,LRU Cache,Design,33.5%,Medium,19.0388,https://leetcode.com/problems/lru-cache
+198,House Robber,Dynamic Programming,42.1%,Easy,59.5194,https://leetcode.com/problems/house-robber
+722,Remove Comments,String,34.7%,Medium,100.0,https://leetcode.com/problems/remove-comments

@@ -1,0 +1,4 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+98,Validate Binary Search Tree,"Tree, Depth-first Search",27.9%,Medium,100.0,https://leetcode.com/problems/validate-binary-search-tree
+238,Product of Array Except Self,Array,60.3%,Medium,79.7901,https://leetcode.com/problems/product-of-array-except-self
+973,K Closest Points to Origin,"Divide and Conquer, Heap, Sort",64.0%,Medium,39.895,https://leetcode.com/problems/k-closest-points-to-origin

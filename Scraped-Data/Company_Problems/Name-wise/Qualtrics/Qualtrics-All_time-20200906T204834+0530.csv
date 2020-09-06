@@ -1,0 +1,32 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+13,Roman to Integer,"Math, String",55.9%,Easy,13.4918,https://leetcode.com/problems/roman-to-integer
+15,3Sum,"Array, Two Pointers",27.0%,Medium,9.00116,https://leetcode.com/problems/3sum
+34,Find First and Last Position of Element in Sorted Array,"Array, Binary Search",36.3%,Medium,0.679519,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+42,Trapping Rain Water,"Array, Two Pointers, Stack",49.2%,Hard,57.3142,https://leetcode.com/problems/trapping-rain-water
+49,Group Anagrams,"Hash Table, String",57.3%,Medium,32.554,https://leetcode.com/problems/group-anagrams
+69,Sqrt(x),"Math, Binary Search",34.1%,Easy,1.90135,https://leetcode.com/problems/sqrtx
+71,Simplify Path,"String, Stack",32.8%,Medium,2.90279,https://leetcode.com/problems/simplify-path
+98,Validate Binary Search Tree,"Tree, Depth-first Search",27.9%,Medium,7.5662,https://leetcode.com/problems/validate-binary-search-tree
+103,Binary Tree Zigzag Level Order Traversal,"Stack, Tree, Breadth-first Search",48.6%,Medium,48.0237,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+119,Pascal's Triangle II,Array,50.9%,Easy,16.7907,https://leetcode.com/problems/pascals-triangle-ii
+127,Word Ladder,Breadth-first Search,29.9%,Medium,53.1209,https://leetcode.com/problems/word-ladder
+131,Palindrome Partitioning,Backtracking,48.0%,Medium,8.54911,https://leetcode.com/problems/palindrome-partitioning
+133,Clone Graph,"Depth-first Search, Breadth-first Search, Graph",35.4%,Medium,2.87839,https://leetcode.com/problems/clone-graph
+138,Copy List with Random Pointer,"Hash Table, Linked List",37.0%,Medium,43.6349,https://leetcode.com/problems/copy-list-with-random-pointer
+139,Word Break,Dynamic Programming,40.3%,Medium,33.7048,https://leetcode.com/problems/word-break
+173,Binary Search Tree Iterator,"Stack, Tree, Design",57.1%,Medium,47.4069,https://leetcode.com/problems/binary-search-tree-iterator
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,100.0,https://leetcode.com/problems/number-of-islands
+208,Implement Trie (Prefix Tree),"Design, Trie",49.9%,Medium,5.44972,https://leetcode.com/problems/implement-trie-prefix-tree
+238,Product of Array Except Self,Array,60.3%,Medium,2.46508,https://leetcode.com/problems/product-of-array-except-self
+295,Find Median from Data Stream,"Heap, Design",44.8%,Hard,1.56376,https://leetcode.com/problems/find-median-from-data-stream
+297,Serialize and Deserialize Binary Tree,"Tree, Design",47.8%,Hard,4.66068,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+332,Reconstruct Itinerary,"Depth-first Search, Graph",36.9%,Medium,9.5431,https://leetcode.com/problems/reconstruct-itinerary
+449,Serialize and Deserialize BST,Tree,52.3%,Medium,86.5237,https://leetcode.com/problems/serialize-and-deserialize-bst
+543,Diameter of Binary Tree,Tree,48.6%,Easy,1.94809,https://leetcode.com/problems/diameter-of-binary-tree
+695,Max Area of Island,"Array, Depth-first Search",63.0%,Medium,73.0775,https://leetcode.com/problems/max-area-of-island
+722,Remove Comments,String,34.7%,Medium,7.31804,https://leetcode.com/problems/remove-comments
+729,My Calendar I,Array,52.0%,Medium,11.5795,https://leetcode.com/problems/my-calendar-i
+733,Flood Fill,Depth-first Search,55.4%,Easy,16.6674,https://leetcode.com/problems/flood-fill
+767,Reorganize String,"String, Heap, Greedy, Sort",48.9%,Medium,3.98886,https://leetcode.com/problems/reorganize-string
+1041,Robot Bounded In Circle,Math,50.3%,Medium,11.1842,https://leetcode.com/problems/robot-bounded-in-circle
+1197,Minimum Knight Moves,Breadth-first Search,36.1%,Medium,8.53413,https://leetcode.com/problems/minimum-knight-moves

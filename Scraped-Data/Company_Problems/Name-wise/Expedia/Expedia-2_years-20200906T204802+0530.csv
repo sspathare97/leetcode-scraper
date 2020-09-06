@@ -1,0 +1,43 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,6.71936,https://leetcode.com/problems/two-sum
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",30.5%,Medium,4.12703,https://leetcode.com/problems/longest-substring-without-repeating-characters
+15,3Sum,"Array, Two Pointers",27.0%,Medium,1.55998,https://leetcode.com/problems/3sum
+20,Valid Parentheses,"String, Stack",39.1%,Easy,42.758,https://leetcode.com/problems/valid-parentheses
+33,Search in Rotated Sorted Array,"Array, Binary Search",34.7%,Medium,55.2541,https://leetcode.com/problems/search-in-rotated-sorted-array
+37,Sudoku Solver,"Hash Table, Backtracking",44.0%,Hard,13.1222,https://leetcode.com/problems/sudoku-solver
+42,Trapping Rain Water,"Array, Two Pointers, Stack",49.2%,Hard,2.56684,https://leetcode.com/problems/trapping-rain-water
+43,Multiply Strings,"Math, String",34.1%,Medium,6.7417,https://leetcode.com/problems/multiply-strings
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",46.7%,Easy,5.64641,https://leetcode.com/problems/maximum-subarray
+73,Set Matrix Zeroes,Array,43.3%,Medium,11.0945,https://leetcode.com/problems/set-matrix-zeroes
+88,Merge Sorted Array,"Array, Two Pointers",39.6%,Easy,8.1165,https://leetcode.com/problems/merge-sorted-array
+91,Decode Ways,"String, Dynamic Programming",24.9%,Medium,3.32298,https://leetcode.com/problems/decode-ways
+96,Unique Binary Search Trees,"Dynamic Programming, Tree",53.2%,Medium,7.35557,https://leetcode.com/problems/unique-binary-search-trees
+102,Binary Tree Level Order Traversal,"Tree, Breadth-first Search",54.9%,Medium,2.56704,https://leetcode.com/problems/binary-tree-level-order-traversal
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",50.6%,Easy,5.77217,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+134,Gas Station,Greedy,38.8%,Medium,10.1233,https://leetcode.com/problems/gas-station
+138,Copy List with Random Pointer,"Hash Table, Linked List",37.0%,Medium,9.4858,https://leetcode.com/problems/copy-list-with-random-pointer
+146,LRU Cache,Design,33.5%,Medium,19.8208,https://leetcode.com/problems/lru-cache
+160,Intersection of Two Linked Lists,Linked List,41.1%,Easy,7.43745,https://leetcode.com/problems/intersection-of-two-linked-lists
+167,Two Sum II - Input array is sorted,"Array, Two Pointers, Binary Search",54.3%,Easy,3.74695,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted
+198,House Robber,Dynamic Programming,42.1%,Easy,10.0708,https://leetcode.com/problems/house-robber
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,23.2725,https://leetcode.com/problems/number-of-islands
+215,Kth Largest Element in an Array,"Divide and Conquer, Heap",55.8%,Medium,3.00732,https://leetcode.com/problems/kth-largest-element-in-an-array
+240,Search a 2D Matrix II,"Binary Search, Divide and Conquer",43.3%,Medium,5.09536,https://leetcode.com/problems/search-a-2d-matrix-ii
+242,Valid Anagram,"Hash Table, Sort",57.1%,Easy,6.59459,https://leetcode.com/problems/valid-anagram
+253,Meeting Rooms II,"Heap, Greedy, Sort",45.8%,Medium,5.08083,https://leetcode.com/problems/meeting-rooms-ii
+295,Find Median from Data Stream,"Heap, Design",44.8%,Hard,14.8233,https://leetcode.com/problems/find-median-from-data-stream
+297,Serialize and Deserialize Binary Tree,"Tree, Design",47.8%,Hard,19.7364,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+314,Binary Tree Vertical Order Traversal,"Depth-first Search, Breadth-first Search",45.5%,Medium,10.7909,https://leetcode.com/problems/binary-tree-vertical-order-traversal
+404,Sum of Left Leaves,Tree,52.0%,Easy,1.54406,https://leetcode.com/problems/sum-of-left-leaves
+443,String Compression,String,41.5%,Easy,83.0617,https://leetcode.com/problems/string-compression
+451,Sort Characters By Frequency,"Hash Table, Heap",63.2%,Medium,23.0551,https://leetcode.com/problems/sort-characters-by-frequency
+560,Subarray Sum Equals K,"Array, Hash Table",43.8%,Medium,2.75209,https://leetcode.com/problems/subarray-sum-equals-k
+692,Top K Frequent Words,"Hash Table, Heap, Trie",52.1%,Medium,12.249,https://leetcode.com/problems/top-k-frequent-words
+706,Design HashMap,"Hash Table, Design",61.6%,Easy,25.1968,https://leetcode.com/problems/design-hashmap
+713,Subarray Product Less Than K,"Array, Two Pointers",39.2%,Medium,66.4356,https://leetcode.com/problems/subarray-product-less-than-k
+724,Find Pivot Index,Array,44.2%,Easy,18.2685,https://leetcode.com/problems/find-pivot-index
+739,Daily Temperatures,"Hash Table, Stack",63.7%,Medium,5.8996,https://leetcode.com/problems/daily-temperatures
+884,Uncommon Words from Two Sentences,Hash Table,63.4%,Easy,27.413,https://leetcode.com/problems/uncommon-words-from-two-sentences
+973,K Closest Points to Origin,"Divide and Conquer, Heap, Sort",64.0%,Medium,60.2609,https://leetcode.com/problems/k-closest-points-to-origin
+974,Subarray Sums Divisible by K,"Array, Hash Table",49.1%,Medium,100.0,https://leetcode.com/problems/subarray-sums-divisible-by-k
+1283,Find the Smallest Divisor Given a Threshold,Binary Search,48.8%,Medium,83.3739,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold

@@ -1,0 +1,15 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",30.5%,Medium,6.37193,https://leetcode.com/problems/longest-substring-without-repeating-characters
+20,Valid Parentheses,"String, Stack",39.1%,Easy,3.97697,https://leetcode.com/problems/valid-parentheses
+56,Merge Intervals,"Array, Sort",39.5%,Medium,14.2195,https://leetcode.com/problems/merge-intervals
+78,Subsets,"Array, Backtracking, Bit Manipulation",62.5%,Medium,0.0,https://leetcode.com/problems/subsets
+79,Word Search,"Array, Backtracking",35.8%,Medium,41.4859,https://leetcode.com/problems/word-search
+114,Flatten Binary Tree to Linked List,"Tree, Depth-first Search",49.7%,Medium,66.2649,https://leetcode.com/problems/flatten-binary-tree-to-linked-list
+139,Word Break,Dynamic Programming,40.3%,Medium,0.0,https://leetcode.com/problems/word-break
+340,Longest Substring with At Most K Distinct Characters,"Hash Table, String, Sliding Window",44.3%,Hard,0.0,https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters
+394,Decode String,"Stack, Depth-first Search",50.4%,Medium,13.25,https://leetcode.com/problems/decode-string
+715,Range Module,"Segment Tree, Ordered Map",38.8%,Hard,0.0,https://leetcode.com/problems/range-module
+724,Find Pivot Index,Array,44.2%,Easy,0.0,https://leetcode.com/problems/find-pivot-index
+759,Employee Free Time,"Heap, Greedy",66.5%,Hard,72.7336,https://leetcode.com/problems/employee-free-time
+776,Split BST,"Tree, Recursion",56.0%,Medium,0.0,https://leetcode.com/problems/split-bst
+1296,Divide Array in Sets of K Consecutive Numbers,"Array, Greedy",54.3%,Medium,100.0,https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers

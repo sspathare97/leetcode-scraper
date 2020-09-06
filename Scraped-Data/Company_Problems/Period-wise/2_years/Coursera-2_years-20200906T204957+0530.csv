@@ -1,0 +1,12 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+10,Regular Expression Matching,"String, Dynamic Programming, Backtracking",26.9%,Hard,17.1038,https://leetcode.com/problems/regular-expression-matching
+15,3Sum,"Array, Two Pointers",27.0%,Medium,0.282697,https://leetcode.com/problems/3sum
+44,Wildcard Matching,"String, Dynamic Programming, Backtracking, Greedy",24.8%,Hard,2.78119,https://leetcode.com/problems/wildcard-matching
+68,Text Justification,String,28.0%,Hard,23.3006,https://leetcode.com/problems/text-justification
+239,Sliding Window Maximum,"Heap, Sliding Window",43.4%,Hard,0.878182,https://leetcode.com/problems/sliding-window-maximum
+453,Minimum Moves to Equal Array Elements,Math,50.3%,Easy,15.7856,https://leetcode.com/problems/minimum-moves-to-equal-array-elements
+647,Palindromic Substrings,"String, Dynamic Programming",60.9%,Medium,0.535984,https://leetcode.com/problems/palindromic-substrings
+713,Subarray Product Less Than K,"Array, Two Pointers",39.2%,Medium,27.9141,https://leetcode.com/problems/subarray-product-less-than-k
+761,Special Binary String,"String, Recursion",55.0%,Hard,63.957,https://leetcode.com/problems/special-binary-string
+780,Reaching Points,Math,29.6%,Hard,8.72064,https://leetcode.com/problems/reaching-points
+920,Number of Music Playlists,Dynamic Programming,46.7%,Hard,100.0,https://leetcode.com/problems/number-of-music-playlists

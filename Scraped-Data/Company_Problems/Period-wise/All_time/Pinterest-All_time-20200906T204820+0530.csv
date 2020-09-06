@@ -1,0 +1,40 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+14,Longest Common Prefix,String,35.5%,Easy,0.260266,https://leetcode.com/problems/longest-common-prefix
+56,Merge Intervals,"Array, Sort",39.5%,Medium,1.41061,https://leetcode.com/problems/merge-intervals
+68,Text Justification,String,28.0%,Hard,14.6409,https://leetcode.com/problems/text-justification
+79,Word Search,"Array, Backtracking",35.8%,Medium,4.57039,https://leetcode.com/problems/word-search
+91,Decode Ways,"String, Dynamic Programming",24.9%,Medium,0.669351,https://leetcode.com/problems/decode-ways
+126,Word Ladder II,"Array, String, Backtracking, Breadth-first Search",22.4%,Hard,7.17387,https://leetcode.com/problems/word-ladder-ii
+127,Word Ladder,Breadth-first Search,29.9%,Medium,1.26503,https://leetcode.com/problems/word-ladder
+139,Word Break,Dynamic Programming,40.3%,Medium,0.997313,https://leetcode.com/problems/word-break
+140,Word Break II,"Dynamic Programming, Backtracking",32.9%,Hard,0.402127,https://leetcode.com/problems/word-break-ii
+146,LRU Cache,Design,33.5%,Medium,6.35052,https://leetcode.com/problems/lru-cache
+158,Read N Characters Given Read4 II - Call multiple times,String,34.2%,Hard,5.39866,https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times
+202,Happy Number,"Hash Table, Math",50.6%,Easy,4.29251,https://leetcode.com/problems/happy-number
+208,Implement Trie (Prefix Tree),"Design, Trie",49.9%,Medium,1.16934,https://leetcode.com/problems/implement-trie-prefix-tree
+210,Course Schedule II,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",41.0%,Medium,0.553811,https://leetcode.com/problems/course-schedule-ii
+224,Basic Calculator,"Math, Stack",37.1%,Hard,16.4343,https://leetcode.com/problems/basic-calculator
+239,Sliding Window Maximum,"Heap, Sliding Window",43.4%,Hard,0.246173,https://leetcode.com/problems/sliding-window-maximum
+261,Graph Valid Tree,"Depth-first Search, Breadth-first Search, Union Find, Graph",42.3%,Medium,1.14041,https://leetcode.com/problems/graph-valid-tree
+269,Alien Dictionary,"Graph, Topological Sort",33.3%,Hard,29.1202,https://leetcode.com/problems/alien-dictionary
+277,Find the Celebrity,Array,42.1%,Medium,57.5957,https://leetcode.com/problems/find-the-celebrity
+341,Flatten Nested List Iterator,"Stack, Design",53.1%,Medium,2.72979,https://leetcode.com/problems/flatten-nested-list-iterator
+362,Design Hit Counter,Design,63.9%,Medium,22.581,https://leetcode.com/problems/design-hit-counter
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",47.7%,Medium,0.345082,https://leetcode.com/problems/insert-delete-getrandom-o1
+392,Is Subsequence,"Binary Search, Dynamic Programming, Greedy",49.2%,Easy,3.00688,https://leetcode.com/problems/is-subsequence
+428,Serialize and Deserialize N-ary Tree,Tree,59.6%,Hard,2.01402,https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree
+564,Find the Closest Palindrome,String,19.8%,Hard,10.4572,https://leetcode.com/problems/find-the-closest-palindrome
+571,Find Median Given Frequency of Numbers,,45.0%,Hard,0.0,https://leetcode.com/problems/find-median-given-frequency-of-numbers
+621,Task Scheduler,"Array, Greedy, Queue",50.4%,Medium,0.323381,https://leetcode.com/problems/task-scheduler
+632,Smallest Range Covering Elements from K Lists,"Hash Table, Two Pointers, String",52.7%,Hard,21.1823,https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists
+698,Partition to K Equal Sum Subsets,"Dynamic Programming, Recursion",45.0%,Medium,0.695047,https://leetcode.com/problems/partition-to-k-equal-sum-subsets
+718,Maximum Length of Repeated Subarray,"Array, Hash Table, Binary Search, Dynamic Programming",49.5%,Medium,5.1258,https://leetcode.com/problems/maximum-length-of-repeated-subarray
+720,Longest Word in Dictionary,"Hash Table, Trie",48.4%,Easy,0.0,https://leetcode.com/problems/longest-word-in-dictionary
+726,Number of Atoms,"Hash Table, Stack, Recursion",49.4%,Hard,2.37291,https://leetcode.com/problems/number-of-atoms
+759,Employee Free Time,"Heap, Greedy",66.5%,Hard,100.0,https://leetcode.com/problems/employee-free-time
+770,Basic Calculator IV,"Hash Table, String, Stack",53.0%,Hard,3.86783,https://leetcode.com/problems/basic-calculator-iv
+772,Basic Calculator III,"String, Stack",41.5%,Hard,4.13487,https://leetcode.com/problems/basic-calculator-iii
+811,Subdomain Visit Count,Hash Table,70.1%,Easy,71.5244,https://leetcode.com/problems/subdomain-visit-count
+836,Rectangle Overlap,Math,48.4%,Easy,0.819483,https://leetcode.com/problems/rectangle-overlap
+935,Knight Dialer,Dynamic Programming,45.3%,Medium,1.48011,https://leetcode.com/problems/knight-dialer
+986,Interval List Intersections,Two Pointers,67.5%,Medium,0.434723,https://leetcode.com/problems/interval-list-intersections

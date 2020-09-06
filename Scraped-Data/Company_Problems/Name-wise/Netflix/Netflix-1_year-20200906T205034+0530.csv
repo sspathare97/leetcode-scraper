@@ -1,0 +1,7 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+34,Find First and Last Position of Element in Sorted Array,"Array, Binary Search",36.3%,Medium,11.0023,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+56,Merge Intervals,"Array, Sort",39.5%,Medium,8.82926,https://leetcode.com/problems/merge-intervals
+155,Min Stack,"Stack, Design",44.8%,Easy,12.2072,https://leetcode.com/problems/min-stack
+295,Find Median from Data Stream,"Heap, Design",44.8%,Hard,25.3193,https://leetcode.com/problems/find-median-from-data-stream
+362,Design Hit Counter,Design,63.9%,Medium,62.6596,https://leetcode.com/problems/design-hit-counter
+981,Time Based Key-Value Store,"Hash Table, Binary Search",53.1%,Medium,100.0,https://leetcode.com/problems/time-based-key-value-store

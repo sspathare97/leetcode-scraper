@@ -1,0 +1,24 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,0.334161,https://leetcode.com/problems/two-sum
+21,Merge Two Sorted Lists,Linked List,53.9%,Easy,0.570203,https://leetcode.com/problems/merge-two-sorted-lists
+23,Merge k Sorted Lists,"Linked List, Divide and Conquer, Heap",40.6%,Hard,1.1305,https://leetcode.com/problems/merge-k-sorted-lists
+68,Text Justification,String,28.0%,Hard,17.0318,https://leetcode.com/problems/text-justification
+85,Maximal Rectangle,"Array, Hash Table, Dynamic Programming, Stack",38.0%,Hard,5.34821,https://leetcode.com/problems/maximal-rectangle
+224,Basic Calculator,"Math, Stack",37.1%,Hard,72.2987,https://leetcode.com/problems/basic-calculator
+227,Basic Calculator II,String,37.1%,Medium,1.61066,https://leetcode.com/problems/basic-calculator-ii
+228,Summary Ranges,Array,39.7%,Medium,8.68648,https://leetcode.com/problems/summary-ranges
+295,Find Median from Data Stream,"Heap, Design",44.8%,Hard,0.644142,https://leetcode.com/problems/find-median-from-data-stream
+297,Serialize and Deserialize Binary Tree,"Tree, Design",47.8%,Hard,0.484406,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+346,Moving Average from Data Stream,"Design, Queue",71.3%,Easy,4.78244,https://leetcode.com/problems/moving-average-from-data-stream
+349,Intersection of Two Arrays,"Hash Table, Two Pointers, Binary Search, Sort",62.9%,Easy,2.13098,https://leetcode.com/problems/intersection-of-two-arrays
+362,Design Hit Counter,Design,63.9%,Medium,6.18979,https://leetcode.com/problems/design-hit-counter
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",47.7%,Medium,2.61678,https://leetcode.com/problems/insert-delete-getrandom-o1
+480,Sliding Window Median,Sliding Window,37.5%,Hard,2.57626,https://leetcode.com/problems/sliding-window-median
+560,Subarray Sum Equals K,"Array, Hash Table",43.8%,Medium,0.267705,https://leetcode.com/problems/subarray-sum-equals-k
+563,Binary Tree Tilt,Tree,48.8%,Easy,2.1194,https://leetcode.com/problems/binary-tree-tilt
+718,Maximum Length of Repeated Subarray,"Array, Hash Table, Binary Search, Dynamic Programming",49.5%,Medium,44.733,https://leetcode.com/problems/maximum-length-of-repeated-subarray
+724,Find Pivot Index,Array,44.2%,Easy,0.7948,https://leetcode.com/problems/find-pivot-index
+770,Basic Calculator IV,"Hash Table, String, Stack",53.0%,Hard,7.42529,https://leetcode.com/problems/basic-calculator-iv
+811,Subdomain Visit Count,Hash Table,70.1%,Easy,100.0,https://leetcode.com/problems/subdomain-visit-count
+1143,Longest Common Subsequence,Dynamic Programming,58.4%,Medium,0.580927,https://leetcode.com/problems/longest-common-subsequence
+1197,Minimum Knight Moves,Breadth-first Search,36.1%,Medium,3.51538,https://leetcode.com/problems/minimum-knight-moves

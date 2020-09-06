@@ -1,0 +1,13 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,3.89067,https://leetcode.com/problems/two-sum
+42,Trapping Rain Water,"Array, Two Pointers, Stack",49.2%,Hard,6.45556,https://leetcode.com/problems/trapping-rain-water
+49,Group Anagrams,"Hash Table, String",57.3%,Medium,8.21776,https://leetcode.com/problems/group-anagrams
+127,Word Ladder,Breadth-first Search,29.9%,Medium,6.17178,https://leetcode.com/problems/word-ladder
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,4.87792,https://leetcode.com/problems/number-of-islands
+230,Kth Smallest Element in a BST,"Binary Search, Tree",60.6%,Medium,0.575248,https://leetcode.com/problems/kth-smallest-element-in-a-bst
+322,Coin Change,Dynamic Programming,35.8%,Medium,1.97378,https://leetcode.com/problems/coin-change
+362,Design Hit Counter,Design,63.9%,Medium,17.4912,https://leetcode.com/problems/design-hit-counter
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",47.7%,Medium,19.836,https://leetcode.com/problems/insert-delete-getrandom-o1
+381,Insert Delete GetRandom O(1) - Duplicates allowed,"Array, Hash Table, Design",34.2%,Hard,70.3124,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed
+695,Max Area of Island,"Array, Depth-first Search",63.0%,Medium,49.5236,https://leetcode.com/problems/max-area-of-island
+736,Parse Lisp Expression,String,47.6%,Hard,100.0,https://leetcode.com/problems/parse-lisp-expression

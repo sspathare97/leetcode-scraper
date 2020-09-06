@@ -1,0 +1,14 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+33,Search in Rotated Sorted Array,"Array, Binary Search",34.7%,Medium,1.75092,https://leetcode.com/problems/search-in-rotated-sorted-array
+41,First Missing Positive,Array,32.2%,Hard,3.64902,https://leetcode.com/problems/first-missing-positive
+56,Merge Intervals,"Array, Sort",39.5%,Medium,7.01051,https://leetcode.com/problems/merge-intervals
+146,LRU Cache,Design,33.5%,Medium,2.45388,https://leetcode.com/problems/lru-cache
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,15.9671,https://leetcode.com/problems/number-of-islands
+695,Max Area of Island,"Array, Depth-first Search",63.0%,Medium,66.6104,https://leetcode.com/problems/max-area-of-island
+723,Candy Crush,"Array, Two Pointers",69.9%,Medium,33.2208,https://leetcode.com/problems/candy-crush
+767,Reorganize String,"String, Heap, Greedy, Sort",48.9%,Medium,2.57643,https://leetcode.com/problems/reorganize-string
+828,Count Unique Characters of All Substrings of a Given String,Two Pointers,45.7%,Hard,100.0,https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string
+977,Squares of a Sorted Array,"Array, Two Pointers",72.2%,Easy,3.47398,https://leetcode.com/problems/squares-of-a-sorted-array
+1230,Toss Strange Coins,"Math, Dynamic Programming",48.9%,Medium,0.0,https://leetcode.com/problems/toss-strange-coins
+1435,Create a Session Bar Chart,,76.9%,Easy,0.0,https://leetcode.com/problems/create-a-session-bar-chart
+1500,Design a File Sharing System,Array,45.1%,Medium,0.0,https://leetcode.com/problems/design-a-file-sharing-system

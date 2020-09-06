@@ -1,0 +1,28 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,100.0,https://leetcode.com/problems/two-sum
+4,Median of Two Sorted Arrays,"Array, Binary Search, Divide and Conquer",29.8%,Hard,39.1765,https://leetcode.com/problems/median-of-two-sorted-arrays
+5,Longest Palindromic Substring,"String, Dynamic Programming",29.6%,Medium,76.8267,https://leetcode.com/problems/longest-palindromic-substring
+8,String to Integer (atoi),"Math, String",15.4%,Medium,55.3954,https://leetcode.com/problems/string-to-integer-atoi
+15,3Sum,"Array, Two Pointers",27.0%,Medium,5.39191,https://leetcode.com/problems/3sum
+20,Valid Parentheses,"String, Stack",39.1%,Easy,14.9379,https://leetcode.com/problems/valid-parentheses
+21,Merge Two Sorted Lists,Linked List,53.9%,Easy,38.168,https://leetcode.com/problems/merge-two-sorted-lists
+33,Search in Rotated Sorted Array,"Array, Binary Search",34.7%,Medium,12.1095,https://leetcode.com/problems/search-in-rotated-sorted-array
+56,Merge Intervals,"Array, Sort",39.5%,Medium,0.506083,https://leetcode.com/problems/merge-intervals
+76,Minimum Window Substring,"Hash Table, Two Pointers, String, Sliding Window",34.9%,Hard,2.10885,https://leetcode.com/problems/minimum-window-substring
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",50.6%,Easy,6.31256,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+136,Single Number,"Hash Table, Bit Manipulation",65.7%,Easy,13.0304,https://leetcode.com/problems/single-number
+143,Reorder List,Linked List,39.0%,Medium,1.40318,https://leetcode.com/problems/reorder-list
+160,Intersection of Two Linked Lists,Linked List,41.1%,Easy,20.7424,https://leetcode.com/problems/intersection-of-two-linked-lists
+169,Majority Element,"Array, Divide and Conquer, Bit Manipulation",58.9%,Easy,81.7632,https://leetcode.com/problems/majority-element
+190,Reverse Bits,Bit Manipulation,40.2%,Easy,1.90269,https://leetcode.com/problems/reverse-bits
+206,Reverse Linked List,Linked List,63.0%,Easy,58.5898,https://leetcode.com/problems/reverse-linked-list
+215,Kth Largest Element in an Array,"Divide and Conquer, Heap",55.8%,Medium,37.8701,https://leetcode.com/problems/kth-largest-element-in-an-array
+227,Basic Calculator II,String,37.1%,Medium,1.62209,https://leetcode.com/problems/basic-calculator-ii
+240,Search a 2D Matrix II,"Binary Search, Divide and Conquer",43.3%,Medium,6.8657,https://leetcode.com/problems/search-a-2d-matrix-ii
+256,Paint House,Dynamic Programming,52.2%,Easy,6.39023,https://leetcode.com/problems/paint-house
+287,Find the Duplicate Number,"Array, Two Pointers, Binary Search",55.9%,Medium,4.90957,https://leetcode.com/problems/find-the-duplicate-number
+394,Decode String,"Stack, Depth-first Search",50.4%,Medium,4.19881,https://leetcode.com/problems/decode-string
+543,Diameter of Binary Tree,Tree,48.6%,Easy,4.97688,https://leetcode.com/problems/diameter-of-binary-tree
+546,Remove Boxes,"Dynamic Programming, Depth-first Search",43.1%,Hard,0.0,https://leetcode.com/problems/remove-boxes
+625,Minimum Factorization,"Math, Recursion",32.8%,Medium,0.0,https://leetcode.com/problems/minimum-factorization
+1143,Longest Common Subsequence,Dynamic Programming,58.4%,Medium,2.93132,https://leetcode.com/problems/longest-common-subsequence

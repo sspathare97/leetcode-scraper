@@ -1,0 +1,13 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+68,Text Justification,String,28.0%,Hard,27.2524,https://leetcode.com/problems/text-justification
+79,Word Search,"Array, Backtracking",35.8%,Medium,2.82086,https://leetcode.com/problems/word-search
+146,LRU Cache,Design,33.5%,Medium,1.05766,https://leetcode.com/problems/lru-cache
+208,Implement Trie (Prefix Tree),"Design, Trie",49.9%,Medium,1.92491,https://leetcode.com/problems/implement-trie-prefix-tree
+269,Alien Dictionary,"Graph, Topological Sort",33.3%,Hard,3.05488,https://leetcode.com/problems/alien-dictionary
+277,Find the Celebrity,Array,42.1%,Medium,23.9238,https://leetcode.com/problems/find-the-celebrity
+362,Design Hit Counter,Design,63.9%,Medium,32.123,https://leetcode.com/problems/design-hit-counter
+621,Task Scheduler,"Array, Greedy, Queue",50.4%,Medium,2.10649,https://leetcode.com/problems/task-scheduler
+698,Partition to K Equal Sum Subsets,"Dynamic Programming, Recursion",45.0%,Medium,4.5275,https://leetcode.com/problems/partition-to-k-equal-sum-subsets
+759,Employee Free Time,"Heap, Greedy",66.5%,Hard,100.0,https://leetcode.com/problems/employee-free-time
+811,Subdomain Visit Count,Hash Table,70.1%,Easy,66.0615,https://leetcode.com/problems/subdomain-visit-count
+986,Interval List Intersections,Two Pointers,67.5%,Medium,2.83176,https://leetcode.com/problems/interval-list-intersections

@@ -1,0 +1,6 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+20,Valid Parentheses,"String, Stack",39.1%,Easy,7.268,https://leetcode.com/problems/valid-parentheses
+41,First Missing Positive,Array,32.2%,Hard,13.4331,https://leetcode.com/problems/first-missing-positive
+146,LRU Cache,Design,33.5%,Medium,16.0039,https://leetcode.com/problems/lru-cache
+1189,Maximum Number of Balloons,"Hash Table, String",61.2%,Easy,100.0,https://leetcode.com/problems/maximum-number-of-balloons
+1239,Maximum Length of a Concatenated String with Unique Characters,"Backtracking, Bit Manipulation",48.0%,Medium,58.0019,https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters

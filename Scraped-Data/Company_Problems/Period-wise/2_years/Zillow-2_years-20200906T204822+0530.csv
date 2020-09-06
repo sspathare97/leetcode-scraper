@@ -1,0 +1,38 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,2.34389,https://leetcode.com/problems/two-sum
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",30.5%,Medium,4.39642,https://leetcode.com/problems/longest-substring-without-repeating-characters
+4,Median of Two Sorted Arrays,"Array, Binary Search, Divide and Conquer",29.8%,Hard,10.4701,https://leetcode.com/problems/median-of-two-sorted-arrays
+8,String to Integer (atoi),"Math, String",15.4%,Medium,2.8663,https://leetcode.com/problems/string-to-integer-atoi
+13,Roman to Integer,"Math, String",55.9%,Easy,2.51961,https://leetcode.com/problems/roman-to-integer
+20,Valid Parentheses,"String, Stack",39.1%,Easy,6.1642,https://leetcode.com/problems/valid-parentheses
+23,Merge k Sorted Lists,"Linked List, Divide and Conquer, Heap",40.6%,Hard,3.11199,https://leetcode.com/problems/merge-k-sorted-lists
+33,Search in Rotated Sorted Array,"Array, Binary Search",34.7%,Medium,5.46674,https://leetcode.com/problems/search-in-rotated-sorted-array
+43,Multiply Strings,"Math, String",34.1%,Medium,28.3716,https://leetcode.com/problems/multiply-strings
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",46.7%,Easy,6.01497,https://leetcode.com/problems/maximum-subarray
+79,Word Search,"Array, Backtracking",35.8%,Medium,9.10438,https://leetcode.com/problems/word-search
+112,Path Sum,"Tree, Depth-first Search",41.4%,Easy,14.7339,https://leetcode.com/problems/path-sum
+113,Path Sum II,"Tree, Depth-first Search",47.1%,Medium,14.3226,https://leetcode.com/problems/path-sum-ii
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",50.6%,Easy,3.46423,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+127,Word Ladder,Breadth-first Search,29.9%,Medium,17.1165,https://leetcode.com/problems/word-ladder
+139,Word Break,Dynamic Programming,40.3%,Medium,3.38956,https://leetcode.com/problems/word-break
+140,Word Break II,"Dynamic Programming, Backtracking",32.9%,Hard,8.45426,https://leetcode.com/problems/word-break-ii
+146,LRU Cache,Design,33.5%,Medium,100.0,https://leetcode.com/problems/lru-cache
+150,Evaluate Reverse Polish Notation,Stack,36.6%,Medium,11.1829,https://leetcode.com/problems/evaluate-reverse-polish-notation
+151,Reverse Words in a String,String,22.1%,Medium,6.82998,https://leetcode.com/problems/reverse-words-in-a-string
+212,Word Search II,"Backtracking, Trie",35.1%,Hard,6.85052,https://leetcode.com/problems/word-search-ii
+236,Lowest Common Ancestor of a Binary Tree,Tree,46.2%,Medium,87.3125,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+268,Missing Number,"Array, Math, Bit Manipulation",51.9%,Easy,3.66011,https://leetcode.com/problems/missing-number
+273,Integer to English Words,"Math, String",27.2%,Hard,83.2106,https://leetcode.com/problems/integer-to-english-words
+283,Move Zeroes,"Array, Two Pointers",58.0%,Easy,2.08199,https://leetcode.com/problems/move-zeroes
+285,Inorder Successor in BST,Tree,40.8%,Medium,15.8756,https://leetcode.com/problems/inorder-successor-in-bst
+289,Game of Life,Array,54.9%,Medium,12.5788,https://leetcode.com/problems/game-of-life
+299,Bulls and Cows,Hash Table,42.5%,Easy,28.2212,https://leetcode.com/problems/bulls-and-cows
+353,Design Snake Game,"Design, Queue",34.4%,Medium,50.1073,https://leetcode.com/problems/design-snake-game
+362,Design Hit Counter,Design,63.9%,Medium,17.4576,https://leetcode.com/problems/design-hit-counter
+387,First Unique Character in a String,"Hash Table, String",53.4%,Easy,92.3812,https://leetcode.com/problems/first-unique-character-in-a-string
+437,Path Sum III,Tree,47.3%,Medium,6.26222,https://leetcode.com/problems/path-sum-iii
+443,String Compression,String,41.5%,Easy,40.4615,https://leetcode.com/problems/string-compression
+449,Serialize and Deserialize BST,Tree,52.3%,Medium,45.7382,https://leetcode.com/problems/serialize-and-deserialize-bst
+528,Random Pick with Weight,"Binary Search, Random",44.1%,Medium,12.1149,https://leetcode.com/problems/random-pick-with-weight
+739,Daily Temperatures,"Hash Table, Stack",63.7%,Medium,14.0761,https://leetcode.com/problems/daily-temperatures
+981,Time Based Key-Value Store,"Hash Table, Binary Search",53.1%,Medium,66.6589,https://leetcode.com/problems/time-based-key-value-store

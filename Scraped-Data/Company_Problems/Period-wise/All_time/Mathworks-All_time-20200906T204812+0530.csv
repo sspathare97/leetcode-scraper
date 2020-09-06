@@ -1,0 +1,43 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,1.27724,https://leetcode.com/problems/two-sum
+2,Add Two Numbers,"Linked List, Math",34.1%,Medium,0.915073,https://leetcode.com/problems/add-two-numbers
+5,Longest Palindromic Substring,"String, Dynamic Programming",29.6%,Medium,0.222731,https://leetcode.com/problems/longest-palindromic-substring
+15,3Sum,"Array, Two Pointers",27.0%,Medium,0.632507,https://leetcode.com/problems/3sum
+20,Valid Parentheses,"String, Stack",39.1%,Easy,10.3574,https://leetcode.com/problems/valid-parentheses
+23,Merge k Sorted Lists,"Linked List, Divide and Conquer, Heap",40.6%,Hard,0.190481,https://leetcode.com/problems/merge-k-sorted-lists
+25,Reverse Nodes in k-Group,Linked List,42.5%,Hard,62.5067,https://leetcode.com/problems/reverse-nodes-in-k-group
+43,Multiply Strings,"Math, String",34.1%,Medium,0.439585,https://leetcode.com/problems/multiply-strings
+49,Group Anagrams,"Hash Table, String",57.3%,Medium,2.09342,https://leetcode.com/problems/group-anagrams
+62,Unique Paths,"Array, Dynamic Programming",54.4%,Medium,2.62244,https://leetcode.com/problems/unique-paths
+63,Unique Paths II,"Array, Dynamic Programming",34.7%,Medium,13.0921,https://leetcode.com/problems/unique-paths-ii
+98,Validate Binary Search Tree,"Tree, Depth-first Search",27.9%,Medium,0.82604,https://leetcode.com/problems/validate-binary-search-tree
+102,Binary Tree Level Order Traversal,"Tree, Breadth-first Search",54.9%,Medium,0.167381,https://leetcode.com/problems/binary-tree-level-order-traversal
+106,Construct Binary Tree from Inorder and Postorder Traversal,"Array, Tree, Depth-first Search",47.6%,Medium,1.3409,https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal
+115,Distinct Subsequences,"String, Dynamic Programming",38.5%,Hard,18.6129,https://leetcode.com/problems/distinct-subsequences
+133,Clone Graph,"Depth-first Search, Breadth-first Search, Graph",35.4%,Medium,2.17854,https://leetcode.com/problems/clone-graph
+199,Binary Tree Right Side View,"Tree, Depth-first Search, Breadth-first Search",54.4%,Medium,8.7719,https://leetcode.com/problems/binary-tree-right-side-view
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,3.6702,https://leetcode.com/problems/number-of-islands
+206,Reverse Linked List,Linked List,63.0%,Easy,27.1065,https://leetcode.com/problems/reverse-linked-list
+225,Implement Stack using Queues,"Stack, Design",45.7%,Easy,2.30715,https://leetcode.com/problems/implement-stack-using-queues
+232,Implement Queue using Stacks,"Stack, Design",50.1%,Easy,4.87811,https://leetcode.com/problems/implement-queue-using-stacks
+255,Verify Preorder Sequence in Binary Search Tree,"Stack, Tree",45.7%,Medium,83.2092,https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree
+259,3Sum Smaller,"Array, Two Pointers",47.8%,Medium,7.63135,https://leetcode.com/problems/3sum-smaller
+314,Binary Tree Vertical Order Traversal,"Depth-first Search, Breadth-first Search",45.5%,Medium,1.57001,https://leetcode.com/problems/binary-tree-vertical-order-traversal
+317,Shortest Distance from All Buildings,Breadth-first Search,41.7%,Hard,37.1447,https://leetcode.com/problems/shortest-distance-from-all-buildings
+319,Bulb Switcher,"Math, Brainteaser",45.3%,Medium,17.5899,https://leetcode.com/problems/bulb-switcher
+338,Counting Bits,"Dynamic Programming, Bit Manipulation",69.7%,Medium,6.03681,https://leetcode.com/problems/counting-bits
+404,Sum of Left Leaves,Tree,52.0%,Easy,0.100679,https://leetcode.com/problems/sum-of-left-leaves
+500,Keyboard Row,Hash Table,64.9%,Easy,48.2803,https://leetcode.com/problems/keyboard-row
+509,Fibonacci Number,Array,67.2%,Easy,0.72732,https://leetcode.com/problems/fibonacci-number
+526,Beautiful Arrangement,Backtracking,58.2%,Medium,66.4185,https://leetcode.com/problems/beautiful-arrangement
+566,Reshape the Matrix,Array,60.6%,Easy,0.0,https://leetcode.com/problems/reshape-the-matrix
+647,Palindromic Substrings,"String, Dynamic Programming",60.9%,Medium,0.970123,https://leetcode.com/problems/palindromic-substrings
+695,Max Area of Island,"Array, Depth-first Search",63.0%,Medium,0.573379,https://leetcode.com/problems/max-area-of-island
+697,Degree of an Array,Array,53.9%,Easy,25.6735,https://leetcode.com/problems/degree-of-an-array
+741,Cherry Pickup,Dynamic Programming,34.0%,Hard,14.2942,https://leetcode.com/problems/cherry-pickup
+836,Rectangle Overlap,Math,48.4%,Easy,1.05455,https://leetcode.com/problems/rectangle-overlap
+1130,Minimum Cost Tree From Leaf Values,"Dynamic Programming, Stack, Tree",66.9%,Medium,100.0,https://leetcode.com/problems/minimum-cost-tree-from-leaf-values
+1163,Last Substring in Lexicographical Order,"String, Suffix Array",34.6%,Hard,60.5493,https://leetcode.com/problems/last-substring-in-lexicographical-order
+1197,Minimum Knight Moves,Breadth-first Search,36.1%,Medium,1.06043,https://leetcode.com/problems/minimum-knight-moves
+1290,Convert Binary Number in a Linked List to Integer,"Linked List, Bit Manipulation",80.7%,Easy,1.50044,https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer
+1319,Number of Operations to Make Network Connected,"Depth-first Search, Breadth-first Search, Union Find",53.7%,Medium,2.07683,https://leetcode.com/problems/number-of-operations-to-make-network-connected

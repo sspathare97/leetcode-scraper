@@ -1,0 +1,13 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,6.46251,https://leetcode.com/problems/two-sum
+17,Letter Combinations of a Phone Number,"String, Backtracking",47.1%,Medium,34.9805,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+26,Remove Duplicates from Sorted Array,"Array, Two Pointers",45.4%,Easy,34.1139,https://leetcode.com/problems/remove-duplicates-from-sorted-array
+42,Trapping Rain Water,"Array, Two Pointers, Stack",49.2%,Hard,30.1256,https://leetcode.com/problems/trapping-rain-water
+49,Group Anagrams,"Hash Table, String",57.3%,Medium,31.3319,https://leetcode.com/problems/group-anagrams
+56,Merge Intervals,"Array, Sort",39.5%,Medium,27.1018,https://leetcode.com/problems/merge-intervals
+127,Word Ladder,Breadth-first Search,29.9%,Medium,47.5,https://leetcode.com/problems/word-ladder
+238,Product of Array Except Self,Array,60.3%,Medium,30.7784,https://leetcode.com/problems/product-of-array-except-self
+344,Reverse String,"Two Pointers, String",68.8%,Easy,26.7493,https://leetcode.com/problems/reverse-string
+387,First Unique Character in a String,"Hash Table, String",53.4%,Easy,79.2514,https://leetcode.com/problems/first-unique-character-in-a-string
+653,Two Sum IV - Input is a BST,Tree,55.6%,Easy,100.0,https://leetcode.com/problems/two-sum-iv-input-is-a-bst
+1290,Convert Binary Number in a Linked List to Integer,"Linked List, Bit Manipulation",80.7%,Easy,68.2486,https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer

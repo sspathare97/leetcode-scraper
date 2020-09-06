@@ -1,0 +1,12 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+21,Merge Two Sorted Lists,Linked List,53.9%,Easy,4.17021,https://leetcode.com/problems/merge-two-sorted-lists
+49,Group Anagrams,"Hash Table, String",57.3%,Medium,7.57602,https://leetcode.com/problems/group-anagrams
+56,Merge Intervals,"Array, Sort",39.5%,Medium,26.1003,https://leetcode.com/problems/merge-intervals
+150,Evaluate Reverse Polish Notation,Stack,36.6%,Medium,29.7912,https://leetcode.com/problems/evaluate-reverse-polish-notation
+206,Reverse Linked List,Linked List,63.0%,Easy,4.27883,https://leetcode.com/problems/reverse-linked-list
+279,Perfect Squares,"Math, Dynamic Programming, Breadth-first Search",47.6%,Medium,17.0497,https://leetcode.com/problems/perfect-squares
+281,Zigzag Iterator,Design,58.6%,Medium,100.0,https://leetcode.com/problems/zigzag-iterator
+283,Move Zeroes,"Array, Two Pointers",58.0%,Easy,49.4374,https://leetcode.com/problems/move-zeroes
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",47.7%,Medium,43.2573,https://leetcode.com/problems/insert-delete-getrandom-o1
+487,Max Consecutive Ones II,Two Pointers,48.4%,Medium,74.7187,https://leetcode.com/problems/max-consecutive-ones-ii
+567,Permutation in String,"Two Pointers, Sliding Window",44.4%,Medium,28.4323,https://leetcode.com/problems/permutation-in-string

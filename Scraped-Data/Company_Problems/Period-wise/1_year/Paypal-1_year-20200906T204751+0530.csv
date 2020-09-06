@@ -1,0 +1,32 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,0.389978,https://leetcode.com/problems/two-sum
+2,Add Two Numbers,"Linked List, Math",34.1%,Medium,0.817009,https://leetcode.com/problems/add-two-numbers
+5,Longest Palindromic Substring,"String, Dynamic Programming",29.6%,Medium,0.269403,https://leetcode.com/problems/longest-palindromic-substring
+6,ZigZag Conversion,String,36.6%,Medium,2.13194,https://leetcode.com/problems/zigzag-conversion
+12,Integer to Roman,"Math, String",55.3%,Medium,2.37592,https://leetcode.com/problems/integer-to-roman
+15,3Sum,"Array, Two Pointers",27.0%,Medium,0.276492,https://leetcode.com/problems/3sum
+20,Valid Parentheses,"String, Stack",39.1%,Easy,2.29728,https://leetcode.com/problems/valid-parentheses
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",46.7%,Easy,0.563802,https://leetcode.com/problems/maximum-subarray
+56,Merge Intervals,"Array, Sort",39.5%,Medium,4.93428,https://leetcode.com/problems/merge-intervals
+68,Text Justification,String,28.0%,Hard,3.80232,https://leetcode.com/problems/text-justification
+73,Set Matrix Zeroes,Array,43.3%,Medium,1.9664,https://leetcode.com/problems/set-matrix-zeroes
+75,Sort Colors,"Array, Two Pointers, Sort",47.6%,Medium,0.624218,https://leetcode.com/problems/sort-colors
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",50.6%,Easy,0.256458,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+128,Longest Consecutive Sequence,"Array, Union Find",45.3%,Hard,1.09458,https://leetcode.com/problems/longest-consecutive-sequence
+146,LRU Cache,Design,33.5%,Medium,1.27473,https://leetcode.com/problems/lru-cache
+189,Rotate Array,Array,35.0%,Easy,0.497082,https://leetcode.com/problems/rotate-array
+227,Basic Calculator II,String,37.1%,Medium,1.31183,https://leetcode.com/problems/basic-calculator-ii
+238,Product of Array Except Self,Array,60.3%,Medium,0.464807,https://leetcode.com/problems/product-of-array-except-self
+242,Valid Anagram,"Hash Table, Sort",57.1%,Easy,0.520668,https://leetcode.com/problems/valid-anagram
+243,Shortest Word Distance,Array,61.1%,Easy,5.59533,https://leetcode.com/problems/shortest-word-distance
+283,Move Zeroes,"Array, Two Pointers",58.0%,Easy,0.346403,https://leetcode.com/problems/move-zeroes
+322,Coin Change,Dynamic Programming,35.8%,Medium,0.440903,https://leetcode.com/problems/coin-change
+324,Wiggle Sort II,Sort,30.0%,Medium,4.07492,https://leetcode.com/problems/wiggle-sort-ii
+876,Middle of the Linked List,Linked List,68.6%,Easy,0.861494,https://leetcode.com/problems/middle-of-the-linked-list
+977,Squares of a Sorted Array,"Array, Two Pointers",72.2%,Easy,1.80465,https://leetcode.com/problems/squares-of-a-sorted-array
+1010,Pairs of Songs With Total Durations Divisible by 60,Array,47.3%,Easy,4.60293,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60
+1041,Robot Bounded In Circle,Math,50.3%,Medium,22.1932,https://leetcode.com/problems/robot-bounded-in-circle
+1297,Maximum Number of Occurrences of a Substring,"String, Bit Manipulation",47.9%,Medium,8.78815,https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring
+1411,Number of Ways to Paint N × 3 Grid,Dynamic Programming,61.1%,Hard,10.3205,https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid
+1473,Paint House III,Dynamic Programming,48.5%,Hard,100.0,https://leetcode.com/problems/paint-house-iii
+1497,Check If Array Pairs Are Divisible by k,"Array, Math, Greedy",40.7%,Medium,61.0966,https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k

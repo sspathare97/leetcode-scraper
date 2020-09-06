@@ -1,0 +1,9 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+10,Regular Expression Matching,"String, Dynamic Programming, Backtracking",26.9%,Hard,2.76781,https://leetcode.com/problems/regular-expression-matching
+41,First Missing Positive,Array,32.2%,Hard,1.19261,https://leetcode.com/problems/first-missing-positive
+133,Clone Graph,"Depth-first Search, Breadth-first Search, Graph",35.4%,Medium,1.35992,https://leetcode.com/problems/clone-graph
+347,Top K Frequent Elements,"Hash Table, Heap",61.4%,Medium,0.974557,https://leetcode.com/problems/top-k-frequent-elements
+366,Find Leaves of Binary Tree,"Tree, Depth-first Search",70.8%,Medium,48.9806,https://leetcode.com/problems/find-leaves-of-binary-tree
+547,Friend Circles,"Depth-first Search, Union Find",58.9%,Medium,53.7872,https://leetcode.com/problems/friend-circles
+740,Delete and Earn,Dynamic Programming,48.7%,Medium,100.0,https://leetcode.com/problems/delete-and-earn
+1010,Pairs of Songs With Total Durations Divisible by 60,Array,47.3%,Easy,49.768,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60

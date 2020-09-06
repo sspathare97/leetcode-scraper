@@ -1,0 +1,25 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,79.4415,https://leetcode.com/problems/two-sum
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",30.5%,Medium,9.72183,https://leetcode.com/problems/longest-substring-without-repeating-characters
+5,Longest Palindromic Substring,"String, Dynamic Programming",29.6%,Medium,9.92855,https://leetcode.com/problems/longest-palindromic-substring
+15,3Sum,"Array, Two Pointers",27.0%,Medium,25.8404,https://leetcode.com/problems/3sum
+18,4Sum,"Array, Hash Table, Two Pointers",33.8%,Medium,16.9668,https://leetcode.com/problems/4sum
+21,Merge Two Sorted Lists,Linked List,53.9%,Easy,3.46873,https://leetcode.com/problems/merge-two-sorted-lists
+22,Generate Parentheses,"String, Backtracking",63.1%,Medium,12.7014,https://leetcode.com/problems/generate-parentheses
+31,Next Permutation,Array,32.7%,Medium,37.189,https://leetcode.com/problems/next-permutation
+32,Longest Valid Parentheses,"String, Dynamic Programming",28.5%,Hard,25.6853,https://leetcode.com/problems/longest-valid-parentheses
+33,Search in Rotated Sorted Array,"Array, Binary Search",34.7%,Medium,14.8878,https://leetcode.com/problems/search-in-rotated-sorted-array
+85,Maximal Rectangle,"Array, Hash Table, Dynamic Programming, Stack",38.0%,Hard,57.7475,https://leetcode.com/problems/maximal-rectangle
+103,Binary Tree Zigzag Level Order Traversal,"Stack, Tree, Breadth-first Search",48.6%,Medium,26.59,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+127,Word Ladder,Breadth-first Search,29.9%,Medium,4.25084,https://leetcode.com/problems/word-ladder
+190,Reverse Bits,Bit Manipulation,40.2%,Easy,35.8963,https://leetcode.com/problems/reverse-bits
+312,Burst Balloons,"Divide and Conquer, Dynamic Programming",52.1%,Hard,100.0,https://leetcode.com/problems/burst-balloons
+523,Continuous Subarray Sum,"Math, Dynamic Programming",24.6%,Medium,8.71511,https://leetcode.com/problems/continuous-subarray-sum
+572,Subtree of Another Tree,Tree,44.2%,Easy,64.6422,https://leetcode.com/problems/subtree-of-another-tree
+653,Two Sum IV - Input is a BST,Tree,55.6%,Easy,0.0,https://leetcode.com/problems/two-sum-iv-input-is-a-bst
+876,Middle of the Linked List,Linked List,68.6%,Easy,11.4433,https://leetcode.com/problems/middle-of-the-linked-list
+987,Vertical Order Traversal of a Binary Tree,"Hash Table, Tree",36.5%,Medium,0.0,https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree
+1139,Largest 1-Bordered Square,Dynamic Programming,47.7%,Medium,0.0,https://leetcode.com/problems/largest-1-bordered-square
+1301,Number of Paths with Max Score,Dynamic Programming,37.5%,Hard,0.0,https://leetcode.com/problems/number-of-paths-with-max-score
+1464,Maximum Product of Two Elements in an Array,Array,77.8%,Easy,0.0,https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array
+1519,Number of Nodes in the Sub-Tree With the Same Label,"Depth-first Search, Breadth-first Search",35.5%,Medium,0.0,https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label

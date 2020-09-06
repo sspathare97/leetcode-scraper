@@ -1,0 +1,19 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+15,3Sum,"Array, Two Pointers",27.0%,Medium,11.192,https://leetcode.com/problems/3sum
+26,Remove Duplicates from Sorted Array,"Array, Two Pointers",45.4%,Easy,1.03884,https://leetcode.com/problems/remove-duplicates-from-sorted-array
+49,Group Anagrams,"Hash Table, String",57.3%,Medium,8.53594,https://leetcode.com/problems/group-anagrams
+54,Spiral Matrix,Array,34.3%,Medium,50.2156,https://leetcode.com/problems/spiral-matrix
+139,Word Break,Dynamic Programming,40.3%,Medium,5.7371,https://leetcode.com/problems/word-break
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,24.3121,https://leetcode.com/problems/number-of-islands
+230,Kth Smallest Element in a BST,"Binary Search, Tree",60.6%,Medium,3.61083,https://leetcode.com/problems/kth-smallest-element-in-a-bst
+326,Power of Three,Math,42.1%,Easy,74.0965,https://leetcode.com/problems/power-of-three
+347,Top K Frequent Elements,"Hash Table, Heap",61.4%,Medium,7.02556,https://leetcode.com/problems/top-k-frequent-elements
+371,Sum of Two Integers,Bit Manipulation,50.7%,Medium,10.4307,https://leetcode.com/problems/sum-of-two-integers
+394,Decode String,"Stack, Depth-first Search",50.4%,Medium,8.70262,https://leetcode.com/problems/decode-string
+440,K-th Smallest in Lexicographical Order,,29.2%,Hard,0.0,https://leetcode.com/problems/k-th-smallest-in-lexicographical-order
+772,Basic Calculator III,"String, Stack",41.5%,Hard,0.0,https://leetcode.com/problems/basic-calculator-iii
+814,Binary Tree Pruning,Tree,74.0%,Medium,0.0,https://leetcode.com/problems/binary-tree-pruning
+863,All Nodes Distance K in Binary Tree,"Tree, Depth-first Search, Breadth-first Search",55.8%,Medium,8.43878,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree
+907,Sum of Subarray Minimums,"Array, Stack",32.7%,Medium,17.1765,https://leetcode.com/problems/sum-of-subarray-minimums
+909,Snakes and Ladders,Breadth-first Search,38.8%,Medium,100.0,https://leetcode.com/problems/snakes-and-ladders
+1063,Number of Valid Subarrays,Stack,71.3%,Hard,0.0,https://leetcode.com/problems/number-of-valid-subarrays

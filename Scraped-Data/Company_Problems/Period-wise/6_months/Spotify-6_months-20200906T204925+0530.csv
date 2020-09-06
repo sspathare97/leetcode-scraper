@@ -1,0 +1,11 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",30.5%,Medium,4.19978,https://leetcode.com/problems/longest-substring-without-repeating-characters
+20,Valid Parentheses,"String, Stack",39.1%,Easy,10.4567,https://leetcode.com/problems/valid-parentheses
+22,Generate Parentheses,"String, Backtracking",63.1%,Medium,5.49424,https://leetcode.com/problems/generate-parentheses
+128,Longest Consecutive Sequence,"Array, Union Find",45.3%,Hard,11.1599,https://leetcode.com/problems/longest-consecutive-sequence
+206,Reverse Linked List,Linked List,63.0%,Easy,6.12326,https://leetcode.com/problems/reverse-linked-list
+215,Kth Largest Element in an Array,"Divide and Conquer, Heap",55.8%,Medium,5.43447,https://leetcode.com/problems/kth-largest-element-in-an-array
+286,Walls and Gates,Breadth-first Search,54.9%,Medium,100.0,https://leetcode.com/problems/walls-and-gates
+383,Ransom Note,String,53.1%,Easy,74.506,https://leetcode.com/problems/ransom-note
+480,Sliding Window Median,Sliding Window,37.5%,Hard,47.86,https://leetcode.com/problems/sliding-window-median
+784,Letter Case Permutation,"Backtracking, Bit Manipulation",65.0%,Medium,37.8059,https://leetcode.com/problems/letter-case-permutation

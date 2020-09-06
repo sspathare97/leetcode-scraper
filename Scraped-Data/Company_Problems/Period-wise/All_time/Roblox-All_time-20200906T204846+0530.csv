@@ -1,0 +1,27 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,0.0481897,https://leetcode.com/problems/two-sum
+5,Longest Palindromic Substring,"String, Dynamic Programming",29.6%,Medium,0.530588,https://leetcode.com/problems/longest-palindromic-substring
+17,Letter Combinations of a Phone Number,"String, Backtracking",47.1%,Medium,2.3134,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+36,Valid Sudoku,Hash Table,49.1%,Medium,1.01939,https://leetcode.com/problems/valid-sudoku
+37,Sudoku Solver,"Hash Table, Backtracking",44.0%,Hard,1.14842,https://leetcode.com/problems/sudoku-solver
+146,LRU Cache,Design,33.5%,Medium,4.35789,https://leetcode.com/problems/lru-cache
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,0.168498,https://leetcode.com/problems/number-of-islands
+207,Course Schedule,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",43.3%,Medium,0.726202,https://leetcode.com/problems/course-schedule
+210,Course Schedule II,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",41.0%,Medium,0.426741,https://leetcode.com/problems/course-schedule-ii
+212,Word Search II,"Backtracking, Trie",35.1%,Hard,3.44564,https://leetcode.com/problems/word-search-ii
+224,Basic Calculator,"Math, Stack",37.1%,Hard,69.064,https://leetcode.com/problems/basic-calculator
+239,Sliding Window Maximum,"Heap, Sliding Window",43.4%,Hard,3.73702,https://leetcode.com/problems/sliding-window-maximum
+647,Palindromic Substrings,"String, Dynamic Programming",60.9%,Medium,2.2984,https://leetcode.com/problems/palindromic-substrings
+718,Maximum Length of Repeated Subarray,"Array, Hash Table, Binary Search, Dynamic Programming",49.5%,Medium,1.49376,https://leetcode.com/problems/maximum-length-of-repeated-subarray
+770,Basic Calculator IV,"Hash Table, String, Stack",53.0%,Hard,23.5869,https://leetcode.com/problems/basic-calculator-iv
+811,Subdomain Visit Count,Hash Table,70.1%,Easy,100.0,https://leetcode.com/problems/subdomain-visit-count
+829,Consecutive Numbers Sum,Math,38.1%,Hard,67.8011,https://leetcode.com/problems/consecutive-numbers-sum
+1163,Last Substring in Lexicographical Order,"String, Suffix Array",34.6%,Hard,36.8652,https://leetcode.com/problems/last-substring-in-lexicographical-order
+1248,Count Number of Nice Subarrays,Two Pointers,56.6%,Medium,11.6485,https://leetcode.com/problems/count-number-of-nice-subarrays
+1280,Students and Examinations,,72.8%,Easy,0.0,https://leetcode.com/problems/students-and-examinations
+1282,Group the People Given the Group Size They Belong To,Greedy,84.0%,Medium,0.0,https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to
+1290,Convert Binary Number in a Linked List to Integer,"Linked List, Bit Manipulation",80.7%,Easy,4.45259,https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer
+1297,Maximum Number of Occurrences of a Substring,"String, Bit Manipulation",47.9%,Medium,23.5452,https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring
+1328,Break a Palindrome,String,43.8%,Medium,9.75259,https://leetcode.com/problems/break-a-palindrome
+1364,Number of Trusted Contacts of a Customer,,76.4%,Medium,0.0,https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer
+1552,Magnetic Force Between Two Balls,"Array, Binary Search",47.2%,Medium,0.0,https://leetcode.com/problems/magnetic-force-between-two-balls

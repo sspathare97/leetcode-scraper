@@ -1,0 +1,6 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+56,Merge Intervals,"Array, Sort",39.5%,Medium,10.1207,https://leetcode.com/problems/merge-intervals
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,8.43825,https://leetcode.com/problems/number-of-islands
+695,Max Area of Island,"Array, Depth-first Search",63.0%,Medium,55.6048,https://leetcode.com/problems/max-area-of-island
+723,Candy Crush,"Array, Two Pointers",69.9%,Medium,100.0,https://leetcode.com/problems/candy-crush
+977,Squares of a Sorted Array,"Array, Two Pointers",72.2%,Easy,11.2095,https://leetcode.com/problems/squares-of-a-sorted-array

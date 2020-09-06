@@ -1,0 +1,27 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+10,Regular Expression Matching,"String, Dynamic Programming, Backtracking",26.9%,Hard,1.09015,https://leetcode.com/problems/regular-expression-matching
+17,Letter Combinations of a Phone Number,"String, Backtracking",47.1%,Medium,0.293448,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+20,Valid Parentheses,"String, Stack",39.1%,Easy,0.888385,https://leetcode.com/problems/valid-parentheses
+23,Merge k Sorted Lists,"Linked List, Divide and Conquer, Heap",40.6%,Hard,0.64568,https://leetcode.com/problems/merge-k-sorted-lists
+48,Rotate Image,Array,57.3%,Medium,0.72053,https://leetcode.com/problems/rotate-image
+69,Sqrt(x),"Math, Binary Search",34.1%,Easy,0.353307,https://leetcode.com/problems/sqrtx
+76,Minimum Window Substring,"Hash Table, Two Pointers, String, Sliding Window",34.9%,Hard,5.02565,https://leetcode.com/problems/minimum-window-substring
+88,Merge Sorted Array,"Array, Two Pointers",39.6%,Easy,0.799121,https://leetcode.com/problems/merge-sorted-array
+91,Decode Ways,"String, Dynamic Programming",24.9%,Medium,2.02291,https://leetcode.com/problems/decode-ways
+109,Convert Sorted List to Binary Search Tree,"Linked List, Depth-first Search",48.1%,Medium,6.34276,https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree
+127,Word Ladder,Breadth-first Search,29.9%,Medium,9.40396,https://leetcode.com/problems/word-ladder
+146,LRU Cache,Design,33.5%,Medium,0.315498,https://leetcode.com/problems/lru-cache
+158,Read N Characters Given Read4 II - Call multiple times,String,34.2%,Hard,53.1517,https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times
+238,Product of Array Except Self,Array,60.3%,Medium,63.8654,https://leetcode.com/problems/product-of-array-except-self
+253,Meeting Rooms II,"Heap, Greedy, Sort",45.8%,Medium,1.12111,https://leetcode.com/problems/meeting-rooms-ii
+304,Range Sum Query 2D - Immutable,Dynamic Programming,38.9%,Medium,8.47783,https://leetcode.com/problems/range-sum-query-2d-immutable
+349,Intersection of Two Arrays,"Hash Table, Two Pointers, Binary Search, Sort",62.9%,Easy,0.544775,https://leetcode.com/problems/intersection-of-two-arrays
+365,Water and Jug Problem,Math,30.6%,Medium,56.7658,https://leetcode.com/problems/water-and-jug-problem
+409,Longest Palindrome,Hash Table,51.8%,Easy,1.27733,https://leetcode.com/problems/longest-palindrome
+426,Convert Binary Search Tree to Sorted Doubly Linked List,"Linked List, Divide and Conquer, Tree",59.4%,Medium,6.79818,https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list
+567,Permutation in String,"Two Pointers, Sliding Window",44.4%,Medium,0.986424,https://leetcode.com/problems/permutation-in-string
+642,Design Search Autocomplete System,"Design, Trie",45.0%,Hard,10.0055,https://leetcode.com/problems/design-search-autocomplete-system
+716,Max Stack,Design,42.7%,Easy,46.14,https://leetcode.com/problems/max-stack
+735,Asteroid Collision,Stack,41.1%,Medium,100.0,https://leetcode.com/problems/asteroid-collision
+981,Time Based Key-Value Store,"Hash Table, Binary Search",53.1%,Medium,53.7468,https://leetcode.com/problems/time-based-key-value-store
+1060,Missing Element in Sorted Array,Binary Search,54.5%,Medium,1.49578,https://leetcode.com/problems/missing-element-in-sorted-array

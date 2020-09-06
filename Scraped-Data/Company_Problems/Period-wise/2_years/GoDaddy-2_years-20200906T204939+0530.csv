@@ -1,0 +1,17 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,54.7042,https://leetcode.com/problems/two-sum
+4,Median of Two Sorted Arrays,"Array, Binary Search, Divide and Conquer",29.8%,Hard,15.4059,https://leetcode.com/problems/median-of-two-sorted-arrays
+5,Longest Palindromic Substring,"String, Dynamic Programming",29.6%,Medium,21.3192,https://leetcode.com/problems/longest-palindromic-substring
+20,Valid Parentheses,"String, Stack",39.1%,Easy,56.3147,https://leetcode.com/problems/valid-parentheses
+46,Permutations,Backtracking,64.0%,Medium,18.0628,https://leetcode.com/problems/permutations
+56,Merge Intervals,"Array, Sort",39.5%,Medium,14.412,https://leetcode.com/problems/merge-intervals
+63,Unique Paths II,"Array, Dynamic Programming",34.7%,Medium,39.4006,https://leetcode.com/problems/unique-paths-ii
+76,Minimum Window Substring,"Hash Table, Two Pointers, String, Sliding Window",34.9%,Hard,26.7801,https://leetcode.com/problems/minimum-window-substring
+139,Word Break,Dynamic Programming,40.3%,Medium,19.8585,https://leetcode.com/problems/word-break
+146,LRU Cache,Design,33.5%,Medium,79.5225,https://leetcode.com/problems/lru-cache
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,12.0162,https://leetcode.com/problems/number-of-islands
+253,Meeting Rooms II,"Heap, Greedy, Sort",45.8%,Medium,71.0673,https://leetcode.com/problems/meeting-rooms-ii
+279,Perfect Squares,"Math, Dynamic Programming, Breadth-first Search",47.6%,Medium,37.4962,https://leetcode.com/problems/perfect-squares
+344,Reverse String,"Two Pointers, String",68.8%,Easy,14.2246,https://leetcode.com/problems/reverse-string
+441,Arranging Coins,"Math, Binary Search",41.9%,Easy,94.8261,https://leetcode.com/problems/arranging-coins
+724,Find Pivot Index,Array,44.2%,Easy,100.0,https://leetcode.com/problems/find-pivot-index

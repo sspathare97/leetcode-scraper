@@ -1,0 +1,21 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,0.0408524,https://leetcode.com/problems/two-sum
+2,Add Two Numbers,"Linked List, Math",34.1%,Medium,0.341993,https://leetcode.com/problems/add-two-numbers
+21,Merge Two Sorted Lists,Linked List,53.9%,Easy,0.245022,https://leetcode.com/problems/merge-two-sorted-lists
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",46.7%,Easy,0.938444,https://leetcode.com/problems/maximum-subarray
+66,Plus One,Array,43.0%,Easy,0.184845,https://leetcode.com/problems/plus-one
+98,Validate Binary Search Tree,"Tree, Depth-first Search",27.9%,Medium,0.151385,https://leetcode.com/problems/validate-binary-search-tree
+138,Copy List with Random Pointer,"Hash Table, Linked List",37.0%,Medium,48.7847,https://leetcode.com/problems/copy-list-with-random-pointer
+155,Min Stack,"Stack, Design",44.8%,Easy,0.53163,https://leetcode.com/problems/min-stack
+203,Remove Linked List Elements,Linked List,38.8%,Easy,0.828597,https://leetcode.com/problems/remove-linked-list-elements
+204,Count Primes,"Hash Table, Math",31.6%,Easy,4.38561,https://leetcode.com/problems/count-primes
+228,Summary Ranges,Array,39.7%,Medium,100.0,https://leetcode.com/problems/summary-ranges
+273,Integer to English Words,"Math, String",27.2%,Hard,0.706878,https://leetcode.com/problems/integer-to-english-words
+283,Move Zeroes,"Array, Two Pointers",58.0%,Easy,0.145001,https://leetcode.com/problems/move-zeroes
+290,Word Pattern,Hash Table,37.1%,Easy,54.1538,https://leetcode.com/problems/word-pattern
+322,Coin Change,Dynamic Programming,35.8%,Medium,33.1714,https://leetcode.com/problems/coin-change
+328,Odd Even Linked List,Linked List,56.0%,Medium,54.1435,https://leetcode.com/problems/odd-even-linked-list
+412,Fizz Buzz,,63.2%,Easy,0.628419,https://leetcode.com/problems/fizz-buzz
+482,License Key Formatting,,43.0%,Easy,2.50668,https://leetcode.com/problems/license-key-formatting
+814,Binary Tree Pruning,Tree,74.0%,Medium,73.2008,https://leetcode.com/problems/binary-tree-pruning
+1071,Greatest Common Divisor of Strings,String,52.4%,Easy,6.37217,https://leetcode.com/problems/greatest-common-divisor-of-strings

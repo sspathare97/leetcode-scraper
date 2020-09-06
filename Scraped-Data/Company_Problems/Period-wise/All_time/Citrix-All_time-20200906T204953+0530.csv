@@ -1,0 +1,15 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+15,3Sum,"Array, Two Pointers",27.0%,Medium,0.267838,https://leetcode.com/problems/3sum
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",50.6%,Easy,0.440999,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,1.31132,https://leetcode.com/problems/number-of-islands
+206,Reverse Linked List,Linked List,63.0%,Easy,1.39642,https://leetcode.com/problems/reverse-linked-list
+253,Meeting Rooms II,"Heap, Greedy, Sort",45.8%,Medium,2.38672,https://leetcode.com/problems/meeting-rooms-ii
+273,Integer to English Words,"Math, String",27.2%,Hard,0.727929,https://leetcode.com/problems/integer-to-english-words
+697,Degree of an Array,Array,53.9%,Easy,5.91934,https://leetcode.com/problems/degree-of-an-array
+741,Cherry Pickup,Dynamic Programming,34.0%,Hard,22.8794,https://leetcode.com/problems/cherry-pickup
+761,Special Binary String,"String, Recursion",55.0%,Hard,100.0,https://leetcode.com/problems/special-binary-string
+811,Subdomain Visit Count,Hash Table,70.1%,Easy,64.688,https://leetcode.com/problems/subdomain-visit-count
+829,Consecutive Numbers Sum,Math,38.1%,Hard,1.36506,https://leetcode.com/problems/consecutive-numbers-sum
+1010,Pairs of Songs With Total Durations Divisible by 60,Array,47.3%,Easy,1.98413,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60
+1223,Dice Roll Simulation,Dynamic Programming,46.0%,Medium,3.8477,https://leetcode.com/problems/dice-roll-simulation
+1383,Maximum Performance of a Team,"Greedy, Sort",32.0%,Hard,29.376,https://leetcode.com/problems/maximum-performance-of-a-team

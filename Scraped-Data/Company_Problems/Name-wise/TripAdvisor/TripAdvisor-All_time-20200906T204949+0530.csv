@@ -1,0 +1,17 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+33,Search in Rotated Sorted Array,"Array, Binary Search",34.7%,Medium,13.91,https://leetcode.com/problems/search-in-rotated-sorted-array
+65,Valid Number,"Math, String",15.4%,Hard,37.0804,https://leetcode.com/problems/valid-number
+70,Climbing Stairs,Dynamic Programming,47.9%,Easy,8.0717,https://leetcode.com/problems/climbing-stairs
+73,Set Matrix Zeroes,Array,43.3%,Medium,57.5321,https://leetcode.com/problems/set-matrix-zeroes
+98,Validate Binary Search Tree,"Tree, Depth-first Search",27.9%,Medium,24.1848,https://leetcode.com/problems/validate-binary-search-tree
+101,Symmetric Tree,"Tree, Depth-first Search, Breadth-first Search",47.1%,Easy,9.56949,https://leetcode.com/problems/symmetric-tree
+139,Word Break,Dynamic Programming,40.3%,Medium,3.12247,https://leetcode.com/problems/word-break
+146,LRU Cache,Design,33.5%,Medium,83.548,https://leetcode.com/problems/lru-cache
+149,Max Points on a Line,"Hash Table, Math",17.0%,Hard,100.0,https://leetcode.com/problems/max-points-on-a-line
+206,Reverse Linked List,Linked List,63.0%,Easy,23.3462,https://leetcode.com/problems/reverse-linked-list
+274,H-Index,"Hash Table, Sort",36.3%,Medium,17.3265,https://leetcode.com/problems/h-index
+384,Shuffle an Array,,52.9%,Medium,12.1046,https://leetcode.com/problems/shuffle-an-array
+528,Random Pick with Weight,"Binary Search, Random",44.1%,Medium,43.7214,https://leetcode.com/problems/random-pick-with-weight
+692,Top K Frequent Words,"Hash Table, Heap, Trie",52.1%,Medium,47.0172,https://leetcode.com/problems/top-k-frequent-words
+1002,Find Common Characters,"Array, Hash Table",67.7%,Easy,33.6123,https://leetcode.com/problems/find-common-characters
+1213,Intersection of Three Sorted Arrays,"Hash Table, Two Pointers",78.8%,Easy,67.0959,https://leetcode.com/problems/intersection-of-three-sorted-arrays

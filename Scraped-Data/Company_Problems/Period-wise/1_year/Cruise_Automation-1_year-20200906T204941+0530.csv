@@ -1,0 +1,10 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+23,Merge k Sorted Lists,"Linked List, Divide and Conquer, Heap",40.6%,Hard,9.57263,https://leetcode.com/problems/merge-k-sorted-lists
+36,Valid Sudoku,Hash Table,49.1%,Medium,17.0322,https://leetcode.com/problems/valid-sudoku
+63,Unique Paths II,"Array, Dynamic Programming",34.7%,Medium,20.6868,https://leetcode.com/problems/unique-paths-ii
+79,Word Search,"Array, Backtracking",35.8%,Medium,12.4838,https://leetcode.com/problems/word-search
+146,LRU Cache,Design,33.5%,Medium,59.8473,https://leetcode.com/problems/lru-cache
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,6.30895,https://leetcode.com/problems/number-of-islands
+304,Range Sum Query 2D - Immutable,Dynamic Programming,38.9%,Medium,100.0,https://leetcode.com/problems/range-sum-query-2d-immutable
+529,Minesweeper,"Depth-first Search, Breadth-first Search",59.4%,Medium,90.8794,https://leetcode.com/problems/minesweeper
+695,Max Area of Island,"Array, Depth-first Search",63.0%,Medium,28.8153,https://leetcode.com/problems/max-area-of-island

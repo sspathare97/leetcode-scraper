@@ -1,0 +1,23 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,0.0435144,https://leetcode.com/problems/two-sum
+39,Combination Sum,"Array, Backtracking",56.5%,Medium,7.63828,https://leetcode.com/problems/combination-sum
+42,Trapping Rain Water,"Array, Two Pointers, Stack",49.2%,Hard,0.202847,https://leetcode.com/problems/trapping-rain-water
+68,Text Justification,String,28.0%,Hard,6.52504,https://leetcode.com/problems/text-justification
+166,Fraction to Recurring Decimal,"Hash Table, Math",21.7%,Medium,64.6231,https://leetcode.com/problems/fraction-to-recurring-decimal
+236,Lowest Common Ancestor of a Binary Tree,Tree,46.2%,Medium,0.266888,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+251,Flatten 2D Vector,Design,45.8%,Medium,28.8586,https://leetcode.com/problems/flatten-2d-vector
+269,Alien Dictionary,"Graph, Topological Sort",33.3%,Hard,28.537,https://leetcode.com/problems/alien-dictionary
+280,Wiggle Sort,"Array, Sort",63.9%,Medium,2.64586,https://leetcode.com/problems/wiggle-sort
+322,Coin Change,Dynamic Programming,35.8%,Medium,0.782705,https://leetcode.com/problems/coin-change
+324,Wiggle Sort II,Sort,30.0%,Medium,6.97437,https://leetcode.com/problems/wiggle-sort-ii
+336,Palindrome Pairs,"Hash Table, String, Trie",33.8%,Hard,41.8961,https://leetcode.com/problems/palindrome-pairs
+341,Flatten Nested List Iterator,"Stack, Design",53.1%,Medium,1.09149,https://leetcode.com/problems/flatten-nested-list-iterator
+755,Pour Water,Array,43.5%,Medium,82.3115,https://leetcode.com/problems/pour-water
+759,Employee Free Time,"Heap, Greedy",66.5%,Hard,4.62306,https://leetcode.com/problems/employee-free-time
+773,Sliding Puzzle,Breadth-first Search,59.5%,Hard,42.1916,https://leetcode.com/problems/sliding-puzzle
+787,Cheapest Flights Within K Stops,"Dynamic Programming, Heap, Breadth-first Search",39.3%,Medium,28.3201,https://leetcode.com/problems/cheapest-flights-within-k-stops
+864,Shortest Path to Get All Keys,"Heap, Breadth-first Search",40.5%,Hard,50.6859,https://leetcode.com/problems/shortest-path-to-get-all-keys
+875,Koko Eating Bananas,Binary Search,52.5%,Medium,42.8034,https://leetcode.com/problems/koko-eating-bananas
+1166,Design File System,"Hash Table, Design",56.9%,Medium,100.0,https://leetcode.com/problems/design-file-system
+1235,Maximum Profit in Job Scheduling,"Binary Search, Dynamic Programming, Sort",44.2%,Hard,8.40425,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+1257,Smallest Common Region,Tree,59.2%,Medium,14.2178,https://leetcode.com/problems/smallest-common-region

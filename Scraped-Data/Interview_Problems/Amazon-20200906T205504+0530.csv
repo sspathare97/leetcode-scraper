@@ -1,0 +1,69 @@
+ChapterSerial,Chapter,ProblemSerial,Problem,Id,Acceptance,Difficulty,Frequency,Link
+1,Arrays and Strings,1,Two Sum,1,45.7%,Easy,100.0,https://leetcode.com/problems/two-sum
+1,Arrays and Strings,2,Longest Substring Without Repeating Characters,3,30.5%,Medium,91.7317,https://leetcode.com/problems/longest-substring-without-repeating-characters
+1,Arrays and Strings,3,String to Integer (atoi),8,15.4%,Medium,56.5727,https://leetcode.com/problems/string-to-integer-atoi
+1,Arrays and Strings,4,Container With Most Water,11,51.1%,Medium,79.0269,https://leetcode.com/problems/container-with-most-water
+1,Arrays and Strings,5,Integer to Roman,12,55.3%,Medium,57.7306,https://leetcode.com/problems/integer-to-roman
+1,Arrays and Strings,6,Roman to Integer,13,55.9%,Easy,63.4908,https://leetcode.com/problems/roman-to-integer
+1,Arrays and Strings,7,3Sum,15,27.0%,Medium,91.8944,https://leetcode.com/problems/3sum
+1,Arrays and Strings,8,3Sum Closest,16,46.0%,Medium,47.4193,https://leetcode.com/problems/3sum-closest
+1,Arrays and Strings,9,Implement strStr(),28,34.6%,Easy,33.2506,https://leetcode.com/problems/implement-strstr
+1,Arrays and Strings,10,Rotate Image,48,57.3%,Medium,60.9585,https://leetcode.com/problems/rotate-image
+1,Arrays and Strings,11,Group Anagrams,49,57.3%,Medium,70.0943,https://leetcode.com/problems/group-anagrams
+1,Arrays and Strings,12,Minimum Window Substring,76,34.9%,Hard,74.7578,https://leetcode.com/problems/minimum-window-substring
+1,Arrays and Strings,13,Compare Version Numbers,165,27.6%,Medium,28.509,https://leetcode.com/problems/compare-version-numbers
+1,Arrays and Strings,14,Product of Array Except Self,238,60.3%,Medium,86.5206,https://leetcode.com/problems/product-of-array-except-self
+1,Arrays and Strings,15,Missing Number,268,51.9%,Easy,47.0576,https://leetcode.com/problems/missing-number
+1,Arrays and Strings,16,Integer to English Words,273,27.2%,Hard,86.9516,https://leetcode.com/problems/integer-to-english-words
+1,Arrays and Strings,17,First Unique Character in a String,387,53.4%,Easy,53.2598,https://leetcode.com/problems/first-unique-character-in-a-string
+1,Arrays and Strings,18,Valid Parentheses,20,39.1%,Easy,88.5255,https://leetcode.com/problems/valid-parentheses
+1,Arrays and Strings,19,Most Common Word,819,44.9%,Easy,60.1718,https://leetcode.com/problems/most-common-word
+1,Arrays and Strings,20,Reorder Log Files,,,,,
+1,Arrays and Strings,21,Trapping Rain Water,42,49.2%,Hard,94.9261,https://leetcode.com/problems/trapping-rain-water
+2,Linked Lists,1,Add Two Numbers,2,34.1%,Medium,97.8625,https://leetcode.com/problems/add-two-numbers
+2,Linked Lists,2,Merge Two Sorted Lists,21,53.9%,Easy,89.5942,https://leetcode.com/problems/merge-two-sorted-lists
+2,Linked Lists,3,Reverse Nodes in k-Group,25,42.5%,Hard,68.7062,https://leetcode.com/problems/reverse-nodes-in-k-group
+2,Linked Lists,4,Copy List with Random Pointer,138,37.0%,Medium,67.3527,https://leetcode.com/problems/copy-list-with-random-pointer
+2,Linked Lists,5,Reverse Linked List,206,63.0%,Easy,79.9546,https://leetcode.com/problems/reverse-linked-list
+2,Linked Lists,6,Merge k Sorted Lists,23,40.6%,Hard,90.663,https://leetcode.com/problems/merge-k-sorted-lists
+3,Trees and Graphs,1,Validate Binary Search Tree,98,27.9%,Medium,55.1922,https://leetcode.com/problems/validate-binary-search-tree
+3,Trees and Graphs,2,Symmetric Tree,101,47.1%,Easy,42.8144,https://leetcode.com/problems/symmetric-tree
+3,Trees and Graphs,3,Binary Tree Level Order Traversal,102,54.9%,Medium,45.9582,https://leetcode.com/problems/binary-tree-level-order-traversal
+3,Trees and Graphs,4,Binary Tree Zigzag Level Order Traversal,103,48.6%,Medium,54.8992,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+3,Trees and Graphs,5,Binary Tree Maximum Path Sum,124,34.5%,Hard,66.001,https://leetcode.com/problems/binary-tree-maximum-path-sum
+3,Trees and Graphs,6,Word Ladder II,126,22.4%,Hard,53.4795,https://leetcode.com/problems/word-ladder-ii
+3,Trees and Graphs,7,Word Ladder,127,29.9%,Medium,67.637,https://leetcode.com/problems/word-ladder
+3,Trees and Graphs,8,Number of Islands,200,47.1%,Medium,98.9313,https://leetcode.com/problems/number-of-islands
+3,Trees and Graphs,9,Course Schedule,207,43.3%,Medium,50.1073,https://leetcode.com/problems/course-schedule
+3,Trees and Graphs,10,Lowest Common Ancestor of a Binary Tree,236,46.2%,Medium,57.2056,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+3,Trees and Graphs,11,Diameter of Binary Tree,543,48.6%,Easy,59.5423,https://leetcode.com/problems/diameter-of-binary-tree
+3,Trees and Graphs,12,Cut Off Trees for Golf Event,675,34.6%,Hard,2.00029,https://leetcode.com/problems/cut-off-trees-for-golf-event
+3,Trees and Graphs,13,Flood Fill,733,55.4%,Easy,35.6611,https://leetcode.com/problems/flood-fill
+4,Recursion,1,Letter Combinations of a Phone Number,17,47.1%,Medium,70.5068,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+4,Recursion,2,Generate Parentheses,22,63.1%,Medium,77.9345,https://leetcode.com/problems/generate-parentheses
+4,Recursion,3,Word Search,79,35.8%,Medium,68.3933,https://leetcode.com/problems/word-search
+4,Recursion,4,Word Search II,212,35.1%,Hard,59.1441,https://leetcode.com/problems/word-search-ii
+5,Sorting and Searching,1,Median of Two Sorted Arrays,4,29.8%,Hard,92.6333,https://leetcode.com/problems/median-of-two-sorted-arrays
+5,Sorting and Searching,2,Search in Rotated Sorted Array,33,34.7%,Medium,73.3033,https://leetcode.com/problems/search-in-rotated-sorted-array
+5,Sorting and Searching,3,Merge Intervals,56,39.5%,Medium,86.3523,https://leetcode.com/problems/merge-intervals
+5,Sorting and Searching,4,Two Sum II - Input array is sorted,167,54.3%,Easy,45.6244,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted
+5,Sorting and Searching,5,Kth Largest Element in an Array,215,55.8%,Medium,72.0584,https://leetcode.com/problems/kth-largest-element-in-an-array
+5,Sorting and Searching,6,Meeting Rooms II,253,45.8%,Medium,70.452,https://leetcode.com/problems/meeting-rooms-ii
+5,Sorting and Searching,7,Top K Frequent Elements,347,61.4%,Medium,63.9009,https://leetcode.com/problems/top-k-frequent-elements
+5,Sorting and Searching,8,K Closest Points to Origin,973,64.0%,Medium,82.2488,https://leetcode.com/problems/k-closest-points-to-origin
+6,Dynamic Programming,1,Longest Palindromic Substring,5,29.6%,Medium,93.7021,https://leetcode.com/problems/longest-palindromic-substring
+6,Dynamic Programming,2,Maximum Subarray,53,46.7%,Easy,93.8573,https://leetcode.com/problems/maximum-subarray
+6,Dynamic Programming,3,Best Time to Buy and Sell Stock,121,50.6%,Easy,84.3863,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+6,Dynamic Programming,4,Word Break,139,40.3%,Medium,78.8645,https://leetcode.com/problems/word-break
+6,Dynamic Programming,5,Coin Change,322,35.8%,Medium,73.8711,https://leetcode.com/problems/coin-change
+7,Design,1,LRU Cache,146,33.5%,Medium,95.725,https://leetcode.com/problems/lru-cache
+7,Design,2,Min Stack,155,44.8%,Easy,56.1068,https://leetcode.com/problems/min-stack
+7,Design,3,Find Median from Data Stream,295,44.8%,Hard,68.8837,https://leetcode.com/problems/find-median-from-data-stream
+7,Design,4,Serialize and Deserialize Binary Tree,297,47.8%,Hard,72.4062,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+7,Design,5,Design Tic-Tac-Toe,348,54.6%,Medium,56.76,https://leetcode.com/problems/design-tic-tac-toe
+7,Design,6,Design Search Autocomplete System,642,45.0%,Hard,44.9712,https://leetcode.com/problems/design-search-autocomplete-system
+7,Design,7,Maximum Frequency Stack,895,61.5%,Hard,19.7985,https://leetcode.com/problems/maximum-frequency-stack
+8,Others,1,Reverse Integer,7,25.8%,Easy,74.1591,https://leetcode.com/problems/reverse-integer
+8,Others,2,Second Highest Salary,176,31.9%,Easy,64.6283,https://leetcode.com/problems/second-highest-salary
+8,Others,3,Partition Labels,763,77.2%,Medium,64.41,https://leetcode.com/problems/partition-labels
+8,Others,4,Prison Cells After N Days,957,40.6%,Medium,49.9445,https://leetcode.com/problems/prison-cells-after-n-days

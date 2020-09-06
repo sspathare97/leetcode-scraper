@@ -1,0 +1,7 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+146,LRU Cache,Design,33.5%,Medium,2.0281,https://leetcode.com/problems/lru-cache
+239,Sliding Window Maximum,"Heap, Sliding Window",43.4%,Hard,12.1892,https://leetcode.com/problems/sliding-window-maximum
+289,Game of Life,Array,54.9%,Medium,63.6,https://leetcode.com/problems/game-of-life
+362,Design Hit Counter,Design,63.9%,Medium,10.3719,https://leetcode.com/problems/design-hit-counter
+547,Friend Circles,"Depth-first Search, Union Find",58.9%,Medium,27.1999,https://leetcode.com/problems/friend-circles
+609,Find Duplicate File in System,"Hash Table, String",59.8%,Medium,100.0,https://leetcode.com/problems/find-duplicate-file-in-system

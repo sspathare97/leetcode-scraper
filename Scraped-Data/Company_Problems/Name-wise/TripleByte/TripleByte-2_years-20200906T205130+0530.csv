@@ -1,0 +1,5 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+20,Valid Parentheses,"String, Stack",39.1%,Easy,0.37646,https://leetcode.com/problems/valid-parentheses
+230,Kth Smallest Element in a BST,"Binary Search, Tree",60.6%,Medium,44.3447,https://leetcode.com/problems/kth-smallest-element-in-a-bst
+348,Design Tic-Tac-Toe,Design,54.6%,Medium,100.0,https://leetcode.com/problems/design-tic-tac-toe
+712,Minimum ASCII Delete Sum for Two Strings,Dynamic Programming,58.6%,Medium,56.0318,https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings

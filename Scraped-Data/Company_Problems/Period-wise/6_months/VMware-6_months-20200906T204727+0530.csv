@@ -1,0 +1,26 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,4.74427,https://leetcode.com/problems/two-sum
+2,Add Two Numbers,"Linked List, Math",34.1%,Medium,2.49019,https://leetcode.com/problems/add-two-numbers
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",30.5%,Medium,2.229,https://leetcode.com/problems/longest-substring-without-repeating-characters
+15,3Sum,"Array, Two Pointers",27.0%,Medium,3.36366,https://leetcode.com/problems/3sum
+20,Valid Parentheses,"String, Stack",39.1%,Easy,12.477,https://leetcode.com/problems/valid-parentheses
+21,Merge Two Sorted Lists,Linked List,53.9%,Easy,3.16854,https://leetcode.com/problems/merge-two-sorted-lists
+23,Merge k Sorted Lists,"Linked List, Divide and Conquer, Heap",40.6%,Hard,6.29898,https://leetcode.com/problems/merge-k-sorted-lists
+33,Search in Rotated Sorted Array,"Array, Binary Search",34.7%,Medium,4.92663,https://leetcode.com/problems/search-in-rotated-sorted-array
+56,Merge Intervals,"Array, Sort",39.5%,Medium,30.8868,https://leetcode.com/problems/merge-intervals
+63,Unique Paths II,"Array, Dynamic Programming",34.7%,Medium,13.6123,https://leetcode.com/problems/unique-paths-ii
+97,Interleaving String,"String, Dynamic Programming",31.7%,Hard,73.8896,https://leetcode.com/problems/interleaving-string
+98,Validate Binary Search Tree,"Tree, Depth-first Search",27.9%,Medium,4.3997,https://leetcode.com/problems/validate-binary-search-tree
+108,Convert Sorted Array to Binary Search Tree,"Tree, Depth-first Search",58.4%,Easy,8.94917,https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",50.6%,Easy,3.11993,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+146,LRU Cache,Design,33.5%,Medium,82.7959,https://leetcode.com/problems/lru-cache
+150,Evaluate Reverse Polish Notation,Stack,36.6%,Medium,22.6354,https://leetcode.com/problems/evaluate-reverse-polish-notation
+168,Excel Sheet Column Title,Math,31.2%,Easy,24.487,https://leetcode.com/problems/excel-sheet-column-title
+255,Verify Preorder Sequence in Binary Search Tree,"Stack, Tree",45.7%,Medium,100.0,https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree
+277,Find the Celebrity,Array,42.1%,Medium,40.4169,https://leetcode.com/problems/find-the-celebrity
+697,Degree of an Array,Array,53.9%,Easy,43.3023,https://leetcode.com/problems/degree-of-an-array
+706,Design HashMap,"Hash Table, Design",61.6%,Easy,54.3298,https://leetcode.com/problems/design-hashmap
+720,Longest Word in Dictionary,"Hash Table, Trie",48.4%,Easy,56.6855,https://leetcode.com/problems/longest-word-in-dictionary
+905,Sort Array By Parity,Array,74.9%,Easy,2.83798,https://leetcode.com/problems/sort-array-by-parity
+981,Time Based Key-Value Store,"Hash Table, Binary Search",53.1%,Medium,34.082,https://leetcode.com/problems/time-based-key-value-store
+1451,Rearrange Words in a Sentence,"String, Sort",55.8%,Medium,80.6091,https://leetcode.com/problems/rearrange-words-in-a-sentence

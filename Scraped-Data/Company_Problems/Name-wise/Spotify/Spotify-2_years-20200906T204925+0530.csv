@@ -1,0 +1,20 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,2.74261,https://leetcode.com/problems/two-sum
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",30.5%,Medium,9.13991,https://leetcode.com/problems/longest-substring-without-repeating-characters
+20,Valid Parentheses,"String, Stack",39.1%,Easy,38.9575,https://leetcode.com/problems/valid-parentheses
+22,Generate Parentheses,"String, Backtracking",63.1%,Medium,41.6708,https://leetcode.com/problems/generate-parentheses
+66,Plus One,Array,43.0%,Easy,5.5177,https://leetcode.com/problems/plus-one
+127,Word Ladder,Breadth-first Search,29.9%,Medium,8.96315,https://leetcode.com/problems/word-ladder
+128,Longest Consecutive Sequence,"Array, Union Find",45.3%,Hard,30.6262,https://leetcode.com/problems/longest-consecutive-sequence
+146,LRU Cache,Design,33.5%,Medium,28.2182,https://leetcode.com/problems/lru-cache
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,9.57943,https://leetcode.com/problems/number-of-islands
+206,Reverse Linked List,Linked List,63.0%,Easy,13.3191,https://leetcode.com/problems/reverse-linked-list
+215,Kth Largest Element in an Array,"Divide and Conquer, Heap",55.8%,Medium,14.9504,https://leetcode.com/problems/kth-largest-element-in-an-array
+286,Walls and Gates,Breadth-first Search,54.9%,Medium,100.0,https://leetcode.com/problems/walls-and-gates
+347,Top K Frequent Elements,"Hash Table, Heap",61.4%,Medium,19.368,https://leetcode.com/problems/top-k-frequent-elements
+383,Ransom Note,String,53.1%,Easy,68.7561,https://leetcode.com/problems/ransom-note
+412,Fizz Buzz,,63.2%,Easy,3.01472,https://leetcode.com/problems/fizz-buzz
+443,String Compression,String,41.5%,Easy,21.4059,https://leetcode.com/problems/string-compression
+480,Sliding Window Median,Sliding Window,37.5%,Hard,77.5765,https://leetcode.com/problems/sliding-window-median
+784,Letter Case Permutation,"Backtracking, Bit Manipulation",65.0%,Medium,46.3326,https://leetcode.com/problems/letter-case-permutation
+973,K Closest Points to Origin,"Divide and Conquer, Heap, Sort",64.0%,Medium,8.64144,https://leetcode.com/problems/k-closest-points-to-origin

@@ -1,0 +1,17 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,4.33399,https://leetcode.com/problems/two-sum
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",30.5%,Medium,2.03623,https://leetcode.com/problems/longest-substring-without-repeating-characters
+20,Valid Parentheses,"String, Stack",39.1%,Easy,6.42147,https://leetcode.com/problems/valid-parentheses
+33,Search in Rotated Sorted Array,"Array, Binary Search",34.7%,Medium,40.0508,https://leetcode.com/problems/search-in-rotated-sorted-array
+42,Trapping Rain Water,"Array, Two Pointers, Stack",49.2%,Hard,5.05603,https://leetcode.com/problems/trapping-rain-water
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",46.7%,Easy,6.26577,https://leetcode.com/problems/maximum-subarray
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",50.6%,Easy,6.40555,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+146,LRU Cache,Design,33.5%,Medium,25.0979,https://leetcode.com/problems/lru-cache
+198,House Robber,Dynamic Programming,42.1%,Easy,11.1889,https://leetcode.com/problems/house-robber
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,15.1153,https://leetcode.com/problems/number-of-islands
+443,String Compression,String,41.5%,Easy,74.8157,https://leetcode.com/problems/string-compression
+706,Design HashMap,"Hash Table, Design",61.6%,Easy,49.6314,https://leetcode.com/problems/design-hashmap
+724,Find Pivot Index,Array,44.2%,Easy,35.9845,https://leetcode.com/problems/find-pivot-index
+739,Daily Temperatures,"Hash Table, Stack",63.7%,Medium,11.6207,https://leetcode.com/problems/daily-temperatures
+973,K Closest Points to Origin,"Divide and Conquer, Heap, Sort",64.0%,Medium,17.2409,https://leetcode.com/problems/k-closest-points-to-origin
+1283,Find the Smallest Divisor Given a Threshold,Binary Search,48.8%,Medium,100.0,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold

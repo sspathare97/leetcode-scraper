@@ -1,0 +1,6 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,26.9927,https://leetcode.com/problems/two-sum
+20,Valid Parentheses,"String, Stack",39.1%,Easy,31.6168,https://leetcode.com/problems/valid-parentheses
+76,Minimum Window Substring,"Hash Table, Two Pointers, String, Sliding Window",34.9%,Hard,82.7823,https://leetcode.com/problems/minimum-window-substring
+139,Word Break,Dynamic Programming,40.3%,Medium,58.6095,https://leetcode.com/problems/word-break
+253,Meeting Rooms II,"Heap, Greedy, Sort",45.8%,Medium,100.0,https://leetcode.com/problems/meeting-rooms-ii

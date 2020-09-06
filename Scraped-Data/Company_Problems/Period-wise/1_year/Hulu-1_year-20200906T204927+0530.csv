@@ -1,0 +1,6 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+15,3Sum,"Array, Two Pointers",27.0%,Medium,9.08483,https://leetcode.com/problems/3sum
+139,Word Break,Dynamic Programming,40.3%,Medium,18.5302,https://leetcode.com/problems/word-break
+230,Kth Smallest Element in a BST,"Binary Search, Tree",60.6%,Medium,26.1761,https://leetcode.com/problems/kth-smallest-element-in-a-bst
+326,Power of Three,Math,42.1%,Easy,100.0,https://leetcode.com/problems/power-of-three
+394,Decode String,"Stack, Depth-first Search",50.4%,Medium,63.088,https://leetcode.com/problems/decode-string

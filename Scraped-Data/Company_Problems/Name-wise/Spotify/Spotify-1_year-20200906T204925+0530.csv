@@ -1,0 +1,17 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",30.5%,Medium,7.54479,https://leetcode.com/problems/longest-substring-without-repeating-characters
+20,Valid Parentheses,"String, Stack",39.1%,Easy,16.4956,https://leetcode.com/problems/valid-parentheses
+22,Generate Parentheses,"String, Backtracking",63.1%,Medium,22.1077,https://leetcode.com/problems/generate-parentheses
+127,Word Ladder,Breadth-first Search,29.9%,Medium,7.39887,https://leetcode.com/problems/word-ladder
+128,Longest Consecutive Sequence,"Array, Union Find",45.3%,Hard,11.29,https://leetcode.com/problems/longest-consecutive-sequence
+146,LRU Cache,Design,33.5%,Medium,13.1481,https://leetcode.com/problems/lru-cache
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,3.51976,https://leetcode.com/problems/number-of-islands
+206,Reverse Linked List,Linked List,63.0%,Easy,10.9946,https://leetcode.com/problems/reverse-linked-list
+215,Kth Largest Element in an Array,"Divide and Conquer, Heap",55.8%,Medium,5.49781,https://leetcode.com/problems/kth-largest-element-in-an-array
+286,Walls and Gates,Breadth-first Search,54.9%,Medium,100.0,https://leetcode.com/problems/walls-and-gates
+347,Top K Frequent Elements,"Hash Table, Heap",61.4%,Medium,7.12724,https://leetcode.com/problems/top-k-frequent-elements
+383,Ransom Note,String,53.1%,Easy,74.2089,https://leetcode.com/problems/ransom-note
+443,String Compression,String,41.5%,Easy,17.6701,https://leetcode.com/problems/string-compression
+480,Sliding Window Median,Sliding Window,37.5%,Hard,48.4177,https://leetcode.com/problems/sliding-window-median
+784,Letter Case Permutation,"Backtracking, Bit Manipulation",65.0%,Medium,38.2465,https://leetcode.com/problems/letter-case-permutation
+973,K Closest Points to Origin,"Divide and Conquer, Heap, Sort",64.0%,Medium,7.13331,https://leetcode.com/problems/k-closest-points-to-origin

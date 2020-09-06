@@ -1,0 +1,24 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,100.0,https://leetcode.com/problems/two-sum
+2,Add Two Numbers,"Linked List, Math",34.1%,Medium,60.1919,https://leetcode.com/problems/add-two-numbers
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",30.5%,Medium,40.0292,https://leetcode.com/problems/longest-substring-without-repeating-characters
+15,3Sum,"Array, Two Pointers",27.0%,Medium,2.72912,https://leetcode.com/problems/3sum
+33,Search in Rotated Sorted Array,"Array, Binary Search",34.7%,Medium,46.588,https://leetcode.com/problems/search-in-rotated-sorted-array
+70,Climbing Stairs,Dynamic Programming,47.9%,Easy,64.2334,https://leetcode.com/problems/climbing-stairs
+91,Decode Ways,"String, Dynamic Programming",24.9%,Medium,2.58775,https://leetcode.com/problems/decode-ways
+113,Path Sum II,"Tree, Depth-first Search",47.1%,Medium,4.65215,https://leetcode.com/problems/path-sum-ii
+124,Binary Tree Maximum Path Sum,"Tree, Depth-first Search",34.5%,Hard,0.76334,https://leetcode.com/problems/binary-tree-maximum-path-sum
+146,LRU Cache,Design,33.5%,Medium,76.3249,https://leetcode.com/problems/lru-cache
+215,Kth Largest Element in an Array,"Divide and Conquer, Heap",55.8%,Medium,11.519,https://leetcode.com/problems/kth-largest-element-in-an-array
+240,Search a 2D Matrix II,"Binary Search, Divide and Conquer",43.3%,Medium,6.13677,https://leetcode.com/problems/search-a-2d-matrix-ii
+395,Longest Substring with At Least K Repeating Characters,,41.5%,Medium,0.0,https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters
+397,Integer Replacement,"Math, Bit Manipulation",33.0%,Medium,0.0,https://leetcode.com/problems/integer-replacement
+410,Split Array Largest Sum,"Binary Search, Dynamic Programming",44.8%,Hard,3.38133,https://leetcode.com/problems/split-array-largest-sum
+413,Arithmetic Slices,"Math, Dynamic Programming",58.0%,Medium,0.0,https://leetcode.com/problems/arithmetic-slices
+446,Arithmetic Slices II - Subsequence,Dynamic Programming,32.8%,Hard,0.0,https://leetcode.com/problems/arithmetic-slices-ii-subsequence
+488,Zuma Game,Depth-first Search,39.8%,Hard,0.0,https://leetcode.com/problems/zuma-game
+543,Diameter of Binary Tree,Tree,48.6%,Easy,0.72028,https://leetcode.com/problems/diameter-of-binary-tree
+576,Out of Boundary Paths,"Dynamic Programming, Depth-first Search",35.2%,Medium,0.0,https://leetcode.com/problems/out-of-boundary-paths
+588,Design In-Memory File System,Design,46.2%,Hard,0.0,https://leetcode.com/problems/design-in-memory-file-system
+871,Minimum Number of Refueling Stops,"Dynamic Programming, Heap",31.4%,Hard,35.1941,https://leetcode.com/problems/minimum-number-of-refueling-stops
+873,Length of Longest Fibonacci Subsequence,"Array, Dynamic Programming",48.0%,Medium,0.0,https://leetcode.com/problems/length-of-longest-fibonacci-subsequence

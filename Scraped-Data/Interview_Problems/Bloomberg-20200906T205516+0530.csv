@@ -1,0 +1,47 @@
+ChapterSerial,Chapter,ProblemSerial,Problem,Id,Acceptance,Difficulty,Frequency,Link
+1,Array and Strings,1,Two Sum,1,45.7%,Easy,100.0,https://leetcode.com/problems/two-sum
+1,Array and Strings,2,Longest Substring Without Repeating Characters,3,30.5%,Medium,91.7317,https://leetcode.com/problems/longest-substring-without-repeating-characters
+1,Array and Strings,3,3Sum,15,27.0%,Medium,91.8944,https://leetcode.com/problems/3sum
+1,Array and Strings,4,Valid Anagram,242,57.1%,Easy,46.563,https://leetcode.com/problems/valid-anagram
+1,Array and Strings,5,Spiral Matrix,54,34.3%,Medium,73.5962,https://leetcode.com/problems/spiral-matrix
+1,Array and Strings,6,Merge Sorted Array,88,39.6%,Easy,71.7272,https://leetcode.com/problems/merge-sorted-array
+1,Array and Strings,7,Pascal's Triangle,118,52.9%,Easy,35.5405,https://leetcode.com/problems/pascals-triangle
+1,Array and Strings,8,Integer to English Words,273,27.2%,Hard,86.9516,https://leetcode.com/problems/integer-to-english-words
+1,Array and Strings,9,Move Zeroes,283,58.0%,Easy,61.1267,https://leetcode.com/problems/move-zeroes
+1,Array and Strings,10,First Unique Character in a String,387,53.4%,Easy,53.2598,https://leetcode.com/problems/first-unique-character-in-a-string
+1,Array and Strings,11,String Compression,443,41.5%,Easy,55.4597,https://leetcode.com/problems/string-compression
+1,Array and Strings,12,Subarray Sum Equals K,560,43.8%,Medium,83.3175,https://leetcode.com/problems/subarray-sum-equals-k
+1,Array and Strings,13,Candy Crush,723,69.9%,Medium,36.1829,https://leetcode.com/problems/candy-crush
+2,Linked List,1,Add Two Numbers,2,34.1%,Medium,97.8625,https://leetcode.com/problems/add-two-numbers
+2,Linked List,2,Merge Two Sorted Lists,21,53.9%,Easy,89.5942,https://leetcode.com/problems/merge-two-sorted-lists
+2,Linked List,3,Reverse Linked List II,92,39.1%,Medium,62.1855,https://leetcode.com/problems/reverse-linked-list-ii
+2,Linked List,4,Copy List with Random Pointer,138,37.0%,Medium,67.3527,https://leetcode.com/problems/copy-list-with-random-pointer
+2,Linked List,5,Reverse Linked List,206,63.0%,Easy,79.9546,https://leetcode.com/problems/reverse-linked-list
+2,Linked List,6,Add Two Numbers II,445,54.8%,Medium,64.1529,https://leetcode.com/problems/add-two-numbers-ii
+3,Trees and Graphs,1,Validate Binary Search Tree,98,27.9%,Medium,55.1922,https://leetcode.com/problems/validate-binary-search-tree
+3,Trees and Graphs,2,Construct Binary Tree from Preorder and Inorder Traversal,105,49.3%,Medium,59.2768,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
+3,Trees and Graphs,3,Flatten Binary Tree to Linked List,114,49.7%,Medium,38.7049,https://leetcode.com/problems/flatten-binary-tree-to-linked-list
+3,Trees and Graphs,4,Populating Next Right Pointers in Each Node,116,45.7%,Medium,32.7674,https://leetcode.com/problems/populating-next-right-pointers-in-each-node
+3,Trees and Graphs,5,Populating Next Right Pointers in Each Node II,117,39.5%,Medium,37.2341,https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii
+3,Trees and Graphs,6,Binary Tree Right Side View,199,54.4%,Medium,71.8239,https://leetcode.com/problems/binary-tree-right-side-view
+3,Trees and Graphs,7,Number of Islands,200,47.1%,Medium,98.9313,https://leetcode.com/problems/number-of-islands
+3,Trees and Graphs,8,Kth Smallest Element in a BST,230,60.6%,Medium,25.3436,https://leetcode.com/problems/kth-smallest-element-in-a-bst
+3,Trees and Graphs,9,Alien Dictionary,269,33.3%,Hard,77.0957,https://leetcode.com/problems/alien-dictionary
+3,Trees and Graphs,10,Decode String,394,50.4%,Medium,77.9109,https://leetcode.com/problems/decode-string
+3,Trees and Graphs,11,Flatten a Multilevel Doubly Linked List,430,55.6%,Medium,45.0337,https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list
+4,"Heap, Queue, Stack",1,Valid Parentheses,20,39.1%,Easy,88.5255,https://leetcode.com/problems/valid-parentheses
+4,"Heap, Queue, Stack",2,Trapping Rain Water,42,49.2%,Hard,94.9261,https://leetcode.com/problems/trapping-rain-water
+4,"Heap, Queue, Stack",3,Sliding Window Maximum,239,43.4%,Hard,66.7303,https://leetcode.com/problems/sliding-window-maximum
+4,"Heap, Queue, Stack",4,Meeting Rooms II,253,45.8%,Medium,70.452,https://leetcode.com/problems/meeting-rooms-ii
+5,Sorting and Searching,1,Median of Two Sorted Arrays,4,29.8%,Hard,92.6333,https://leetcode.com/problems/median-of-two-sorted-arrays
+5,Sorting and Searching,2,Search in Rotated Sorted Array,33,34.7%,Medium,73.3033,https://leetcode.com/problems/search-in-rotated-sorted-array
+5,Sorting and Searching,3,Merge Intervals,56,39.5%,Medium,86.3523,https://leetcode.com/problems/merge-intervals
+5,Sorting and Searching,4,Sort Characters By Frequency,451,63.2%,Medium,26.4258,https://leetcode.com/problems/sort-characters-by-frequency
+5,Sorting and Searching,5,Top K Frequent Words,692,52.1%,Medium,81.18,https://leetcode.com/problems/top-k-frequent-words
+6,Dynamic Programming,1,Longest Palindromic Substring,5,29.6%,Medium,93.7021,https://leetcode.com/problems/longest-palindromic-substring
+6,Dynamic Programming,2,Maximum Subarray,53,46.7%,Easy,93.8573,https://leetcode.com/problems/maximum-subarray
+6,Dynamic Programming,3,Word Break,139,40.3%,Medium,78.8645,https://leetcode.com/problems/word-break
+7,Design,1,LRU Cache,146,33.5%,Medium,95.725,https://leetcode.com/problems/lru-cache
+7,Design,2,Moving Average from Data Stream,346,71.3%,Easy,28.3421,https://leetcode.com/problems/moving-average-from-data-stream
+8,Others,1,Reverse Integer,7,25.8%,Easy,74.1591,https://leetcode.com/problems/reverse-integer
+8,Others,2,Word Search,79,35.8%,Medium,68.3933,https://leetcode.com/problems/word-search

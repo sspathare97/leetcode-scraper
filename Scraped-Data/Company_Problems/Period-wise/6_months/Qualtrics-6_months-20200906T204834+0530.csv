@@ -1,0 +1,8 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+15,3Sum,"Array, Two Pointers",27.0%,Medium,7.32785,https://leetcode.com/problems/3sum
+127,Word Ladder,Breadth-first Search,29.9%,Medium,42.6415,https://leetcode.com/problems/word-ladder
+138,Copy List with Random Pointer,"Hash Table, Linked List",37.0%,Medium,44.5586,https://leetcode.com/problems/copy-list-with-random-pointer
+139,Word Break,Dynamic Programming,40.3%,Medium,33.5467,https://leetcode.com/problems/word-break
+729,My Calendar I,Array,52.0%,Medium,100.0,https://leetcode.com/problems/my-calendar-i
+767,Reorganize String,"String, Heap, Greedy, Sort",48.9%,Medium,35.4714,https://leetcode.com/problems/reorganize-string
+1197,Minimum Knight Moves,Breadth-first Search,36.1%,Medium,72.2793,https://leetcode.com/problems/minimum-knight-moves

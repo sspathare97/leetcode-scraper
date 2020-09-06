@@ -1,0 +1,11 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+20,Valid Parentheses,"String, Stack",39.1%,Easy,43.2404,https://leetcode.com/problems/valid-parentheses
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",46.7%,Easy,0.0806728,https://leetcode.com/problems/maximum-subarray
+91,Decode Ways,"String, Dynamic Programming",24.9%,Medium,61.0997,https://leetcode.com/problems/decode-ways
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",50.6%,Easy,1.0002,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,0.109742,https://leetcode.com/problems/number-of-islands
+202,Happy Number,"Hash Table, Math",50.6%,Easy,100.0,https://leetcode.com/problems/happy-number
+215,Kth Largest Element in an Array,"Divide and Conquer, Heap",55.8%,Medium,0.171415,https://leetcode.com/problems/kth-largest-element-in-an-array
+268,Missing Number,"Array, Math, Bit Manipulation",51.9%,Easy,0.19584,https://leetcode.com/problems/missing-number
+509,Fibonacci Number,Array,67.2%,Easy,4.34007,https://leetcode.com/problems/fibonacci-number
+1328,Break a Palindrome,String,43.8%,Medium,1.67262,https://leetcode.com/problems/break-a-palindrome

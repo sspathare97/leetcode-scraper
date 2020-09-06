@@ -1,0 +1,18 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+10,Regular Expression Matching,"String, Dynamic Programming, Backtracking",26.9%,Hard,1.16883,https://leetcode.com/problems/regular-expression-matching
+17,Letter Combinations of a Phone Number,"String, Backtracking",47.1%,Medium,0.705207,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+41,First Missing Positive,Array,32.2%,Hard,21.644,https://leetcode.com/problems/first-missing-positive
+42,Trapping Rain Water,"Array, Two Pointers, Stack",49.2%,Hard,2.41776,https://leetcode.com/problems/trapping-rain-water
+68,Text Justification,String,28.0%,Hard,5.0759,https://leetcode.com/problems/text-justification
+91,Decode Ways,"String, Dynamic Programming",24.9%,Medium,4.86139,https://leetcode.com/problems/decode-ways
+114,Flatten Binary Tree to Linked List,"Tree, Depth-first Search",49.7%,Medium,1.4459,https://leetcode.com/problems/flatten-binary-tree-to-linked-list
+218,The Skyline Problem,"Divide and Conquer, Heap, Binary Indexed Tree, Segment Tree, Line Sweep",34.7%,Hard,9.76935,https://leetcode.com/problems/the-skyline-problem
+239,Sliding Window Maximum,"Heap, Sliding Window",43.4%,Hard,17.6055,https://leetcode.com/problems/sliding-window-maximum
+314,Binary Tree Vertical Order Traversal,"Depth-first Search, Breadth-first Search",45.5%,Medium,74.5746,https://leetcode.com/problems/binary-tree-vertical-order-traversal
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",47.7%,Medium,43.5483,https://leetcode.com/problems/insert-delete-getrandom-o1
+426,Convert Binary Search Tree to Sorted Doubly Linked List,"Linked List, Divide and Conquer, Tree",59.4%,Medium,9.36213,https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list
+722,Remove Comments,String,34.7%,Medium,100.0,https://leetcode.com/problems/remove-comments
+742,Closest Leaf in a Binary Tree,Tree,43.7%,Medium,35.5247,https://leetcode.com/problems/closest-leaf-in-a-binary-tree
+987,Vertical Order Traversal of a Binary Tree,"Hash Table, Tree",36.5%,Medium,1.31714,https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree
+1242,Web Crawler Multithreaded,"Depth-first Search, Breadth-first Search",45.5%,Medium,49.1493,https://leetcode.com/problems/web-crawler-multithreaded
+1329,Sort the Matrix Diagonally,"Array, Sort",78.5%,Medium,6.19992,https://leetcode.com/problems/sort-the-matrix-diagonally

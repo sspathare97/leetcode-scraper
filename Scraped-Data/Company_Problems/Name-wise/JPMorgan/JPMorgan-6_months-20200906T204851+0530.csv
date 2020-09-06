@@ -1,0 +1,7 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+20,Valid Parentheses,"String, Stack",39.1%,Easy,1.17987,https://leetcode.com/problems/valid-parentheses
+91,Decode Ways,"String, Dynamic Programming",24.9%,Medium,100.0,https://leetcode.com/problems/decode-ways
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",50.6%,Easy,4.69508,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+202,Happy Number,"Hash Table, Math",50.6%,Easy,8.02594,https://leetcode.com/problems/happy-number
+509,Fibonacci Number,Array,67.2%,Easy,61.9344,https://leetcode.com/problems/fibonacci-number
+1328,Break a Palindrome,String,43.8%,Medium,23.8689,https://leetcode.com/problems/break-a-palindrome

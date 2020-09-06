@@ -1,0 +1,15 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",30.5%,Medium,2.12331,https://leetcode.com/problems/longest-substring-without-repeating-characters
+20,Valid Parentheses,"String, Stack",39.1%,Easy,2.97939,https://leetcode.com/problems/valid-parentheses
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",46.7%,Easy,2.90708,https://leetcode.com/problems/maximum-subarray
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",50.6%,Easy,2.972,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+127,Word Ladder,Breadth-first Search,29.9%,Medium,8.31292,https://leetcode.com/problems/word-ladder
+139,Word Break,Dynamic Programming,40.3%,Medium,6.53552,https://leetcode.com/problems/word-break
+146,LRU Cache,Design,33.5%,Medium,26.1712,https://leetcode.com/problems/lru-cache
+236,Lowest Common Ancestor of a Binary Tree,Tree,46.2%,Medium,100.0,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+273,Integer to English Words,"Math, String",27.2%,Hard,19.5699,https://leetcode.com/problems/integer-to-english-words
+283,Move Zeroes,"Array, Two Pointers",58.0%,Easy,4.01435,https://leetcode.com/problems/move-zeroes
+387,First Unique Character in a String,"Hash Table, String",53.4%,Easy,13.8697,https://leetcode.com/problems/first-unique-character-in-a-string
+437,Path Sum III,Tree,47.3%,Medium,12.0744,https://leetcode.com/problems/path-sum-iii
+443,String Compression,String,41.5%,Easy,44.3373,https://leetcode.com/problems/string-compression
+981,Time Based Key-Value Store,"Hash Table, Binary Search",53.1%,Medium,72.1687,https://leetcode.com/problems/time-based-key-value-store

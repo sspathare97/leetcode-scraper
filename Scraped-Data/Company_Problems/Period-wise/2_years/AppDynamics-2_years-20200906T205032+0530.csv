@@ -1,0 +1,9 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+5,Longest Palindromic Substring,"String, Dynamic Programming",29.6%,Medium,6.79264,https://leetcode.com/problems/longest-palindromic-substring
+124,Binary Tree Maximum Path Sum,"Tree, Depth-first Search",34.5%,Hard,17.4141,https://leetcode.com/problems/binary-tree-maximum-path-sum
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,8.60406,https://leetcode.com/problems/number-of-islands
+221,Maximal Square,Dynamic Programming,37.8%,Medium,31.9765,https://leetcode.com/problems/maximal-square
+346,Moving Average from Data Stream,"Design, Queue",71.3%,Easy,100.0,https://leetcode.com/problems/moving-average-from-data-stream
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",47.7%,Medium,30.435,https://leetcode.com/problems/insert-delete-getrandom-o1
+394,Decode String,"Stack, Depth-first Search",50.4%,Medium,60.3762,https://leetcode.com/problems/decode-string
+1283,Find the Smallest Divisor Given a Threshold,Binary Search,48.8%,Medium,71.6004,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold

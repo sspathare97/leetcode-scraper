@@ -1,0 +1,5 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+347,Top K Frequent Elements,"Hash Table, Heap",61.4%,Medium,34.6499,https://leetcode.com/problems/top-k-frequent-elements
+355,Design Twitter,"Hash Table, Heap, Design",30.4%,Medium,100.0,https://leetcode.com/problems/design-twitter
+692,Top K Frequent Words,"Hash Table, Heap, Trie",52.1%,Medium,31.1753,https://leetcode.com/problems/top-k-frequent-words
+1126,Active Businesses,,68.3%,Medium,67.3249,https://leetcode.com/problems/active-businesses

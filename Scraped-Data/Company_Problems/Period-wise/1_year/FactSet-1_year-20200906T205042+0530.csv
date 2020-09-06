@@ -1,0 +1,6 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,2.35004,https://leetcode.com/problems/two-sum
+168,Excel Sheet Column Title,Math,31.2%,Easy,100.0,https://leetcode.com/problems/excel-sheet-column-title
+171,Excel Sheet Column Number,Math,56.2%,Easy,1.34399,https://leetcode.com/problems/excel-sheet-column-number
+453,Minimum Moves to Equal Array Elements,Math,50.3%,Easy,37.0762,https://leetcode.com/problems/minimum-moves-to-equal-array-elements
+881,Boats to Save People,"Two Pointers, Greedy",46.9%,Medium,71.8023,https://leetcode.com/problems/boats-to-save-people

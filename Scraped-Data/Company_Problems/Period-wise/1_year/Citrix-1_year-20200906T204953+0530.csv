@@ -1,0 +1,11 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+15,3Sum,"Array, Two Pointers",27.0%,Medium,0.563635,https://leetcode.com/problems/3sum
+206,Reverse Linked List,Linked List,63.0%,Easy,0.966928,https://leetcode.com/problems/reverse-linked-list
+253,Meeting Rooms II,"Heap, Greedy, Sort",45.8%,Medium,0.816879,https://leetcode.com/problems/meeting-rooms-ii
+697,Degree of an Array,Array,53.9%,Easy,3.2288,https://leetcode.com/problems/degree-of-an-array
+741,Cherry Pickup,Dynamic Programming,34.0%,Hard,23.6368,https://leetcode.com/problems/cherry-pickup
+761,Special Binary String,"String, Recursion",55.0%,Hard,100.0,https://leetcode.com/problems/special-binary-string
+829,Consecutive Numbers Sum,Math,38.1%,Hard,2.87261,https://leetcode.com/problems/consecutive-numbers-sum
+1010,Pairs of Songs With Total Durations Divisible by 60,Array,47.3%,Easy,4.17536,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60
+1223,Dice Roll Simulation,Dynamic Programming,46.0%,Medium,8.09704,https://leetcode.com/problems/dice-roll-simulation
+1383,Maximum Performance of a Team,"Greedy, Sort",32.0%,Hard,61.8184,https://leetcode.com/problems/maximum-performance-of-a-team

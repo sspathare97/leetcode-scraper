@@ -1,0 +1,5 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+54,Spiral Matrix,Array,34.3%,Medium,36.5589,https://leetcode.com/problems/spiral-matrix
+253,Meeting Rooms II,"Heap, Greedy, Sort",45.8%,Medium,45.8319,https://leetcode.com/problems/meeting-rooms-ii
+453,Minimum Moves to Equal Array Elements,Math,50.3%,Easy,100.0,https://leetcode.com/problems/minimum-moves-to-equal-array-elements
+547,Friend Circles,"Depth-first Search, Union Find",58.9%,Medium,63.4411,https://leetcode.com/problems/friend-circles

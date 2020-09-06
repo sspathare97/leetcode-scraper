@@ -1,0 +1,22 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+10,Regular Expression Matching,"String, Dynamic Programming, Backtracking",26.9%,Hard,7.51234,https://leetcode.com/problems/regular-expression-matching
+28,Implement strStr(),"Two Pointers, String",34.6%,Easy,23.6341,https://leetcode.com/problems/implement-strstr
+41,First Missing Positive,Array,32.2%,Hard,26.4369,https://leetcode.com/problems/first-missing-positive
+75,Sort Colors,"Array, Two Pointers, Sort",47.6%,Medium,20.6874,https://leetcode.com/problems/sort-colors
+133,Clone Graph,"Depth-first Search, Breadth-first Search, Graph",35.4%,Medium,22.9649,https://leetcode.com/problems/clone-graph
+139,Word Break,Dynamic Programming,40.3%,Medium,1.83855,https://leetcode.com/problems/word-break
+214,Shortest Palindrome,String,29.9%,Hard,3.24191,https://leetcode.com/problems/shortest-palindrome
+215,Kth Largest Element in an Array,"Divide and Conquer, Heap",55.8%,Medium,0.440245,https://leetcode.com/problems/kth-largest-element-in-an-array
+269,Alien Dictionary,"Graph, Topological Sort",33.3%,Hard,1.34843,https://leetcode.com/problems/alien-dictionary
+285,Inorder Successor in BST,Tree,40.8%,Medium,16.8376,https://leetcode.com/problems/inorder-successor-in-bst
+347,Top K Frequent Elements,"Hash Table, Heap",61.4%,Medium,9.79136,https://leetcode.com/problems/top-k-frequent-elements
+366,Find Leaves of Binary Tree,"Tree, Depth-first Search",70.8%,Medium,70.1958,https://leetcode.com/problems/find-leaves-of-binary-tree
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",47.7%,Medium,0.0,https://leetcode.com/problems/insert-delete-getrandom-o1
+424,Longest Repeating Character Replacement,"Two Pointers, Sliding Window",47.2%,Medium,0.0,https://leetcode.com/problems/longest-repeating-character-replacement
+442,Find All Duplicates in an Array,Array,67.9%,Medium,0.0,https://leetcode.com/problems/find-all-duplicates-in-an-array
+547,Friend Circles,"Depth-first Search, Union Find",58.9%,Medium,40.3916,https://leetcode.com/problems/friend-circles
+600,Non-negative Integers without Consecutive Ones,Dynamic Programming,34.1%,Hard,0.0,https://leetcode.com/problems/non-negative-integers-without-consecutive-ones
+692,Top K Frequent Words,"Hash Table, Heap, Trie",52.1%,Medium,0.0,https://leetcode.com/problems/top-k-frequent-words
+740,Delete and Earn,Dynamic Programming,48.7%,Medium,100.0,https://leetcode.com/problems/delete-and-earn
+772,Basic Calculator III,"String, Stack",41.5%,Hard,0.0,https://leetcode.com/problems/basic-calculator-iii
+1010,Pairs of Songs With Total Durations Divisible by 60,Array,47.3%,Easy,36.1343,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60

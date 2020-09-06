@@ -1,0 +1,22 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,0.442517,https://leetcode.com/problems/two-sum
+2,Add Two Numbers,"Linked List, Math",34.1%,Medium,0.23227,https://leetcode.com/problems/add-two-numbers
+6,ZigZag Conversion,String,36.6%,Medium,2.41916,https://leetcode.com/problems/zigzag-conversion
+12,Integer to Roman,"Math, String",55.3%,Medium,1.20379,https://leetcode.com/problems/integer-to-roman
+20,Valid Parentheses,"String, Stack",39.1%,Easy,0.655656,https://leetcode.com/problems/valid-parentheses
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",46.7%,Easy,0.284651,https://leetcode.com/problems/maximum-subarray
+56,Merge Intervals,"Array, Sort",39.5%,Medium,5.59904,https://leetcode.com/problems/merge-intervals
+68,Text Justification,String,28.0%,Hard,4.31457,https://leetcode.com/problems/text-justification
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",50.6%,Easy,0.291008,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+128,Longest Consecutive Sequence,"Array, Union Find",45.3%,Hard,1.24204,https://leetcode.com/problems/longest-consecutive-sequence
+146,LRU Cache,Design,33.5%,Medium,0.644475,https://leetcode.com/problems/lru-cache
+227,Basic Calculator II,String,37.1%,Medium,1.48856,https://leetcode.com/problems/basic-calculator-ii
+322,Coin Change,Dynamic Programming,35.8%,Medium,0.500303,https://leetcode.com/problems/coin-change
+324,Wiggle Sort II,Sort,30.0%,Medium,4.6239,https://leetcode.com/problems/wiggle-sort-ii
+876,Middle of the Linked List,Linked List,68.6%,Easy,0.977557,https://leetcode.com/problems/middle-of-the-linked-list
+977,Squares of a Sorted Array,"Array, Two Pointers",72.2%,Easy,2.04778,https://leetcode.com/problems/squares-of-a-sorted-array
+1010,Pairs of Songs With Total Durations Divisible by 60,Array,47.3%,Easy,5.22305,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60
+1297,Maximum Number of Occurrences of a Substring,"String, Bit Manipulation",47.9%,Medium,9.97211,https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring
+1411,Number of Ways to Paint N × 3 Grid,Dynamic Programming,61.1%,Hard,11.711,https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid
+1473,Paint House III,Dynamic Programming,48.5%,Hard,100.0,https://leetcode.com/problems/paint-house-iii
+1497,Check If Array Pairs Are Divisible by k,"Array, Math, Greedy",40.7%,Medium,55.8555,https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k

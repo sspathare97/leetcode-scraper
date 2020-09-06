@@ -1,0 +1,26 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,44.4178,https://leetcode.com/problems/two-sum
+2,Add Two Numbers,"Linked List, Math",34.1%,Medium,8.61679,https://leetcode.com/problems/add-two-numbers
+5,Longest Palindromic Substring,"String, Dynamic Programming",29.6%,Medium,15.3617,https://leetcode.com/problems/longest-palindromic-substring
+15,3Sum,"Array, Two Pointers",27.0%,Medium,8.08806,https://leetcode.com/problems/3sum
+17,Letter Combinations of a Phone Number,"String, Backtracking",47.1%,Medium,15.3823,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+20,Valid Parentheses,"String, Stack",39.1%,Easy,29.5983,https://leetcode.com/problems/valid-parentheses
+26,Remove Duplicates from Sorted Array,"Array, Two Pointers",45.4%,Easy,6.71041,https://leetcode.com/problems/remove-duplicates-from-sorted-array
+42,Trapping Rain Water,"Array, Two Pointers, Stack",49.2%,Hard,2.14018,https://leetcode.com/problems/trapping-rain-water
+49,Group Anagrams,"Hash Table, String",57.3%,Medium,4.99784,https://leetcode.com/problems/group-anagrams
+56,Merge Intervals,"Array, Sort",39.5%,Medium,11.9435,https://leetcode.com/problems/merge-intervals
+103,Binary Tree Zigzag Level Order Traversal,"Stack, Tree, Breadth-first Search",48.6%,Medium,21.1083,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+127,Word Ladder,Breadth-first Search,29.9%,Medium,20.8164,https://leetcode.com/problems/word-ladder
+155,Min Stack,"Stack, Design",44.8%,Easy,5.97459,https://leetcode.com/problems/min-stack
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,6.39819,https://leetcode.com/problems/number-of-islands
+238,Product of Array Except Self,Array,60.3%,Medium,19.4263,https://leetcode.com/problems/product-of-array-except-self
+242,Valid Anagram,"Hash Table, Sort",57.1%,Easy,9.74398,https://leetcode.com/problems/valid-anagram
+268,Missing Number,"Array, Math, Bit Manipulation",51.9%,Easy,2.86474,https://leetcode.com/problems/missing-number
+283,Move Zeroes,"Array, Two Pointers",58.0%,Easy,3.66094,https://leetcode.com/problems/move-zeroes
+344,Reverse String,"Two Pointers, String",68.8%,Easy,1.90032,https://leetcode.com/problems/reverse-string
+387,First Unique Character in a String,"Hash Table, String",53.4%,Easy,5.63018,https://leetcode.com/problems/first-unique-character-in-a-string
+653,Two Sum IV - Input is a BST,Tree,55.6%,Easy,72.2089,https://leetcode.com/problems/two-sum-iv-input-is-a-bst
+706,Design HashMap,"Hash Table, Design",61.6%,Easy,100.0,https://leetcode.com/problems/design-hashmap
+867,Transpose Matrix,Array,62.7%,Easy,19.3078,https://leetcode.com/problems/transpose-matrix
+921,Minimum Add to Make Parentheses Valid,"Stack, Greedy",74.1%,Medium,8.03478,https://leetcode.com/problems/minimum-add-to-make-parentheses-valid
+1290,Convert Binary Number in a Linked List to Integer,"Linked List, Bit Manipulation",80.7%,Easy,10.8601,https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer

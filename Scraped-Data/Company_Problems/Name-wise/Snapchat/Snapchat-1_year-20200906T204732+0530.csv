@@ -1,0 +1,30 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+14,Longest Common Prefix,String,35.5%,Easy,3.90913,https://leetcode.com/problems/longest-common-prefix
+42,Trapping Rain Water,"Array, Two Pointers, Stack",49.2%,Hard,1.95348,https://leetcode.com/problems/trapping-rain-water
+54,Spiral Matrix,Array,34.3%,Medium,3.0844,https://leetcode.com/problems/spiral-matrix
+56,Merge Intervals,"Array, Sort",39.5%,Medium,1.7574,https://leetcode.com/problems/merge-intervals
+68,Text Justification,String,28.0%,Hard,16.3266,https://leetcode.com/problems/text-justification
+79,Word Search,"Array, Backtracking",35.8%,Medium,25.6112,https://leetcode.com/problems/word-search
+91,Decode Ways,"String, Dynamic Programming",24.9%,Medium,5.67545,https://leetcode.com/problems/decode-ways
+126,Word Ladder II,"Array, String, Backtracking, Breadth-first Search",22.4%,Hard,9.54528,https://leetcode.com/problems/word-ladder-ii
+139,Word Break,Dynamic Programming,40.3%,Medium,5.43504,https://leetcode.com/problems/word-break
+146,LRU Cache,Design,33.5%,Medium,58.222,https://leetcode.com/problems/lru-cache
+189,Rotate Array,Array,35.0%,Easy,2.13439,https://leetcode.com/problems/rotate-array
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,5.84003,https://leetcode.com/problems/number-of-islands
+210,Course Schedule II,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",41.0%,Medium,3.71094,https://leetcode.com/problems/course-schedule-ii
+212,Word Search II,"Backtracking, Trie",35.1%,Hard,29.9633,https://leetcode.com/problems/word-search-ii
+224,Basic Calculator,"Math, Stack",37.1%,Hard,18.7247,https://leetcode.com/problems/basic-calculator
+227,Basic Calculator II,String,37.1%,Medium,5.63281,https://leetcode.com/problems/basic-calculator-ii
+234,Palindrome Linked List,"Linked List, Two Pointers",39.5%,Easy,5.2221,https://leetcode.com/problems/palindrome-linked-list
+253,Meeting Rooms II,"Heap, Greedy, Sort",45.8%,Medium,3.86674,https://leetcode.com/problems/meeting-rooms-ii
+297,Serialize and Deserialize Binary Tree,"Tree, Design",47.8%,Hard,3.78988,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+310,Minimum Height Trees,"Breadth-first Search, Graph",32.4%,Medium,14.2403,https://leetcode.com/problems/minimum-height-trees
+317,Shortest Distance from All Buildings,Breadth-first Search,41.7%,Hard,78.2714,https://leetcode.com/problems/shortest-distance-from-all-buildings
+340,Longest Substring with At Most K Distinct Characters,"Hash Table, String, Sliding Window",44.3%,Hard,8.56092,https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters
+347,Top K Frequent Elements,"Hash Table, Heap",61.4%,Medium,6.65565,https://leetcode.com/problems/top-k-frequent-elements
+679,24 Game,Depth-first Search,46.5%,Hard,36.4933,https://leetcode.com/problems/24-game
+733,Flood Fill,Depth-first Search,55.4%,Easy,6.20727,https://leetcode.com/problems/flood-fill
+772,Basic Calculator III,"String, Stack",41.5%,Hard,100.0,https://leetcode.com/problems/basic-calculator-iii
+986,Interval List Intersections,Two Pointers,67.5%,Medium,6.52943,https://leetcode.com/problems/interval-list-intersections
+1031,Maximum Sum of Two Non-Overlapping Subarrays,Array,58.0%,Medium,20.8092,https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays
+1146,Snapshot Array,Array,37.0%,Medium,17.472,https://leetcode.com/problems/snapshot-array

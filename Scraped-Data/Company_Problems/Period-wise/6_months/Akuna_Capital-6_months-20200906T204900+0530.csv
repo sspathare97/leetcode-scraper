@@ -1,0 +1,5 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1012,Numbers With Repeated Digits,"Math, Dynamic Programming",37.5%,Hard,81.1921,https://leetcode.com/problems/numbers-with-repeated-digits
+1223,Dice Roll Simulation,Dynamic Programming,46.0%,Medium,27.6637,https://leetcode.com/problems/dice-roll-simulation
+1370,Increasing Decreasing String,"String, Sort",75.5%,Easy,53.5285,https://leetcode.com/problems/increasing-decreasing-string
+1411,Number of Ways to Paint N × 3 Grid,Dynamic Programming,61.1%,Hard,100.0,https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid

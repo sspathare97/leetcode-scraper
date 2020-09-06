@@ -1,0 +1,16 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,23.882,https://leetcode.com/problems/two-sum
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",30.5%,Medium,1.80816,https://leetcode.com/problems/longest-substring-without-repeating-characters
+5,Longest Palindromic Substring,"String, Dynamic Programming",29.6%,Medium,2.65864,https://leetcode.com/problems/longest-palindromic-substring
+17,Letter Combinations of a Phone Number,"String, Backtracking",47.1%,Medium,11.7027,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+41,First Missing Positive,Array,32.2%,Hard,8.34494,https://leetcode.com/problems/first-missing-positive
+50,"Pow(x, n)","Math, Binary Search",30.5%,Medium,6.39839,https://leetcode.com/problems/powx-n
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",46.7%,Easy,9.87628,https://leetcode.com/problems/maximum-subarray
+56,Merge Intervals,"Array, Sort",39.5%,Medium,4.03907,https://leetcode.com/problems/merge-intervals
+91,Decode Ways,"String, Dynamic Programming",24.9%,Medium,13.044,https://leetcode.com/problems/decode-ways
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",50.6%,Easy,61.941,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+146,LRU Cache,Design,33.5%,Medium,12.5798,https://leetcode.com/problems/lru-cache
+155,Min Stack,"Stack, Design",44.8%,Easy,5.58433,https://leetcode.com/problems/min-stack
+160,Intersection of Two Linked Lists,Linked List,41.1%,Easy,5.7967,https://leetcode.com/problems/intersection-of-two-linked-lists
+242,Valid Anagram,"Hash Table, Sort",57.1%,Easy,5.13828,https://leetcode.com/problems/valid-anagram
+871,Minimum Number of Refueling Stops,"Dynamic Programming, Heap",31.4%,Hard,100.0,https://leetcode.com/problems/minimum-number-of-refueling-stops

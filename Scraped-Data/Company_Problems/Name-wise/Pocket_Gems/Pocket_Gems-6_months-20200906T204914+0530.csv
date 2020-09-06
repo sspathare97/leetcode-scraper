@@ -1,0 +1,3 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+347,Top K Frequent Elements,"Hash Table, Heap",61.4%,Medium,50,https://leetcode.com/problems/top-k-frequent-elements
+366,Find Leaves of Binary Tree,"Tree, Depth-first Search",70.8%,Medium,100,https://leetcode.com/problems/find-leaves-of-binary-tree

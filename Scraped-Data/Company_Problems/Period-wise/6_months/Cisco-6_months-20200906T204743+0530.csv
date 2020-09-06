@@ -1,0 +1,28 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,1.36168,https://leetcode.com/problems/two-sum
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",30.5%,Medium,0.640337,https://leetcode.com/problems/longest-substring-without-repeating-characters
+5,Longest Palindromic Substring,"String, Dynamic Programming",29.6%,Medium,2.60451,https://leetcode.com/problems/longest-palindromic-substring
+8,String to Integer (atoi),"Math, String",15.4%,Medium,0.741344,https://leetcode.com/problems/string-to-integer-atoi
+22,Generate Parentheses,"String, Backtracking",63.1%,Medium,0.837702,https://leetcode.com/problems/generate-parentheses
+48,Rotate Image,Array,57.3%,Medium,30.2416,https://leetcode.com/problems/rotate-image
+49,Group Anagrams,"Hash Table, String",57.3%,Medium,1.65154,https://leetcode.com/problems/group-anagrams
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",46.7%,Easy,9.54822,https://leetcode.com/problems/maximum-subarray
+56,Merge Intervals,"Array, Sort",39.5%,Medium,3.94675,https://leetcode.com/problems/merge-intervals
+79,Word Search,"Array, Backtracking",35.8%,Medium,12.527,https://leetcode.com/problems/word-search
+91,Decode Ways,"String, Dynamic Programming",24.9%,Medium,82.8358,https://leetcode.com/problems/decode-ways
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",50.6%,Easy,0.398668,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+146,LRU Cache,Design,33.5%,Medium,0.882902,https://leetcode.com/problems/lru-cache
+191,Number of 1 Bits,Bit Manipulation,50.3%,Easy,18.1747,https://leetcode.com/problems/number-of-1-bits
+198,House Robber,Dynamic Programming,42.1%,Easy,31.802,https://leetcode.com/problems/house-robber
+207,Course Schedule,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",43.3%,Medium,1.01904,https://leetcode.com/problems/course-schedule
+212,Word Search II,"Backtracking, Trie",35.1%,Hard,3.96682,https://leetcode.com/problems/word-search-ii
+234,Palindrome Linked List,"Linked List, Two Pointers",39.5%,Easy,1.89058,https://leetcode.com/problems/palindrome-linked-list
+246,Strobogrammatic Number,"Hash Table, Math",45.1%,Easy,14.7651,https://leetcode.com/problems/strobogrammatic-number
+394,Decode String,"Stack, Depth-first Search",50.4%,Medium,57.3189,https://leetcode.com/problems/decode-string
+450,Delete Node in a BST,Tree,44.3%,Medium,0.646338,https://leetcode.com/problems/delete-node-in-a-bst
+468,Validate IP Address,String,24.2%,Medium,100.0,https://leetcode.com/problems/validate-ip-address
+739,Daily Temperatures,"Hash Table, Stack",63.7%,Medium,1.62548,https://leetcode.com/problems/daily-temperatures
+905,Sort Array By Parity,Array,74.9%,Easy,0.36264,https://leetcode.com/problems/sort-array-by-parity
+909,Snakes and Ladders,Breadth-first Search,38.8%,Medium,8.2822,https://leetcode.com/problems/snakes-and-ladders
+1235,Maximum Profit in Job Scheduling,"Binary Search, Dynamic Programming, Sort",44.2%,Hard,16.9573,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+1290,Convert Binary Number in a Linked List to Integer,"Linked List, Bit Manipulation",80.7%,Easy,9.82822,https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer

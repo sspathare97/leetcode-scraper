@@ -1,0 +1,50 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,26.5991,https://leetcode.com/problems/two-sum
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",30.5%,Medium,4.3022,https://leetcode.com/problems/longest-substring-without-repeating-characters
+15,3Sum,"Array, Two Pointers",27.0%,Medium,8.1444,https://leetcode.com/problems/3sum
+20,Valid Parentheses,"String, Stack",39.1%,Easy,100.0,https://leetcode.com/problems/valid-parentheses
+33,Search in Rotated Sorted Array,"Array, Binary Search",34.7%,Medium,48.2533,https://leetcode.com/problems/search-in-rotated-sorted-array
+37,Sudoku Solver,"Hash Table, Backtracking",44.0%,Hard,38.7642,https://leetcode.com/problems/sudoku-solver
+42,Trapping Rain Water,"Array, Two Pointers, Stack",49.2%,Hard,2.68351,https://leetcode.com/problems/trapping-rain-water
+43,Multiply Strings,"Math, String",34.1%,Medium,10.8288,https://leetcode.com/problems/multiply-strings
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",46.7%,Easy,19.9502,https://leetcode.com/problems/maximum-subarray
+73,Set Matrix Zeroes,Array,43.3%,Medium,70.2946,https://leetcode.com/problems/set-matrix-zeroes
+88,Merge Sorted Array,"Array, Two Pointers",39.6%,Easy,21.4931,https://leetcode.com/problems/merge-sorted-array
+91,Decode Ways,"String, Dynamic Programming",24.9%,Medium,3.46916,https://leetcode.com/problems/decode-ways
+96,Unique Binary Search Trees,"Dynamic Programming, Tree",53.2%,Medium,4.32162,https://leetcode.com/problems/unique-binary-search-trees
+102,Binary Tree Level Order Traversal,"Tree, Breadth-first Search",54.9%,Medium,0.674144,https://leetcode.com/problems/binary-tree-level-order-traversal
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",50.6%,Easy,17.8572,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+134,Gas Station,Greedy,38.8%,Medium,5.93514,https://leetcode.com/problems/gas-station
+138,Copy List with Random Pointer,"Hash Table, Linked List",37.0%,Medium,17.1057,https://leetcode.com/problems/copy-list-with-random-pointer
+146,LRU Cache,Design,33.5%,Medium,28.3576,https://leetcode.com/problems/lru-cache
+160,Intersection of Two Linked Lists,Linked List,41.1%,Easy,3.4599,https://leetcode.com/problems/intersection-of-two-linked-lists
+167,Two Sum II - Input array is sorted,"Array, Two Pointers, Binary Search",54.3%,Easy,0.984003,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted
+198,House Robber,Dynamic Programming,42.1%,Easy,10.3853,https://leetcode.com/problems/house-robber
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,37.4643,https://leetcode.com/problems/number-of-islands
+215,Kth Largest Element in an Array,"Divide and Conquer, Heap",55.8%,Medium,1.77283,https://leetcode.com/problems/kth-largest-element-in-an-array
+240,Search a 2D Matrix II,"Binary Search, Divide and Conquer",43.3%,Medium,20.4518,https://leetcode.com/problems/search-a-2d-matrix-ii
+242,Valid Anagram,"Hash Table, Sort",57.1%,Easy,1.73184,https://leetcode.com/problems/valid-anagram
+253,Meeting Rooms II,"Heap, Greedy, Sort",45.8%,Medium,8.20393,https://leetcode.com/problems/meeting-rooms-ii
+295,Find Median from Data Stream,"Heap, Design",44.8%,Hard,47.1316,https://leetcode.com/problems/find-median-from-data-stream
+297,Serialize and Deserialize Binary Tree,"Tree, Design",47.8%,Hard,20.0081,https://leetcode.com/problems/serialize-and-deserialize-binary-tree
+314,Binary Tree Vertical Order Traversal,"Depth-first Search, Breadth-first Search",45.5%,Medium,2.83385,https://leetcode.com/problems/binary-tree-vertical-order-traversal
+404,Sum of Left Leaves,Tree,52.0%,Easy,0.911262,https://leetcode.com/problems/sum-of-left-leaves
+443,String Compression,String,41.5%,Easy,55.7612,https://leetcode.com/problems/string-compression
+451,Sort Characters By Frequency,"Hash Table, Heap",63.2%,Medium,39.6922,https://leetcode.com/problems/sort-characters-by-frequency
+560,Subarray Sum Equals K,"Array, Hash Table",43.8%,Medium,0.722739,https://leetcode.com/problems/subarray-sum-equals-k
+611,Valid Triangle Number,Array,48.5%,Medium,0.0,https://leetcode.com/problems/valid-triangle-number
+692,Top K Frequent Words,"Hash Table, Heap, Trie",52.1%,Medium,5.68517,https://leetcode.com/problems/top-k-frequent-words
+706,Design HashMap,"Hash Table, Design",61.6%,Easy,6.61704,https://leetcode.com/problems/design-hashmap
+713,Subarray Product Less Than K,"Array, Two Pointers",39.2%,Medium,26.6607,https://leetcode.com/problems/subarray-product-less-than-k
+724,Find Pivot Index,Array,44.2%,Easy,8.45491,https://leetcode.com/problems/find-pivot-index
+739,Daily Temperatures,"Hash Table, Stack",63.7%,Medium,3.47008,https://leetcode.com/problems/daily-temperatures
+884,Uncommon Words from Two Sentences,Hash Table,63.4%,Easy,15.865,https://leetcode.com/problems/uncommon-words-from-two-sentences
+973,K Closest Points to Origin,"Divide and Conquer, Heap, Sort",64.0%,Medium,24.2308,https://leetcode.com/problems/k-closest-points-to-origin
+974,Subarray Sums Divisible by K,"Array, Hash Table",49.1%,Medium,85.1473,https://leetcode.com/problems/subarray-sums-divisible-by-k
+1101,The Earliest Moment When Everyone Become Friends,Union Find,66.3%,Medium,0.0,https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends
+1151,Minimum Swaps to Group All 1's Together,"Array, Sliding Window",59.4%,Medium,0.0,https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together
+1283,Find the Smallest Divisor Given a Threshold,Binary Search,48.8%,Medium,46.4056,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold
+1328,Break a Palindrome,String,43.8%,Medium,0.0,https://leetcode.com/problems/break-a-palindrome
+1451,Rearrange Words in a Sentence,"String, Sort",55.8%,Medium,0.0,https://leetcode.com/problems/rearrange-words-in-a-sentence
+1492,The kth Factor of n,Math,67.3%,Medium,0.0,https://leetcode.com/problems/the-kth-factor-of-n
+1560,Most Visited Sector in a Circular Track,Array,56.7%,Easy,0.0,https://leetcode.com/problems/most-visited-sector-in-a-circular-track

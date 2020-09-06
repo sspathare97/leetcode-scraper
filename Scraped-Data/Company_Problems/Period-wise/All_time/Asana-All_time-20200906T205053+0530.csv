@@ -1,0 +1,7 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+50,"Pow(x, n)","Math, Binary Search",30.5%,Medium,8.4815,https://leetcode.com/problems/powx-n
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",46.7%,Easy,2.11962,https://leetcode.com/problems/maximum-subarray
+98,Validate Binary Search Tree,"Tree, Depth-first Search",27.9%,Medium,100.0,https://leetcode.com/problems/validate-binary-search-tree
+146,LRU Cache,Design,33.5%,Medium,50.2237,https://leetcode.com/problems/lru-cache
+238,Product of Array Except Self,Array,60.3%,Medium,81.4697,https://leetcode.com/problems/product-of-array-except-self
+973,K Closest Points to Origin,"Divide and Conquer, Heap, Sort",64.0%,Medium,39.7276,https://leetcode.com/problems/k-closest-points-to-origin

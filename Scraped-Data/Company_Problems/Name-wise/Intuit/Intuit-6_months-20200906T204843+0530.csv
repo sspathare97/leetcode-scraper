@@ -1,0 +1,7 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,0.896495,https://leetcode.com/problems/two-sum
+20,Valid Parentheses,"String, Stack",39.1%,Easy,2.36165,https://leetcode.com/problems/valid-parentheses
+68,Text Justification,String,28.0%,Hard,100.0,https://leetcode.com/problems/text-justification
+79,Word Search,"Array, Backtracking",35.8%,Medium,54.7904,https://leetcode.com/problems/word-search
+729,My Calendar I,Array,52.0%,Medium,36.0864,https://leetcode.com/problems/my-calendar-i
+811,Subdomain Visit Count,Hash Table,70.1%,Easy,66.2753,https://leetcode.com/problems/subdomain-visit-count

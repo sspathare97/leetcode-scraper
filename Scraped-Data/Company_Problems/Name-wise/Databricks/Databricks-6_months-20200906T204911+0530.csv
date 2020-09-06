@@ -1,0 +1,12 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+10,Regular Expression Matching,"String, Dynamic Programming, Backtracking",26.9%,Hard,1.52849,https://leetcode.com/problems/regular-expression-matching
+41,First Missing Positive,Array,32.2%,Hard,12.9797,https://leetcode.com/problems/first-missing-positive
+68,Text Justification,String,28.0%,Hard,6.63779,https://leetcode.com/problems/text-justification
+239,Sliding Window Maximum,"Heap, Sliding Window",43.4%,Hard,9.24923,https://leetcode.com/problems/sliding-window-maximum
+314,Binary Tree Vertical Order Traversal,"Depth-first Search, Breadth-first Search",45.5%,Medium,28.5455,https://leetcode.com/problems/binary-tree-vertical-order-traversal
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",47.7%,Medium,8.32362,https://leetcode.com/problems/insert-delete-getrandom-o1
+722,Remove Comments,String,34.7%,Medium,100.0,https://leetcode.com/problems/remove-comments
+742,Closest Leaf in a Binary Tree,Tree,43.7%,Medium,21.727,https://leetcode.com/problems/closest-leaf-in-a-binary-tree
+987,Vertical Order Traversal of a Binary Tree,"Hash Table, Tree",36.5%,Medium,0.431731,https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree
+1242,Web Crawler Multithreaded,"Depth-first Search, Breadth-first Search",45.5%,Medium,64.2728,https://leetcode.com/problems/web-crawler-multithreaded
+1329,Sort the Matrix Diagonally,"Array, Sort",78.5%,Medium,8.10767,https://leetcode.com/problems/sort-the-matrix-diagonally

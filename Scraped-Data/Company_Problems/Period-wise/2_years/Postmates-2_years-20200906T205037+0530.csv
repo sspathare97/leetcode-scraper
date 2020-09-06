@@ -1,0 +1,10 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+15,3Sum,"Array, Two Pointers",27.0%,Medium,6.28629,https://leetcode.com/problems/3sum
+20,Valid Parentheses,"String, Stack",39.1%,Easy,2.60106,https://leetcode.com/problems/valid-parentheses
+55,Jump Game,"Array, Greedy",34.7%,Medium,14.4928,https://leetcode.com/problems/jump-game
+56,Merge Intervals,"Array, Sort",39.5%,Medium,25.6862,https://leetcode.com/problems/merge-intervals
+227,Basic Calculator II,String,37.1%,Medium,29.6914,https://leetcode.com/problems/basic-calculator-ii
+253,Meeting Rooms II,"Heap, Greedy, Sort",45.8%,Medium,20.4186,https://leetcode.com/problems/meeting-rooms-ii
+301,Remove Invalid Parentheses,"Depth-first Search, Breadth-first Search",43.5%,Hard,100.0,https://leetcode.com/problems/remove-invalid-parentheses
+759,Employee Free Time,"Heap, Greedy",66.5%,Hard,47.57,https://leetcode.com/problems/employee-free-time
+1190,Reverse Substrings Between Each Pair of Parentheses,Stack,62.9%,Medium,73.785,https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses

@@ -1,0 +1,10 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+5,Longest Palindromic Substring,"String, Dynamic Programming",29.6%,Medium,3.61712,https://leetcode.com/problems/longest-palindromic-substring
+124,Binary Tree Maximum Path Sum,"Tree, Depth-first Search",34.5%,Hard,9.27312,https://leetcode.com/problems/binary-tree-maximum-path-sum
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,18.2612,https://leetcode.com/problems/number-of-islands
+221,Maximal Square,Dynamic Programming,37.8%,Medium,17.0277,https://leetcode.com/problems/maximal-square
+340,Longest Substring with At Most K Distinct Characters,"Hash Table, String, Sliding Window",44.3%,Hard,0.0,https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters
+346,Moving Average from Data Stream,"Design, Queue",71.3%,Easy,66.6921,https://leetcode.com/problems/moving-average-from-data-stream
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",47.7%,Medium,16.2069,https://leetcode.com/problems/insert-delete-getrandom-o1
+394,Decode String,"Stack, Depth-first Search",50.4%,Medium,100.0,https://leetcode.com/problems/decode-string
+1283,Find the Smallest Divisor Given a Threshold,Binary Search,48.8%,Medium,51.5691,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold

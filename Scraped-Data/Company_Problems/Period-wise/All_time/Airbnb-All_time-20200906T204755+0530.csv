@@ -1,0 +1,60 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,18.7358,https://leetcode.com/problems/two-sum
+2,Add Two Numbers,"Linked List, Math",34.1%,Medium,4.13827,https://leetcode.com/problems/add-two-numbers
+4,Median of Two Sorted Arrays,"Array, Binary Search, Divide and Conquer",29.8%,Hard,0.914103,https://leetcode.com/problems/median-of-two-sorted-arrays
+5,Longest Palindromic Substring,"String, Dynamic Programming",29.6%,Medium,1.92506,https://leetcode.com/problems/longest-palindromic-substring
+10,Regular Expression Matching,"String, Dynamic Programming, Backtracking",26.9%,Hard,3.81322,https://leetcode.com/problems/regular-expression-matching
+20,Valid Parentheses,"String, Stack",39.1%,Easy,1.01228,https://leetcode.com/problems/valid-parentheses
+21,Merge Two Sorted Lists,Linked List,53.9%,Easy,0.549121,https://leetcode.com/problems/merge-two-sorted-lists
+23,Merge k Sorted Lists,"Linked List, Divide and Conquer, Heap",40.6%,Hard,0.428176,https://leetcode.com/problems/merge-k-sorted-lists
+34,Find First and Last Position of Element in Sorted Array,"Array, Binary Search",36.3%,Medium,0.0681243,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+39,Combination Sum,"Array, Backtracking",56.5%,Medium,29.5195,https://leetcode.com/problems/combination-sum
+42,Trapping Rain Water,"Array, Two Pointers, Stack",49.2%,Hard,17.7832,https://leetcode.com/problems/trapping-rain-water
+68,Text Justification,String,28.0%,Hard,56.9041,https://leetcode.com/problems/text-justification
+108,Convert Sorted Array to Binary Search Tree,"Tree, Depth-first Search",58.4%,Easy,0.605935,https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree
+136,Single Number,"Hash Table, Bit Manipulation",65.7%,Easy,0.582653,https://leetcode.com/problems/single-number
+160,Intersection of Two Linked Lists,Linked List,41.1%,Easy,0.69472,https://leetcode.com/problems/intersection-of-two-linked-lists
+166,Fraction to Recurring Decimal,"Hash Table, Math",21.7%,Medium,32.4921,https://leetcode.com/problems/fraction-to-recurring-decimal
+190,Reverse Bits,Bit Manipulation,40.2%,Easy,0.80912,https://leetcode.com/problems/reverse-bits
+198,House Robber,Dynamic Programming,42.1%,Easy,2.04509,https://leetcode.com/problems/house-robber
+202,Happy Number,"Hash Table, Math",50.6%,Easy,0.641922,https://leetcode.com/problems/happy-number
+211,Design Add and Search Words Data Structure,"Backtracking, Design, Trie",38.3%,Medium,0.162999,https://leetcode.com/problems/design-add-and-search-words-data-structure
+212,Word Search II,"Backtracking, Trie",35.1%,Hard,5.55867,https://leetcode.com/problems/word-search-ii
+215,Kth Largest Element in an Array,"Divide and Conquer, Heap",55.8%,Medium,0.440662,https://leetcode.com/problems/kth-largest-element-in-an-array
+217,Contains Duplicate,"Array, Hash Table",56.2%,Easy,0.222475,https://leetcode.com/problems/contains-duplicate
+219,Contains Duplicate II,"Array, Hash Table",37.9%,Easy,1.80909,https://leetcode.com/problems/contains-duplicate-ii
+220,Contains Duplicate III,"Sort, Ordered Map",21.4%,Medium,0.136017,https://leetcode.com/problems/contains-duplicate-iii
+221,Maximal Square,Dynamic Programming,37.8%,Medium,0.379045,https://leetcode.com/problems/maximal-square
+227,Basic Calculator II,String,37.1%,Medium,0.0,https://leetcode.com/problems/basic-calculator-ii
+236,Lowest Common Ancestor of a Binary Tree,Tree,46.2%,Medium,1.24053,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+251,Flatten 2D Vector,Design,45.8%,Medium,75.4351,https://leetcode.com/problems/flatten-2d-vector
+269,Alien Dictionary,"Graph, Topological Sort",33.3%,Hard,62.3101,https://leetcode.com/problems/alien-dictionary
+280,Wiggle Sort,"Array, Sort",63.9%,Medium,1.73906,https://leetcode.com/problems/wiggle-sort
+299,Bulls and Cows,Hash Table,42.5%,Easy,3.1883,https://leetcode.com/problems/bulls-and-cows
+322,Coin Change,Dynamic Programming,35.8%,Medium,3.84458,https://leetcode.com/problems/coin-change
+324,Wiggle Sort II,Sort,30.0%,Medium,24.4473,https://leetcode.com/problems/wiggle-sort-ii
+336,Palindrome Pairs,"Hash Table, String, Trie",33.8%,Hard,100.0,https://leetcode.com/problems/palindrome-pairs
+341,Flatten Nested List Iterator,"Stack, Design",53.1%,Medium,31.2005,https://leetcode.com/problems/flatten-nested-list-iterator
+385,Mini Parser,"String, Stack",33.9%,Medium,2.7759,https://leetcode.com/problems/mini-parser
+415,Add Strings,String,47.7%,Easy,0.0,https://leetcode.com/problems/add-strings
+588,Design In-Memory File System,Design,46.2%,Hard,5.56368,https://leetcode.com/problems/design-in-memory-file-system
+622,Design Circular Queue,"Design, Queue",44.1%,Medium,0.302977,https://leetcode.com/problems/design-circular-queue
+751,IP to CIDR,Bit Manipulation,61.5%,Medium,77.6129,https://leetcode.com/problems/ip-to-cidr
+755,Pour Water,Array,43.5%,Medium,87.0072,https://leetcode.com/problems/pour-water
+756,Pyramid Transition Matrix,"Bit Manipulation, Depth-first Search",54.8%,Medium,15.0827,https://leetcode.com/problems/pyramid-transition-matrix
+759,Employee Free Time,"Heap, Greedy",66.5%,Hard,13.3236,https://leetcode.com/problems/employee-free-time
+773,Sliding Puzzle,Breadth-first Search,59.5%,Hard,46.3816,https://leetcode.com/problems/sliding-puzzle
+787,Cheapest Flights Within K Stops,"Dynamic Programming, Heap, Breadth-first Search",39.3%,Medium,50.2049,https://leetcode.com/problems/cheapest-flights-within-k-stops
+864,Shortest Path to Get All Keys,"Heap, Breadth-first Search",40.5%,Hard,15.1845,https://leetcode.com/problems/shortest-path-to-get-all-keys
+875,Koko Eating Bananas,Binary Search,52.5%,Medium,18.9639,https://leetcode.com/problems/koko-eating-bananas
+953,Verifying an Alien Dictionary,Hash Table,53.9%,Easy,0.136066,https://leetcode.com/problems/verifying-an-alien-dictionary
+1017,Convert to Base -2,Math,58.9%,Medium,0.0,https://leetcode.com/problems/convert-to-base-2
+1041,Robot Bounded In Circle,Math,50.3%,Medium,0.0,https://leetcode.com/problems/robot-bounded-in-circle
+1058,Minimize Rounding Error to Meet Target,"Math, Dynamic Programming, Greedy",41.8%,Medium,18.1887,https://leetcode.com/problems/minimize-rounding-error-to-meet-target
+1166,Design File System,"Hash Table, Design",56.9%,Medium,45.6171,https://leetcode.com/problems/design-file-system
+1235,Maximum Profit in Job Scheduling,"Binary Search, Dynamic Programming, Sort",44.2%,Hard,3.79977,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+1257,Smallest Common Region,Tree,59.2%,Medium,8.51395,https://leetcode.com/problems/smallest-common-region
+1284,Minimum Number of Flips to Convert Binary Matrix to Zero Matrix,Breadth-first Search,69.5%,Hard,0.0,https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix
+1298,Maximum Candies You Can Get from Boxes,Breadth-first Search,59.3%,Hard,0.0,https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes
+1554,Strings Differ by One Character,,64.5%,Medium,0.0,https://leetcode.com/problems/strings-differ-by-one-character
+1557,Minimum Number of Vertices to Reach All Nodes,Graph,71.9%,Medium,0.0,https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes

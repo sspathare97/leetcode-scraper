@@ -1,0 +1,22 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+6,ZigZag Conversion,String,36.6%,Medium,7.01214,https://leetcode.com/problems/zigzag-conversion
+37,Sudoku Solver,"Hash Table, Backtracking",44.0%,Hard,17.1405,https://leetcode.com/problems/sudoku-solver
+64,Minimum Path Sum,"Array, Dynamic Programming",54.8%,Medium,5.6793,https://leetcode.com/problems/minimum-path-sum
+96,Unique Binary Search Trees,"Dynamic Programming, Tree",53.2%,Medium,21.4953,https://leetcode.com/problems/unique-binary-search-trees
+153,Find Minimum in Rotated Sorted Array,"Array, Binary Search",45.2%,Medium,12.5255,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array
+155,Min Stack,"Stack, Design",44.8%,Easy,4.17028,https://leetcode.com/problems/min-stack
+172,Factorial Trailing Zeroes,Math,37.8%,Easy,11.6363,https://leetcode.com/problems/factorial-trailing-zeroes
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,2.51488,https://leetcode.com/problems/number-of-islands
+207,Course Schedule,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",43.3%,Medium,10.8388,https://leetcode.com/problems/course-schedule
+239,Sliding Window Maximum,"Heap, Sliding Window",43.4%,Hard,6.34609,https://leetcode.com/problems/sliding-window-maximum
+311,Sparse Matrix Multiplication,Hash Table,62.2%,Medium,27.3095,https://leetcode.com/problems/sparse-matrix-multiplication
+314,Binary Tree Vertical Order Traversal,"Depth-first Search, Breadth-first Search",45.5%,Medium,14.0952,https://leetcode.com/problems/binary-tree-vertical-order-traversal
+340,Longest Substring with At Most K Distinct Characters,"Hash Table, String, Sliding Window",44.3%,Hard,14.6935,https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters
+388,Longest Absolute File Path,,41.8%,Medium,100.0,https://leetcode.com/problems/longest-absolute-file-path
+528,Random Pick with Weight,"Binary Search, Random",44.1%,Medium,14.855,https://leetcode.com/problems/random-pick-with-weight
+560,Subarray Sum Equals K,"Array, Hash Table",43.8%,Medium,3.59482,https://leetcode.com/problems/subarray-sum-equals-k
+616,Add Bold Tag in String,String,43.3%,Medium,61.3505,https://leetcode.com/problems/add-bold-tag-in-string
+695,Max Area of Island,"Array, Depth-first Search",63.0%,Medium,11.4864,https://leetcode.com/problems/max-area-of-island
+729,My Calendar I,Array,52.0%,Medium,28.9517,https://leetcode.com/problems/my-calendar-i
+900,RLE Iterator,Array,53.8%,Medium,88.7511,https://leetcode.com/problems/rle-iterator
+1152,Analyze User Website Visit Pattern,"Array, Hash Table, Sort",43.7%,Medium,33.9498,https://leetcode.com/problems/analyze-user-website-visit-pattern

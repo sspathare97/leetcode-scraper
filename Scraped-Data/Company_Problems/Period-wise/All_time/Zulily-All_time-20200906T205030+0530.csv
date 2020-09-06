@@ -1,0 +1,11 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+4,Median of Two Sorted Arrays,"Array, Binary Search, Divide and Conquer",29.8%,Hard,8.11481,https://leetcode.com/problems/median-of-two-sorted-arrays
+10,Regular Expression Matching,"String, Dynamic Programming, Backtracking",26.9%,Hard,16.2087,https://leetcode.com/problems/regular-expression-matching
+33,Search in Rotated Sorted Array,"Array, Binary Search",34.7%,Medium,7.5123,https://leetcode.com/problems/search-in-rotated-sorted-array
+49,Group Anagrams,"Hash Table, String",57.3%,Medium,8.77476,https://leetcode.com/problems/group-anagrams
+56,Merge Intervals,"Array, Sort",39.5%,Medium,100.0,https://leetcode.com/problems/merge-intervals
+70,Climbing Stairs,Dynamic Programming,47.9%,Easy,12.0408,https://leetcode.com/problems/climbing-stairs
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,11.2334,https://leetcode.com/problems/number-of-islands
+242,Valid Anagram,"Hash Table, Sort",57.1%,Easy,26.6222,https://leetcode.com/problems/valid-anagram
+387,First Unique Character in a String,"Hash Table, String",53.4%,Easy,9.88496,https://leetcode.com/problems/first-unique-character-in-a-string
+1138,Alphabet Board Path,"Hash Table, String",48.5%,Medium,63.3111,https://leetcode.com/problems/alphabet-board-path

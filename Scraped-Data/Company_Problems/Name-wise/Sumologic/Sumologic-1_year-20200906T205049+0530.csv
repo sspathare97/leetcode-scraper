@@ -1,0 +1,5 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+56,Merge Intervals,"Array, Sort",39.5%,Medium,1.22874,https://leetcode.com/problems/merge-intervals
+558,Logical OR of Two Binary Grids Represented as Quad-Trees,,44.7%,Medium,100.0,https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees
+850,Rectangle Area II,"Segment Tree, Line Sweep",47.7%,Hard,59.348,https://leetcode.com/problems/rectangle-area-ii
+981,Time Based Key-Value Store,"Hash Table, Binary Search",53.1%,Medium,18.6961,https://leetcode.com/problems/time-based-key-value-store

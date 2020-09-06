@@ -1,0 +1,16 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+23,Merge k Sorted Lists,"Linked List, Divide and Conquer, Heap",40.6%,Hard,5.4824,https://leetcode.com/problems/merge-k-sorted-lists
+36,Valid Sudoku,Hash Table,49.1%,Medium,4.34524,https://leetcode.com/problems/valid-sudoku
+44,Wildcard Matching,"String, Dynamic Programming, Backtracking, Greedy",24.8%,Hard,7.32521,https://leetcode.com/problems/wildcard-matching
+56,Merge Intervals,"Array, Sort",39.5%,Medium,4.33571,https://leetcode.com/problems/merge-intervals
+63,Unique Paths II,"Array, Dynamic Programming",34.7%,Medium,5.27759,https://leetcode.com/problems/unique-paths-ii
+79,Word Search,"Array, Backtracking",35.8%,Medium,12.6496,https://leetcode.com/problems/word-search
+146,LRU Cache,Design,33.5%,Medium,100.0,https://leetcode.com/problems/lru-cache
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,19.4554,https://leetcode.com/problems/number-of-islands
+281,Zigzag Iterator,Design,58.6%,Medium,72.9252,https://leetcode.com/problems/zigzag-iterator
+304,Range Sum Query 2D - Immutable,Dynamic Programming,38.9%,Medium,26.8136,https://leetcode.com/problems/range-sum-query-2d-immutable
+394,Decode String,"Stack, Depth-first Search",50.4%,Medium,4.0401,https://leetcode.com/problems/decode-string
+529,Minesweeper,"Depth-first Search, Breadth-first Search",59.4%,Medium,53.8884,https://leetcode.com/problems/minesweeper
+695,Max Area of Island,"Array, Depth-first Search",63.0%,Medium,16.4285,https://leetcode.com/problems/max-area-of-island
+981,Time Based Key-Value Store,"Hash Table, Binary Search",53.1%,Medium,13.2138,https://leetcode.com/problems/time-based-key-value-store
+986,Interval List Intersections,Two Pointers,67.5%,Medium,7.17236,https://leetcode.com/problems/interval-list-intersections

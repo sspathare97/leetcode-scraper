@@ -1,0 +1,18 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+4,Median of Two Sorted Arrays,"Array, Binary Search, Divide and Conquer",29.8%,Hard,3.75865,https://leetcode.com/problems/median-of-two-sorted-arrays
+10,Regular Expression Matching,"String, Dynamic Programming, Backtracking",26.9%,Hard,7.52195,https://leetcode.com/problems/regular-expression-matching
+31,Next Permutation,Array,32.7%,Medium,6.1094,https://leetcode.com/problems/next-permutation
+43,Multiply Strings,"Math, String",34.1%,Medium,40.5537,https://leetcode.com/problems/multiply-strings
+48,Rotate Image,Array,57.3%,Medium,11.1434,https://leetcode.com/problems/rotate-image
+120,Triangle,"Array, Dynamic Programming",44.4%,Medium,14.6382,https://leetcode.com/problems/triangle
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,11.6846,https://leetcode.com/problems/number-of-islands
+212,Word Search II,"Backtracking, Trie",35.1%,Hard,9.79198,https://leetcode.com/problems/word-search-ii
+218,The Skyline Problem,"Divide and Conquer, Heap, Binary Indexed Tree, Segment Tree, Line Sweep",34.7%,Hard,28.3427,https://leetcode.com/problems/the-skyline-problem
+227,Basic Calculator II,String,37.1%,Medium,100.0,https://leetcode.com/problems/basic-calculator-ii
+238,Product of Array Except Self,Array,60.3%,Medium,3.99316,https://leetcode.com/problems/product-of-array-except-self
+301,Remove Invalid Parentheses,"Depth-first Search, Breadth-first Search",43.5%,Hard,17.0685,https://leetcode.com/problems/remove-invalid-parentheses
+304,Range Sum Query 2D - Immutable,Dynamic Programming,38.9%,Medium,21.9477,https://leetcode.com/problems/range-sum-query-2d-immutable
+556,Next Greater Element III,String,31.8%,Medium,46.2483,https://leetcode.com/problems/next-greater-element-iii
+698,Partition to K Equal Sum Subsets,"Dynamic Programming, Recursion",45.0%,Medium,20.8869,https://leetcode.com/problems/partition-to-k-equal-sum-subsets
+721,Accounts Merge,"Depth-first Search, Union Find",49.2%,Medium,73.1241,https://leetcode.com/problems/accounts-merge
+727,Minimum Window Subsequence,"Dynamic Programming, Sliding Window",41.9%,Hard,40.1618,https://leetcode.com/problems/minimum-window-subsequence

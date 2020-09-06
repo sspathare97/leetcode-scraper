@@ -1,0 +1,37 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+5,Longest Palindromic Substring,"String, Dynamic Programming",29.6%,Medium,0.209237,https://leetcode.com/problems/longest-palindromic-substring
+17,Letter Combinations of a Phone Number,"String, Backtracking",47.1%,Medium,1.63208,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+22,Generate Parentheses,"String, Backtracking",63.1%,Medium,0.939478,https://leetcode.com/problems/generate-parentheses
+33,Search in Rotated Sorted Array,"Array, Binary Search",34.7%,Medium,2.79898,https://leetcode.com/problems/search-in-rotated-sorted-array
+40,Combination Sum II,"Array, Backtracking",48.6%,Medium,0.982795,https://leetcode.com/problems/combination-sum-ii
+45,Jump Game II,"Array, Greedy",30.7%,Hard,42.4926,https://leetcode.com/problems/jump-game-ii
+49,Group Anagrams,"Hash Table, String",57.3%,Medium,0.367493,https://leetcode.com/problems/group-anagrams
+55,Jump Game,"Array, Greedy",34.7%,Medium,1.97023,https://leetcode.com/problems/jump-game
+76,Minimum Window Substring,"Hash Table, Two Pointers, String, Sliding Window",34.9%,Hard,0.590674,https://leetcode.com/problems/minimum-window-substring
+116,Populating Next Right Pointers in Each Node,"Tree, Depth-first Search",45.7%,Medium,0.756201,https://leetcode.com/problems/populating-next-right-pointers-in-each-node
+128,Longest Consecutive Sequence,"Array, Union Find",45.3%,Hard,0.850127,https://leetcode.com/problems/longest-consecutive-sequence
+138,Copy List with Random Pointer,"Hash Table, Linked List",37.0%,Medium,0.58226,https://leetcode.com/problems/copy-list-with-random-pointer
+146,LRU Cache,Design,33.5%,Medium,1.75398,https://leetcode.com/problems/lru-cache
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,0.595436,https://leetcode.com/problems/number-of-islands
+202,Happy Number,"Hash Table, Math",50.6%,Easy,2.4033,https://leetcode.com/problems/happy-number
+207,Course Schedule,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",43.3%,Medium,1.14226,https://leetcode.com/problems/course-schedule
+208,Implement Trie (Prefix Tree),"Design, Trie",49.9%,Medium,0.80282,https://leetcode.com/problems/implement-trie-prefix-tree
+210,Course Schedule II,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",41.0%,Medium,4.12975,https://leetcode.com/problems/course-schedule-ii
+234,Palindrome Linked List,"Linked List, Two Pointers",39.5%,Easy,0.94457,https://leetcode.com/problems/palindrome-linked-list
+238,Product of Array Except Self,Array,60.3%,Medium,1.43698,https://leetcode.com/problems/product-of-array-except-self
+239,Sliding Window Maximum,"Heap, Sliding Window",43.4%,Hard,0.668792,https://leetcode.com/problems/sliding-window-maximum
+253,Meeting Rooms II,"Heap, Greedy, Sort",45.8%,Medium,1.56749,https://leetcode.com/problems/meeting-rooms-ii
+273,Integer to English Words,"Math, String",27.2%,Hard,5.15527,https://leetcode.com/problems/integer-to-english-words
+283,Move Zeroes,"Array, Two Pointers",58.0%,Easy,0.269041,https://leetcode.com/problems/move-zeroes
+316,Remove Duplicate Letters,"Stack, Greedy",36.1%,Hard,3.08524,https://leetcode.com/problems/remove-duplicate-letters
+402,Remove K Digits,"Stack, Greedy",28.4%,Medium,9.79074,https://leetcode.com/problems/remove-k-digits
+403,Frog Jump,Dynamic Programming,40.0%,Hard,14.6435,https://leetcode.com/problems/frog-jump
+457,Circular Array Loop,"Array, Two Pointers",29.4%,Medium,35.3588,https://leetcode.com/problems/circular-array-loop
+564,Find the Closest Palindrome,String,19.8%,Hard,7.81687,https://leetcode.com/problems/find-the-closest-palindrome
+621,Task Scheduler,"Array, Greedy, Queue",50.4%,Medium,1.96699,https://leetcode.com/problems/task-scheduler
+703,Kth Largest Element in a Stream,Heap,49.9%,Easy,3.0669,https://leetcode.com/problems/kth-largest-element-in-a-stream
+826,Most Profit Assigning Work,Two Pointers,38.6%,Medium,10.2503,https://leetcode.com/problems/most-profit-assigning-work
+853,Car Fleet,Sort,42.4%,Medium,53.163,https://leetcode.com/problems/car-fleet
+977,Squares of a Sorted Array,"Array, Two Pointers",72.2%,Easy,0.790599,https://leetcode.com/problems/squares-of-a-sorted-array
+991,Broken Calculator,"Math, Greedy",45.8%,Medium,76.5815,https://leetcode.com/problems/broken-calculator
+1052,Grumpy Bookstore Owner,"Array, Sliding Window",55.4%,Medium,100.0,https://leetcode.com/problems/grumpy-bookstore-owner

@@ -1,0 +1,11 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+2,Add Two Numbers,"Linked List, Math",34.1%,Medium,11.6194,https://leetcode.com/problems/add-two-numbers
+49,Group Anagrams,"Hash Table, String",57.3%,Medium,96.9698,https://leetcode.com/problems/group-anagrams
+71,Simplify Path,"String, Stack",32.8%,Medium,69.0603,https://leetcode.com/problems/simplify-path
+73,Set Matrix Zeroes,Array,43.3%,Medium,49.4527,https://leetcode.com/problems/set-matrix-zeroes
+79,Word Search,"Array, Backtracking",35.8%,Medium,21.5431,https://leetcode.com/problems/word-search
+92,Reverse Linked List II,Linked List,39.1%,Medium,100.0,https://leetcode.com/problems/reverse-linked-list-ii
+133,Clone Graph,"Depth-first Search, Breadth-first Search, Graph",35.4%,Medium,13.7131,https://leetcode.com/problems/clone-graph
+146,LRU Cache,Design,33.5%,Medium,49.9622,https://leetcode.com/problems/lru-cache
+206,Reverse Linked List,Linked List,63.0%,Easy,8.54132,https://leetcode.com/problems/reverse-linked-list
+242,Valid Anagram,"Hash Table, Sort",57.1%,Easy,7.40485,https://leetcode.com/problems/valid-anagram

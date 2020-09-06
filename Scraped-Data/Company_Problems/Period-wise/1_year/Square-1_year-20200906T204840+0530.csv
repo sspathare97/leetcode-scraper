@@ -1,0 +1,14 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+17,Letter Combinations of a Phone Number,"String, Backtracking",47.1%,Medium,1.8252,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+72,Edit Distance,"String, Dynamic Programming",45.1%,Hard,36.9486,https://leetcode.com/problems/edit-distance
+91,Decode Ways,"String, Dynamic Programming",24.9%,Medium,2.03494,https://leetcode.com/problems/decode-ways
+165,Compare Version Numbers,String,27.6%,Medium,18.6785,https://leetcode.com/problems/compare-version-numbers
+271,Encode and Decode Strings,String,31.7%,Medium,33.1869,https://leetcode.com/problems/encode-and-decode-strings
+273,Integer to English Words,"Math, String",27.2%,Hard,13.0318,https://leetcode.com/problems/integer-to-english-words
+332,Reconstruct Itinerary,"Depth-first Search, Graph",36.9%,Medium,6.30479,https://leetcode.com/problems/reconstruct-itinerary
+336,Palindrome Pairs,"Hash Table, String, Trie",33.8%,Hard,100.0,https://leetcode.com/problems/palindrome-pairs
+388,Longest Absolute File Path,,41.8%,Medium,49.636,https://leetcode.com/problems/longest-absolute-file-path
+415,Add Strings,String,47.7%,Easy,7.45176,https://leetcode.com/problems/add-strings
+969,Pancake Sorting,"Array, Sort",68.2%,Medium,1.6625,https://leetcode.com/problems/pancake-sorting
+999,Available Captures for Rook,Array,66.7%,Easy,29.0605,https://leetcode.com/problems/available-captures-for-rook
+1336,Number of Transactions per Visit,,44.7%,Hard,74.818,https://leetcode.com/problems/number-of-transactions-per-visit

@@ -1,0 +1,14 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+10,Regular Expression Matching,"String, Dynamic Programming, Backtracking",26.9%,Hard,0.262165,https://leetcode.com/problems/regular-expression-matching
+42,Trapping Rain Water,"Array, Two Pointers, Stack",49.2%,Hard,0.305891,https://leetcode.com/problems/trapping-rain-water
+48,Rotate Image,Array,57.3%,Medium,0.173052,https://leetcode.com/problems/rotate-image
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",46.7%,Easy,0.0751123,https://leetcode.com/problems/maximum-subarray
+56,Merge Intervals,"Array, Sort",39.5%,Medium,25.7962,https://leetcode.com/problems/merge-intervals
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,1.60611,https://leetcode.com/problems/number-of-islands
+273,Integer to English Words,"Math, String",27.2%,Hard,0.505641,https://leetcode.com/problems/integer-to-english-words
+277,Find the Celebrity,Array,42.1%,Medium,3.8467,https://leetcode.com/problems/find-the-celebrity
+285,Inorder Successor in BST,Tree,40.8%,Medium,0.7909,https://leetcode.com/problems/inorder-successor-in-bst
+393,UTF-8 Validation,Bit Manipulation,37.6%,Medium,100.0,https://leetcode.com/problems/utf-8-validation
+539,Minimum Time Difference,String,51.7%,Medium,62.8981,https://leetcode.com/problems/minimum-time-difference
+695,Max Area of Island,"Array, Depth-first Search",63.0%,Medium,1.04292,https://leetcode.com/problems/max-area-of-island
+733,Flood Fill,Depth-first Search,55.4%,Easy,6.44697,https://leetcode.com/problems/flood-fill

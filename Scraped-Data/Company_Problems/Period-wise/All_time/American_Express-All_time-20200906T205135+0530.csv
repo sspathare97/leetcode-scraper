@@ -1,0 +1,4 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1201,Ugly Number III,"Math, Binary Search",26.2%,Medium,100,https://leetcode.com/problems/ugly-number-iii
+1224,Maximum Equal Frequency,Hash Table,33.8%,Hard,0,https://leetcode.com/problems/maximum-equal-frequency
+1521,Find a Value of a Mysterious Function Closest to Target,"Binary Search, Bit Manipulation, Segment Tree",43.1%,Hard,0,https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target

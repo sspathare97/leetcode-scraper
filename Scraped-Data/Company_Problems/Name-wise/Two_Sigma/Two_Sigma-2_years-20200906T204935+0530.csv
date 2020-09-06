@@ -1,0 +1,15 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+4,Median of Two Sorted Arrays,"Array, Binary Search, Divide and Conquer",29.8%,Hard,0.154377,https://leetcode.com/problems/median-of-two-sorted-arrays
+44,Wildcard Matching,"String, Dynamic Programming, Backtracking, Greedy",24.8%,Hard,2.15696,https://leetcode.com/problems/wildcard-matching
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",46.7%,Easy,0.353127,https://leetcode.com/problems/maximum-subarray
+56,Merge Intervals,"Array, Sort",39.5%,Medium,0.324356,https://leetcode.com/problems/merge-intervals
+123,Best Time to Buy and Sell Stock III,"Array, Dynamic Programming",38.6%,Hard,14.2133,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii
+146,LRU Cache,Design,33.5%,Medium,15.4706,https://leetcode.com/problems/lru-cache
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",47.7%,Medium,4.98372,https://leetcode.com/problems/insert-delete-getrandom-o1
+384,Shuffle an Array,,52.9%,Medium,0.771426,https://leetcode.com/problems/shuffle-an-array
+528,Random Pick with Weight,"Binary Search, Random",44.1%,Medium,6.06477,https://leetcode.com/problems/random-pick-with-weight
+547,Friend Circles,"Depth-first Search, Union Find",58.9%,Medium,100.0,https://leetcode.com/problems/friend-circles
+710,Random Pick with Blacklist,"Hash Table, Binary Search, Sort, Random",32.5%,Hard,12.7807,https://leetcode.com/problems/random-pick-with-blacklist
+918,Maximum Sum Circular Subarray,Array,33.7%,Medium,53.1314,https://leetcode.com/problems/maximum-sum-circular-subarray
+1048,Longest String Chain,"Hash Table, Dynamic Programming",54.8%,Medium,90.7921,https://leetcode.com/problems/longest-string-chain
+1163,Last Substring in Lexicographical Order,"String, Suffix Array",34.6%,Hard,1.68276,https://leetcode.com/problems/last-substring-in-lexicographical-order

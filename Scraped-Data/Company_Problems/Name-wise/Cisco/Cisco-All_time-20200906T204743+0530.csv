@@ -1,0 +1,70 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,79.78,https://leetcode.com/problems/two-sum
+2,Add Two Numbers,"Linked List, Math",34.1%,Medium,32.7953,https://leetcode.com/problems/add-two-numbers
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",30.5%,Medium,31.8451,https://leetcode.com/problems/longest-substring-without-repeating-characters
+5,Longest Palindromic Substring,"String, Dynamic Programming",29.6%,Medium,23.084,https://leetcode.com/problems/longest-palindromic-substring
+7,Reverse Integer,Math,25.8%,Easy,1.60137,https://leetcode.com/problems/reverse-integer
+8,String to Integer (atoi),"Math, String",15.4%,Medium,6.5152,https://leetcode.com/problems/string-to-integer-atoi
+14,Longest Common Prefix,String,35.5%,Easy,7.21527,https://leetcode.com/problems/longest-common-prefix
+15,3Sum,"Array, Two Pointers",27.0%,Medium,2.80543,https://leetcode.com/problems/3sum
+17,Letter Combinations of a Phone Number,"String, Backtracking",47.1%,Medium,3.71504,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+20,Valid Parentheses,"String, Stack",39.1%,Easy,11.9025,https://leetcode.com/problems/valid-parentheses
+21,Merge Two Sorted Lists,Linked List,53.9%,Easy,4.67069,https://leetcode.com/problems/merge-two-sorted-lists
+22,Generate Parentheses,"String, Backtracking",63.1%,Medium,1.3743,https://leetcode.com/problems/generate-parentheses
+23,Merge k Sorted Lists,"Linked List, Divide and Conquer, Heap",40.6%,Hard,7.06261,https://leetcode.com/problems/merge-k-sorted-lists
+25,Reverse Nodes in k-Group,Linked List,42.5%,Hard,16.8976,https://leetcode.com/problems/reverse-nodes-in-k-group
+26,Remove Duplicates from Sorted Array,"Array, Two Pointers",45.4%,Easy,6.38725,https://leetcode.com/problems/remove-duplicates-from-sorted-array
+33,Search in Rotated Sorted Array,"Array, Binary Search",34.7%,Medium,7.20873,https://leetcode.com/problems/search-in-rotated-sorted-array
+46,Permutations,Backtracking,64.0%,Medium,1.30834,https://leetcode.com/problems/permutations
+48,Rotate Image,Array,57.3%,Medium,69.6028,https://leetcode.com/problems/rotate-image
+49,Group Anagrams,"Hash Table, String",57.3%,Medium,1.20705,https://leetcode.com/problems/group-anagrams
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",46.7%,Easy,28.734,https://leetcode.com/problems/maximum-subarray
+54,Spiral Matrix,Array,34.3%,Medium,7.20069,https://leetcode.com/problems/spiral-matrix
+56,Merge Intervals,"Array, Sort",39.5%,Medium,52.1699,https://leetcode.com/problems/merge-intervals
+79,Word Search,"Array, Backtracking",35.8%,Medium,18.1635,https://leetcode.com/problems/word-search
+88,Merge Sorted Array,"Array, Two Pointers",39.6%,Easy,14.1462,https://leetcode.com/problems/merge-sorted-array
+91,Decode Ways,"String, Dynamic Programming",24.9%,Medium,70.6794,https://leetcode.com/problems/decode-ways
+102,Binary Tree Level Order Traversal,"Tree, Breadth-first Search",54.9%,Medium,6.22107,https://leetcode.com/problems/binary-tree-level-order-traversal
+108,Convert Sorted Array to Binary Search Tree,"Tree, Depth-first Search",58.4%,Easy,5.15393,https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree
+110,Balanced Binary Tree,"Tree, Depth-first Search",43.7%,Easy,2.42501,https://leetcode.com/problems/balanced-binary-tree
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",50.6%,Easy,13.6927,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+125,Valid Palindrome,"Two Pointers, String",36.9%,Easy,2.86386,https://leetcode.com/problems/valid-palindrome
+141,Linked List Cycle,"Linked List, Two Pointers",41.4%,Easy,11.9398,https://leetcode.com/problems/linked-list-cycle
+143,Reorder List,Linked List,39.0%,Medium,2.00999,https://leetcode.com/problems/reorder-list
+144,Binary Tree Preorder Traversal,"Stack, Tree",56.0%,Medium,3.23677,https://leetcode.com/problems/binary-tree-preorder-traversal
+146,LRU Cache,Design,33.5%,Medium,49.8131,https://leetcode.com/problems/lru-cache
+151,Reverse Words in a String,String,22.1%,Medium,19.512,https://leetcode.com/problems/reverse-words-in-a-string
+160,Intersection of Two Linked Lists,Linked List,41.1%,Easy,7.99091,https://leetcode.com/problems/intersection-of-two-linked-lists
+173,Binary Search Tree Iterator,"Stack, Tree, Design",57.1%,Medium,1.27101,https://leetcode.com/problems/binary-search-tree-iterator
+189,Rotate Array,Array,35.0%,Easy,5.01304,https://leetcode.com/problems/rotate-array
+191,Number of 1 Bits,Bit Manipulation,50.3%,Easy,41.8315,https://leetcode.com/problems/number-of-1-bits
+198,House Robber,Dynamic Programming,42.1%,Easy,44.334,https://leetcode.com/problems/house-robber
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,13.4021,https://leetcode.com/problems/number-of-islands
+206,Reverse Linked List,Linked List,63.0%,Easy,83.7133,https://leetcode.com/problems/reverse-linked-list
+207,Course Schedule,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",43.3%,Medium,1.67094,https://leetcode.com/problems/course-schedule
+212,Word Search II,"Backtracking, Trie",35.1%,Hard,7.92818,https://leetcode.com/problems/word-search-ii
+215,Kth Largest Element in an Array,"Divide and Conquer, Heap",55.8%,Medium,2.40883,https://leetcode.com/problems/kth-largest-element-in-an-array
+234,Palindrome Linked List,"Linked List, Two Pointers",39.5%,Easy,3.80937,https://leetcode.com/problems/palindrome-linked-list
+235,Lowest Common Ancestor of a Binary Search Tree,Tree,50.2%,Easy,22.8048,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree
+237,Delete Node in a Linked List,Linked List,64.4%,Easy,8.46469,https://leetcode.com/problems/delete-node-in-a-linked-list
+241,Different Ways to Add Parentheses,Divide and Conquer,55.5%,Medium,5.60642,https://leetcode.com/problems/different-ways-to-add-parentheses
+242,Valid Anagram,"Hash Table, Sort",57.1%,Easy,5.24751,https://leetcode.com/problems/valid-anagram
+246,Strobogrammatic Number,"Hash Table, Math",45.1%,Easy,39.4129,https://leetcode.com/problems/strobogrammatic-number
+247,Strobogrammatic Number II,"Math, Recursion",47.8%,Medium,16.2125,https://leetcode.com/problems/strobogrammatic-number-ii
+253,Meeting Rooms II,"Heap, Greedy, Sort",45.8%,Medium,4.05417,https://leetcode.com/problems/meeting-rooms-ii
+279,Perfect Squares,"Math, Dynamic Programming, Breadth-first Search",47.6%,Medium,1.20981,https://leetcode.com/problems/perfect-squares
+344,Reverse String,"Two Pointers, String",68.8%,Easy,30.1979,https://leetcode.com/problems/reverse-string
+384,Shuffle an Array,,52.9%,Medium,5.53592,https://leetcode.com/problems/shuffle-an-array
+394,Decode String,"Stack, Depth-first Search",50.4%,Medium,88.639,https://leetcode.com/problems/decode-string
+412,Fizz Buzz,,63.2%,Easy,0.616112,https://leetcode.com/problems/fizz-buzz
+445,Add Two Numbers II,Linked List,54.8%,Medium,7.18067,https://leetcode.com/problems/add-two-numbers-ii
+450,Delete Node in a BST,Tree,44.3%,Medium,0.472383,https://leetcode.com/problems/delete-node-in-a-bst
+468,Validate IP Address,String,24.2%,Medium,100.0,https://leetcode.com/problems/validate-ip-address
+605,Can Place Flowers,Array,31.5%,Easy,3.52907,https://leetcode.com/problems/can-place-flowers
+628,Maximum Product of Three Numbers,"Array, Math",47.1%,Easy,5.70102,https://leetcode.com/problems/maximum-product-of-three-numbers
+739,Daily Temperatures,"Hash Table, Stack",63.7%,Medium,1.188,https://leetcode.com/problems/daily-temperatures
+876,Middle of the Linked List,Linked List,68.6%,Easy,0.978776,https://leetcode.com/problems/middle-of-the-linked-list
+905,Sort Array By Parity,Array,74.9%,Easy,2.36983,https://leetcode.com/problems/sort-array-by-parity
+909,Snakes and Ladders,Breadth-first Search,38.8%,Medium,34.5702,https://leetcode.com/problems/snakes-and-ladders
+1235,Maximum Profit in Job Scheduling,"Binary Search, Dynamic Programming, Sort",44.2%,Hard,58.2417,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+1290,Convert Binary Number in a Linked List to Integer,"Linked List, Bit Manipulation",80.7%,Easy,37.576,https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer

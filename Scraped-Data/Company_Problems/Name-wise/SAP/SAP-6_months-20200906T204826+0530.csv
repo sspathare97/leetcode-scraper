@@ -1,0 +1,5 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+509,Fibonacci Number,Array,67.2%,Easy,2.58858,https://leetcode.com/problems/fibonacci-number
+738,Monotone Increasing Digits,Greedy,44.7%,Medium,100.0,https://leetcode.com/problems/monotone-increasing-digits
+1283,Find the Smallest Divisor Given a Threshold,Binary Search,48.8%,Medium,65.9128,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold
+1312,Minimum Insertion Steps to Make a String Palindrome,Dynamic Programming,58.3%,Hard,36.6757,https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome

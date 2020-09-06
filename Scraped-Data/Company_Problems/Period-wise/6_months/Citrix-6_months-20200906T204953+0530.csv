@@ -1,0 +1,7 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+15,3Sum,"Array, Two Pointers",27.0%,Medium,0.341687,https://leetcode.com/problems/3sum
+206,Reverse Linked List,Linked List,63.0%,Easy,1.31729,https://leetcode.com/problems/reverse-linked-list
+761,Special Binary String,"String, Recursion",55.0%,Hard,100.0,https://leetcode.com/problems/special-binary-string
+1010,Pairs of Songs With Total Durations Divisible by 60,Array,47.3%,Easy,5.68827,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60
+1223,Dice Roll Simulation,Dynamic Programming,46.0%,Medium,11.0309,https://leetcode.com/problems/dice-roll-simulation
+1383,Maximum Performance of a Team,"Greedy, Sort",32.0%,Hard,55.5155,https://leetcode.com/problems/maximum-performance-of-a-team

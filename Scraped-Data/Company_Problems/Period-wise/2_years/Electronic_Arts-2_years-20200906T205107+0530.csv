@@ -1,0 +1,6 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+42,Trapping Rain Water,"Array, Two Pointers, Stack",49.2%,Hard,96.1501,https://leetcode.com/problems/trapping-rain-water
+49,Group Anagrams,"Hash Table, String",57.3%,Medium,100.0,https://leetcode.com/problems/group-anagrams
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,72.1198,https://leetcode.com/problems/number-of-islands
+206,Reverse Linked List,Linked List,63.0%,Easy,56.4786,https://leetcode.com/problems/reverse-linked-list
+977,Squares of a Sorted Array,"Array, Two Pointers",72.2%,Easy,95.8051,https://leetcode.com/problems/squares-of-a-sorted-array

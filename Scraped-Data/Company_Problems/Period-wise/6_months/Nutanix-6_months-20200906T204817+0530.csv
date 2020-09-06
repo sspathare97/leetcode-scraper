@@ -1,0 +1,7 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+5,Longest Palindromic Substring,"String, Dynamic Programming",29.6%,Medium,1.77692,https://leetcode.com/problems/longest-palindromic-substring
+146,LRU Cache,Design,33.5%,Medium,3.74612,https://leetcode.com/problems/lru-cache
+234,Palindrome Linked List,"Linked List, Two Pointers",39.5%,Easy,3.57365,https://leetcode.com/problems/palindrome-linked-list
+853,Car Fleet,Sort,42.4%,Medium,100.0,https://leetcode.com/problems/car-fleet
+991,Broken Calculator,"Math, Greedy",45.8%,Medium,51.3706,https://leetcode.com/problems/broken-calculator
+1052,Grumpy Bookstore Owner,"Array, Sliding Window",55.4%,Medium,52.3755,https://leetcode.com/problems/grumpy-bookstore-owner

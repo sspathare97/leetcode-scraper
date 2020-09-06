@@ -1,0 +1,21 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+10,Regular Expression Matching,"String, Dynamic Programming, Backtracking",26.9%,Hard,0.483049,https://leetcode.com/problems/regular-expression-matching
+42,Trapping Rain Water,"Array, Two Pointers, Stack",49.2%,Hard,1.83124,https://leetcode.com/problems/trapping-rain-water
+48,Rotate Image,Array,57.3%,Medium,0.319843,https://leetcode.com/problems/rotate-image
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",46.7%,Easy,0.31206,https://leetcode.com/problems/maximum-subarray
+56,Merge Intervals,"Array, Sort",39.5%,Medium,52.1263,https://leetcode.com/problems/merge-intervals
+136,Single Number,"Hash Table, Bit Manipulation",65.7%,Easy,0.112928,https://leetcode.com/problems/single-number
+146,LRU Cache,Design,33.5%,Medium,18.3039,https://leetcode.com/problems/lru-cache
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,8.09244,https://leetcode.com/problems/number-of-islands
+217,Contains Duplicate,"Array, Hash Table",56.2%,Easy,0.130743,https://leetcode.com/problems/contains-duplicate
+219,Contains Duplicate II,"Array, Hash Table",37.9%,Easy,0.160813,https://leetcode.com/problems/contains-duplicate-ii
+220,Contains Duplicate III,"Sort, Ordered Map",21.4%,Medium,0.317501,https://leetcode.com/problems/contains-duplicate-iii
+273,Integer to English Words,"Math, String",27.2%,Hard,20.8397,https://leetcode.com/problems/integer-to-english-words
+277,Find the Celebrity,Array,42.1%,Medium,5.03325,https://leetcode.com/problems/find-the-celebrity
+285,Inorder Successor in BST,Tree,40.8%,Medium,2.19319,https://leetcode.com/problems/inorder-successor-in-bst
+303,Range Sum Query - Immutable,Dynamic Programming,45.2%,Easy,0.0,https://leetcode.com/problems/range-sum-query-immutable
+325,Maximum Size Subarray Sum Equals k,Hash Table,46.8%,Medium,0.0,https://leetcode.com/problems/maximum-size-subarray-sum-equals-k
+393,UTF-8 Validation,Bit Manipulation,37.6%,Medium,100.0,https://leetcode.com/problems/utf-8-validation
+539,Minimum Time Difference,String,51.7%,Medium,83.413,https://leetcode.com/problems/minimum-time-difference
+695,Max Area of Island,"Array, Depth-first Search",63.0%,Medium,0.484825,https://leetcode.com/problems/max-area-of-island
+733,Flood Fill,Depth-first Search,55.4%,Easy,4.50254,https://leetcode.com/problems/flood-fill

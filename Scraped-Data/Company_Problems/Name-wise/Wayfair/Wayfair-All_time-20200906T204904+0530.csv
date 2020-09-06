@@ -1,0 +1,24 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+5,Longest Palindromic Substring,"String, Dynamic Programming",29.6%,Medium,2.40266,https://leetcode.com/problems/longest-palindromic-substring
+41,First Missing Positive,Array,32.2%,Hard,0.478009,https://leetcode.com/problems/first-missing-positive
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",46.7%,Easy,0.565725,https://leetcode.com/problems/maximum-subarray
+56,Merge Intervals,"Array, Sort",39.5%,Medium,0.92148,https://leetcode.com/problems/merge-intervals
+69,Sqrt(x),"Math, Binary Search",34.1%,Easy,0.806704,https://leetcode.com/problems/sqrtx
+85,Maximal Rectangle,"Array, Hash Table, Dynamic Programming, Stack",38.0%,Hard,3.56879,https://leetcode.com/problems/maximal-rectangle
+125,Valid Palindrome,"Two Pointers, String",36.9%,Easy,1.42492,https://leetcode.com/problems/valid-palindrome
+184,Department Highest Salary,,37.2%,Medium,1.44546,https://leetcode.com/problems/department-highest-salary
+210,Course Schedule II,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",41.0%,Medium,0.488547,https://leetcode.com/problems/course-schedule-ii
+412,Fizz Buzz,,63.2%,Easy,0.544168,https://leetcode.com/problems/fizz-buzz
+443,String Compression,String,41.5%,Easy,3.80552,https://leetcode.com/problems/string-compression
+718,Maximum Length of Repeated Subarray,"Array, Hash Table, Binary Search, Dynamic Programming",49.5%,Medium,1.7101,https://leetcode.com/problems/maximum-length-of-repeated-subarray
+759,Employee Free Time,"Heap, Greedy",66.5%,Hard,5.86129,https://leetcode.com/problems/employee-free-time
+811,Subdomain Visit Count,Hash Table,70.1%,Easy,25.3102,https://leetcode.com/problems/subdomain-visit-count
+840,Magic Squares In Grid,Array,37.3%,Easy,63.9896,https://leetcode.com/problems/magic-squares-in-grid
+1014,Best Sightseeing Pair,Array,52.6%,Medium,7.12921,https://leetcode.com/problems/best-sightseeing-pair
+1189,Maximum Number of Balloons,"Hash Table, String",61.2%,Easy,9.35114,https://leetcode.com/problems/maximum-number-of-balloons
+1193,Monthly Transactions I,,68.4%,Medium,0.0,https://leetcode.com/problems/monthly-transactions-i
+1194,Tournament Winners,,52.9%,Hard,27.9792,https://leetcode.com/problems/tournament-winners
+1204,Last Person to Fit in the Elevator,,70.1%,Medium,26.0341,https://leetcode.com/problems/last-person-to-fit-in-the-elevator
+1212,Team Scores in Football Tournament,,56.1%,Medium,100.0,https://leetcode.com/problems/team-scores-in-football-tournament
+1244,Design A Leaderboard,"Hash Table, Sort, Design",61.8%,Medium,0.0,https://leetcode.com/problems/design-a-leaderboard
+1405,Longest Happy String,"Dynamic Programming, Greedy",49.4%,Medium,0.0,https://leetcode.com/problems/longest-happy-string

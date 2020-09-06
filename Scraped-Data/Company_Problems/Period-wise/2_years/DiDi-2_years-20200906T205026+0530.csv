@@ -1,0 +1,11 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,0.543764,https://leetcode.com/problems/two-sum
+4,Median of Two Sorted Arrays,"Array, Binary Search, Divide and Conquer",29.8%,Hard,2.43765,https://leetcode.com/problems/median-of-two-sorted-arrays
+116,Populating Next Right Pointers in Each Node,"Tree, Depth-first Search",45.7%,Medium,5.42481,https://leetcode.com/problems/populating-next-right-pointers-in-each-node
+133,Clone Graph,"Depth-first Search, Breadth-first Search, Graph",35.4%,Medium,5.37236,https://leetcode.com/problems/clone-graph
+364,Nested List Weight Sum II,Depth-first Search,62.8%,Medium,100.0,https://leetcode.com/problems/nested-list-weight-sum-ii
+402,Remove K Digits,"Stack, Greedy",28.4%,Medium,11.665,https://leetcode.com/problems/remove-k-digits
+815,Bus Routes,Breadth-first Search,42.7%,Hard,47.8543,https://leetcode.com/problems/bus-routes
+863,All Nodes Distance K in Binary Tree,"Tree, Depth-first Search, Breadth-first Search",55.8%,Medium,10.3735,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree
+1293,Shortest Path in a Grid with Obstacles Elimination,Breadth-first Search,42.6%,Hard,68.231,https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination
+1374,Generate a String With Characters That Have Odd Counts,String,75.5%,Easy,43.434,https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts

@@ -1,0 +1,36 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,0.260891,https://leetcode.com/problems/two-sum
+4,Median of Two Sorted Arrays,"Array, Binary Search, Divide and Conquer",29.8%,Hard,0.0734729,https://leetcode.com/problems/median-of-two-sorted-arrays
+5,Longest Palindromic Substring,"String, Dynamic Programming",29.6%,Medium,0.180455,https://leetcode.com/problems/longest-palindromic-substring
+21,Merge Two Sorted Lists,Linked List,53.9%,Easy,0.043739,https://leetcode.com/problems/merge-two-sorted-lists
+34,Find First and Last Position of Element in Sorted Array,"Array, Binary Search",36.3%,Medium,0.0856492,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+39,Combination Sum,"Array, Backtracking",56.5%,Medium,18.3016,https://leetcode.com/problems/combination-sum
+42,Trapping Rain Water,"Array, Two Pointers, Stack",49.2%,Hard,0.473545,https://leetcode.com/problems/trapping-rain-water
+68,Text Justification,String,28.0%,Hard,6.84501,https://leetcode.com/problems/text-justification
+166,Fraction to Recurring Decimal,"Hash Table, Math",21.7%,Medium,25.8549,https://leetcode.com/problems/fraction-to-recurring-decimal
+211,Design Add and Search Words Data Structure,"Backtracking, Design, Trie",38.3%,Medium,0.20493,https://leetcode.com/problems/design-add-and-search-words-data-structure
+212,Word Search II,"Backtracking, Trie",35.1%,Hard,0.428535,https://leetcode.com/problems/word-search-ii
+215,Kth Largest Element in an Array,"Divide and Conquer, Heap",55.8%,Medium,0.0895125,https://leetcode.com/problems/kth-largest-element-in-an-array
+236,Lowest Common Ancestor of a Binary Tree,Tree,46.2%,Medium,0.399574,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+251,Flatten 2D Vector,Design,45.8%,Medium,62.2236,https://leetcode.com/problems/flatten-2d-vector
+269,Alien Dictionary,"Graph, Topological Sort",33.3%,Hard,46.0179,https://leetcode.com/problems/alien-dictionary
+280,Wiggle Sort,"Array, Sort",63.9%,Medium,0.996554,https://leetcode.com/problems/wiggle-sort
+299,Bulls and Cows,Hash Table,42.5%,Easy,0.353678,https://leetcode.com/problems/bulls-and-cows
+322,Coin Change,Dynamic Programming,35.8%,Medium,1.15797,https://leetcode.com/problems/coin-change
+324,Wiggle Sort II,Sort,30.0%,Medium,13.0427,https://leetcode.com/problems/wiggle-sort-ii
+336,Palindrome Pairs,"Hash Table, String, Trie",33.8%,Hard,86.1878,https://leetcode.com/problems/palindrome-pairs
+341,Flatten Nested List Iterator,"Stack, Design",53.1%,Medium,7.19469,https://leetcode.com/problems/flatten-nested-list-iterator
+588,Design In-Memory File System,Design,46.2%,Hard,1.26629,https://leetcode.com/problems/design-in-memory-file-system
+622,Design Circular Queue,"Design, Queue",44.1%,Medium,0.380918,https://leetcode.com/problems/design-circular-queue
+751,IP to CIDR,Bit Manipulation,61.5%,Medium,72.3757,https://leetcode.com/problems/ip-to-cidr
+755,Pour Water,Array,43.5%,Medium,100.0,https://leetcode.com/problems/pour-water
+756,Pyramid Transition Matrix,"Bit Manipulation, Depth-first Search",54.8%,Medium,4.23479,https://leetcode.com/problems/pyramid-transition-matrix
+759,Employee Free Time,"Heap, Greedy",66.5%,Hard,10.2772,https://leetcode.com/problems/employee-free-time
+773,Sliding Puzzle,Breadth-first Search,59.5%,Hard,50.5063,https://leetcode.com/problems/sliding-puzzle
+787,Cheapest Flights Within K Stops,"Dynamic Programming, Heap, Breadth-first Search",39.3%,Medium,39.3064,https://leetcode.com/problems/cheapest-flights-within-k-stops
+864,Shortest Path to Get All Keys,"Heap, Breadth-first Search",40.5%,Hard,19.0906,https://leetcode.com/problems/shortest-path-to-get-all-keys
+875,Koko Eating Bananas,Binary Search,52.5%,Medium,16.1217,https://leetcode.com/problems/koko-eating-bananas
+953,Verifying an Alien Dictionary,Hash Table,53.9%,Easy,0.171069,https://leetcode.com/problems/verifying-an-alien-dictionary
+1166,Design File System,"Hash Table, Design",56.9%,Medium,42.0375,https://leetcode.com/problems/design-file-system
+1235,Maximum Profit in Job Scheduling,"Binary Search, Dynamic Programming, Sort",44.2%,Hard,3.16543,https://leetcode.com/problems/maximum-profit-in-job-scheduling
+1257,Smallest Common Region,Tree,59.2%,Medium,5.35509,https://leetcode.com/problems/smallest-common-region

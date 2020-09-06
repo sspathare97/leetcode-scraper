@@ -1,0 +1,4 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+146,LRU Cache,Design,33.5%,Medium,52.0635,https://leetcode.com/problems/lru-cache
+295,Find Median from Data Stream,"Heap, Design",44.8%,Hard,47.9365,https://leetcode.com/problems/find-median-from-data-stream
+348,Design Tic-Tac-Toe,Design,54.6%,Medium,100.0,https://leetcode.com/problems/design-tic-tac-toe

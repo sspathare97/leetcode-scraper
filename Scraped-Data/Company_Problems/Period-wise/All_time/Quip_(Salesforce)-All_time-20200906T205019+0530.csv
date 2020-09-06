@@ -1,0 +1,13 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+17,Letter Combinations of a Phone Number,"String, Backtracking",47.1%,Medium,1.73658,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+34,Find First and Last Position of Element in Sorted Array,"Array, Binary Search",36.3%,Medium,0.746877,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+54,Spiral Matrix,Array,34.3%,Medium,1.05193,https://leetcode.com/problems/spiral-matrix
+88,Merge Sorted Array,"Array, Two Pointers",39.6%,Easy,2.10668,https://leetcode.com/problems/merge-sorted-array
+208,Implement Trie (Prefix Tree),"Design, Trie",49.9%,Medium,1.51373,https://leetcode.com/problems/implement-trie-prefix-tree
+285,Inorder Successor in BST,Tree,40.8%,Medium,15.0589,https://leetcode.com/problems/inorder-successor-in-bst
+362,Design Hit Counter,Design,63.9%,Medium,46.9294,https://leetcode.com/problems/design-hit-counter
+510,Inorder Successor in BST II,Tree,58.3%,Medium,62.3503,https://leetcode.com/problems/inorder-successor-in-bst-ii
+708,Insert into a Sorted Circular Linked List,Linked List,31.7%,Medium,100.0,https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list
+761,Special Binary String,"String, Recursion",55.0%,Hard,49.7833,https://leetcode.com/problems/special-binary-string
+855,Exam Room,Ordered Map,43.2%,Medium,94.2208,https://leetcode.com/problems/exam-room
+1309,Decrypt String from Alphabet to Integer Mapping,String,76.7%,Easy,0.0,https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping

@@ -1,0 +1,6 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+68,Text Justification,String,28.0%,Hard,39.9025,https://leetcode.com/problems/text-justification
+126,Word Ladder II,"Array, String, Backtracking, Breadth-first Search",22.4%,Hard,17.205,https://leetcode.com/problems/word-ladder-ii
+191,Number of 1 Bits,Bit Manipulation,50.3%,Easy,100.0,https://leetcode.com/problems/number-of-1-bits
+250,Count Univalue Subtrees,Tree,52.2%,Medium,77.4431,https://leetcode.com/problems/count-univalue-subtrees
+965,Univalued Binary Tree,Tree,67.6%,Easy,62.6001,https://leetcode.com/problems/univalued-binary-tree

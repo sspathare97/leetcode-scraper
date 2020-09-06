@@ -1,0 +1,19 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,6.32191,https://leetcode.com/problems/two-sum
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",30.5%,Medium,2.97022,https://leetcode.com/problems/longest-substring-without-repeating-characters
+5,Longest Palindromic Substring,"String, Dynamic Programming",29.6%,Medium,9.81474,https://leetcode.com/problems/longest-palindromic-substring
+15,3Sum,"Array, Two Pointers",27.0%,Medium,4.4822,https://leetcode.com/problems/3sum
+18,4Sum,"Array, Hash Table, Two Pointers",33.8%,Medium,20.7442,https://leetcode.com/problems/4sum
+21,Merge Two Sorted Lists,Linked List,53.9%,Easy,4.22219,https://leetcode.com/problems/merge-two-sorted-lists
+22,Generate Parentheses,"String, Backtracking",63.1%,Medium,8.73579,https://leetcode.com/problems/generate-parentheses
+31,Next Permutation,Array,32.7%,Medium,11.5282,https://leetcode.com/problems/next-permutation
+32,Longest Valid Parentheses,"String, Dynamic Programming",28.5%,Hard,70.2647,https://leetcode.com/problems/longest-valid-parentheses
+33,Search in Rotated Sorted Array,"Array, Binary Search",34.7%,Medium,6.56491,https://leetcode.com/problems/search-in-rotated-sorted-array
+85,Maximal Rectangle,"Array, Hash Table, Dynamic Programming, Stack",38.0%,Hard,26.0152,https://leetcode.com/problems/maximal-rectangle
+103,Binary Tree Zigzag Level Order Traversal,"Stack, Tree, Breadth-first Search",48.6%,Medium,11.7938,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+127,Word Ladder,Breadth-first Search,29.9%,Medium,11.6286,https://leetcode.com/problems/word-ladder
+190,Reverse Bits,Bit Manipulation,40.2%,Easy,55.7506,https://leetcode.com/problems/reverse-bits
+312,Burst Balloons,"Divide and Conquer, Dynamic Programming",52.1%,Hard,100.0,https://leetcode.com/problems/burst-balloons
+523,Continuous Subarray Sum,"Math, Dynamic Programming",24.6%,Medium,23.8411,https://leetcode.com/problems/continuous-subarray-sum
+572,Subtree of Another Tree,Tree,44.2%,Easy,20.3322,https://leetcode.com/problems/subtree-of-another-tree
+876,Middle of the Linked List,Linked List,68.6%,Easy,13.9656,https://leetcode.com/problems/middle-of-the-linked-list

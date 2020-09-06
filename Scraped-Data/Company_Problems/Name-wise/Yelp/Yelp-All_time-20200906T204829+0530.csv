@@ -1,0 +1,36 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,5.36764,https://leetcode.com/problems/two-sum
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",30.5%,Medium,7.75356,https://leetcode.com/problems/longest-substring-without-repeating-characters
+14,Longest Common Prefix,String,35.5%,Easy,6.77977,https://leetcode.com/problems/longest-common-prefix
+22,Generate Parentheses,"String, Backtracking",63.1%,Medium,4.95008,https://leetcode.com/problems/generate-parentheses
+49,Group Anagrams,"Hash Table, String",57.3%,Medium,17.8465,https://leetcode.com/problems/group-anagrams
+56,Merge Intervals,"Array, Sort",39.5%,Medium,39.7583,https://leetcode.com/problems/merge-intervals
+126,Word Ladder II,"Array, String, Backtracking, Breadth-first Search",22.4%,Hard,6.03755,https://leetcode.com/problems/word-ladder-ii
+127,Word Ladder,Breadth-first Search,29.9%,Medium,11.3977,https://leetcode.com/problems/word-ladder
+151,Reverse Words in a String,String,22.1%,Medium,0.814623,https://leetcode.com/problems/reverse-words-in-a-string
+192,Word Frequency,,25.8%,Medium,4.61154,https://leetcode.com/problems/word-frequency
+205,Isomorphic Strings,Hash Table,39.9%,Easy,7.00203,https://leetcode.com/problems/isomorphic-strings
+206,Reverse Linked List,Linked List,63.0%,Easy,0.764367,https://leetcode.com/problems/reverse-linked-list
+207,Course Schedule,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",43.3%,Medium,4.97709,https://leetcode.com/problems/course-schedule
+218,The Skyline Problem,"Divide and Conquer, Heap, Binary Indexed Tree, Segment Tree, Line Sweep",34.7%,Hard,14.5164,https://leetcode.com/problems/the-skyline-problem
+239,Sliding Window Maximum,"Heap, Sliding Window",43.4%,Hard,1.09298,https://leetcode.com/problems/sliding-window-maximum
+242,Valid Anagram,"Hash Table, Sort",57.1%,Easy,0.374248,https://leetcode.com/problems/valid-anagram
+253,Meeting Rooms II,"Heap, Greedy, Sort",45.8%,Medium,10.8249,https://leetcode.com/problems/meeting-rooms-ii
+273,Integer to English Words,"Math, String",27.2%,Hard,47.9379,https://leetcode.com/problems/integer-to-english-words
+332,Reconstruct Itinerary,"Depth-first Search, Graph",36.9%,Medium,45.3479,https://leetcode.com/problems/reconstruct-itinerary
+347,Top K Frequent Elements,"Hash Table, Heap",61.4%,Medium,38.4299,https://leetcode.com/problems/top-k-frequent-elements
+349,Intersection of Two Arrays,"Hash Table, Two Pointers, Binary Search, Sort",62.9%,Easy,0.703501,https://leetcode.com/problems/intersection-of-two-arrays
+355,Design Twitter,"Hash Table, Heap, Design",30.4%,Medium,48.7669,https://leetcode.com/problems/design-twitter
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",47.7%,Medium,3.36567,https://leetcode.com/problems/insert-delete-getrandom-o1
+381,Insert Delete GetRandom O(1) - Duplicates allowed,"Array, Hash Table, Design",34.2%,Hard,0.0,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed
+394,Decode String,"Stack, Depth-first Search",50.4%,Medium,0.274262,https://leetcode.com/problems/decode-string
+443,String Compression,String,41.5%,Easy,0.0,https://leetcode.com/problems/string-compression
+528,Random Pick with Weight,"Binary Search, Random",44.1%,Medium,13.8949,https://leetcode.com/problems/random-pick-with-weight
+564,Find the Closest Palindrome,String,19.8%,Hard,74.3835,https://leetcode.com/problems/find-the-closest-palindrome
+599,Minimum Index Sum of Two Lists,Hash Table,50.8%,Easy,100.0,https://leetcode.com/problems/minimum-index-sum-of-two-lists
+692,Top K Frequent Words,"Hash Table, Heap, Trie",52.1%,Medium,20.0645,https://leetcode.com/problems/top-k-frequent-words
+784,Letter Case Permutation,"Backtracking, Bit Manipulation",65.0%,Medium,4.57384,https://leetcode.com/problems/letter-case-permutation
+1126,Active Businesses,,68.3%,Medium,14.9602,https://leetcode.com/problems/active-businesses
+1333,"Filter Restaurants by Vegan-Friendly, Price and Distance","Array, Sort",54.6%,Medium,13.1743,https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance
+1436,Destination City,String,76.9%,Easy,0.0,https://leetcode.com/problems/destination-city
+1455,Check If a Word Occurs As a Prefix of Any Word in a Sentence,String,64.4%,Easy,0.0,https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence

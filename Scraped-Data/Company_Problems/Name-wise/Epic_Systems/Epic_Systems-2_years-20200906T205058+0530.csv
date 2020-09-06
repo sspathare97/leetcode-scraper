@@ -1,0 +1,5 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+38,Count and Say,String,44.9%,Easy,35.1148,https://leetcode.com/problems/count-and-say
+54,Spiral Matrix,Array,34.3%,Medium,56.4249,https://leetcode.com/problems/spiral-matrix
+59,Spiral Matrix II,Array,54.3%,Medium,64.8852,https://leetcode.com/problems/spiral-matrix-ii
+306,Additive Number,Backtracking,29.4%,Medium,100.0,https://leetcode.com/problems/additive-number

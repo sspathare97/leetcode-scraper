@@ -1,0 +1,15 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+2,Add Two Numbers,"Linked List, Math",34.1%,Medium,1.81922,https://leetcode.com/problems/add-two-numbers
+41,First Missing Positive,Array,32.2%,Hard,1.88289,https://leetcode.com/problems/first-missing-positive
+42,Trapping Rain Water,"Array, Two Pointers, Stack",49.2%,Hard,1.01303,https://leetcode.com/problems/trapping-rain-water
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",50.6%,Easy,0.57105,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+215,Kth Largest Element in an Array,"Divide and Conquer, Heap",55.8%,Medium,1.18687,https://leetcode.com/problems/kth-largest-element-in-an-array
+234,Palindrome Linked List,"Linked List, Two Pointers",39.5%,Easy,1.20644,https://leetcode.com/problems/palindrome-linked-list
+238,Product of Array Except Self,Array,60.3%,Medium,1.03498,https://leetcode.com/problems/product-of-array-except-self
+322,Coin Change,Dynamic Programming,35.8%,Medium,0.981753,https://leetcode.com/problems/coin-change
+527,Word Abbreviation,"String, Sort",54.6%,Hard,52.9139,https://leetcode.com/problems/word-abbreviation
+915,Partition Array into Disjoint Intervals,Array,45.5%,Medium,97.2169,https://leetcode.com/problems/partition-array-into-disjoint-intervals
+983,Minimum Cost For Tickets,Dynamic Programming,62.5%,Medium,0.798181,https://leetcode.com/problems/minimum-cost-for-tickets
+984,String Without AAA or BBB,Greedy,38.0%,Medium,100.0,https://leetcode.com/problems/string-without-aaa-or-bbb
+1017,Convert to Base -2,Math,58.9%,Medium,55.0941,https://leetcode.com/problems/convert-to-base-2
+1031,Maximum Sum of Two Non-Overlapping Subarrays,Array,58.0%,Medium,10.7911,https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays

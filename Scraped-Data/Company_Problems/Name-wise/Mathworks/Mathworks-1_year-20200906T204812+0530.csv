@@ -1,0 +1,27 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,0.161646,https://leetcode.com/problems/two-sum
+15,3Sum,"Array, Two Pointers",27.0%,Medium,0.457592,https://leetcode.com/problems/3sum
+20,Valid Parentheses,"String, Stack",39.1%,Easy,0.189337,https://leetcode.com/problems/valid-parentheses
+25,Reverse Nodes in k-Group,Linked List,42.5%,Hard,21.2529,https://leetcode.com/problems/reverse-nodes-in-k-group
+49,Group Anagrams,"Hash Table, String",57.3%,Medium,2.15908,https://leetcode.com/problems/group-anagrams
+62,Unique Paths,"Array, Dynamic Programming",54.4%,Medium,2.71132,https://leetcode.com/problems/unique-paths
+63,Unique Paths II,"Array, Dynamic Programming",34.7%,Medium,3.25789,https://leetcode.com/problems/unique-paths-ii
+115,Distinct Subsequences,"String, Dynamic Programming",38.5%,Hard,30.4648,https://leetcode.com/problems/distinct-subsequences
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,0.251309,https://leetcode.com/problems/number-of-islands
+206,Reverse Linked List,Linked List,63.0%,Easy,9.23299,https://leetcode.com/problems/reverse-linked-list
+225,Implement Stack using Queues,"Stack, Design",45.7%,Easy,1.17389,https://leetcode.com/problems/implement-stack-using-queues
+232,Implement Queue using Stacks,"Stack, Design",50.1%,Easy,3.28989,https://leetcode.com/problems/implement-queue-using-stacks
+255,Verify Preorder Sequence in Binary Search Tree,"Stack, Tree",45.7%,Medium,79.3381,https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree
+259,3Sum Smaller,"Array, Two Pointers",47.8%,Medium,8.8657,https://leetcode.com/problems/3sum-smaller
+317,Shortest Distance from All Buildings,Breadth-first Search,41.7%,Hard,36.6348,https://leetcode.com/problems/shortest-distance-from-all-buildings
+338,Counting Bits,"Dynamic Programming, Bit Manipulation",69.7%,Medium,2.32683,https://leetcode.com/problems/counting-bits
+500,Keyboard Row,Hash Table,64.9%,Easy,19.1458,https://leetcode.com/problems/keyboard-row
+526,Beautiful Arrangement,Backtracking,58.2%,Medium,57.2968,https://leetcode.com/problems/beautiful-arrangement
+647,Palindromic Substrings,"String, Dynamic Programming",60.9%,Medium,0.867579,https://leetcode.com/problems/palindromic-substrings
+697,Degree of an Array,Array,53.9%,Easy,5.80827,https://leetcode.com/problems/degree-of-an-array
+741,Cherry Pickup,Dynamic Programming,34.0%,Hard,11.2234,https://leetcode.com/problems/cherry-pickup
+1130,Minimum Cost Tree From Leaf Values,"Dynamic Programming, Stack, Tree",66.9%,Medium,100.0,https://leetcode.com/problems/minimum-cost-tree-from-leaf-values
+1163,Last Substring in Lexicographical Order,"String, Suffix Array",34.6%,Hard,74.2216,https://leetcode.com/problems/last-substring-in-lexicographical-order
+1197,Minimum Knight Moves,Breadth-first Search,36.1%,Medium,2.12281,https://leetcode.com/problems/minimum-knight-moves
+1290,Convert Binary Number in a Linked List to Integer,"Linked List, Bit Manipulation",80.7%,Easy,1.70015,https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer
+1319,Number of Operations to Make Network Connected,"Depth-first Search, Breadth-first Search, Union Find",53.7%,Medium,4.15749,https://leetcode.com/problems/number-of-operations-to-make-network-connected

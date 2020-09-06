@@ -1,0 +1,51 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,0.0343551,https://leetcode.com/problems/two-sum
+10,Regular Expression Matching,"String, Dynamic Programming, Backtracking",26.9%,Hard,0.308213,https://leetcode.com/problems/regular-expression-matching
+20,Valid Parentheses,"String, Stack",39.1%,Easy,4.85222,https://leetcode.com/problems/valid-parentheses
+23,Merge k Sorted Lists,"Linked List, Divide and Conquer, Heap",40.6%,Hard,0.725112,https://leetcode.com/problems/merge-k-sorted-lists
+36,Valid Sudoku,Hash Table,49.1%,Medium,0.324298,https://leetcode.com/problems/valid-sudoku
+56,Merge Intervals,"Array, Sort",39.5%,Medium,2.25684,https://leetcode.com/problems/merge-intervals
+57,Insert Interval,"Array, Sort",33.7%,Hard,28.9217,https://leetcode.com/problems/insert-interval
+68,Text Justification,String,28.0%,Hard,2.96274,https://leetcode.com/problems/text-justification
+76,Minimum Window Substring,"Hash Table, Two Pointers, String, Sliding Window",34.9%,Hard,0.60036,https://leetcode.com/problems/minimum-window-substring
+84,Largest Rectangle in Histogram,"Array, Stack",35.5%,Hard,0.306325,https://leetcode.com/problems/largest-rectangle-in-histogram
+91,Decode Ways,"String, Dynamic Programming",24.9%,Medium,0.207327,https://leetcode.com/problems/decode-ways
+101,Symmetric Tree,"Tree, Depth-first Search, Breadth-first Search",47.1%,Easy,0.343145,https://leetcode.com/problems/symmetric-tree
+105,Construct Binary Tree from Preorder and Inorder Traversal,"Array, Tree, Depth-first Search",49.3%,Medium,0.279809,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
+106,Construct Binary Tree from Inorder and Postorder Traversal,"Array, Tree, Depth-first Search",47.6%,Medium,0.57432,https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal
+124,Binary Tree Maximum Path Sum,"Tree, Depth-first Search",34.5%,Hard,0.243124,https://leetcode.com/problems/binary-tree-maximum-path-sum
+133,Clone Graph,"Depth-first Search, Breadth-first Search, Graph",35.4%,Medium,1.3441,https://leetcode.com/problems/clone-graph
+139,Word Break,Dynamic Programming,40.3%,Medium,0.198523,https://leetcode.com/problems/word-break
+146,LRU Cache,Design,33.5%,Medium,0.448727,https://leetcode.com/problems/lru-cache
+161,One Edit Distance,String,32.3%,Medium,3.28495,https://leetcode.com/problems/one-edit-distance
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,3.51191,https://leetcode.com/problems/number-of-islands
+208,Implement Trie (Prefix Tree),"Design, Trie",49.9%,Medium,0.36387,https://leetcode.com/problems/implement-trie-prefix-tree
+210,Course Schedule II,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",41.0%,Medium,0.304229,https://leetcode.com/problems/course-schedule-ii
+239,Sliding Window Maximum,"Heap, Sliding Window",43.4%,Hard,1.86507,https://leetcode.com/problems/sliding-window-maximum
+256,Paint House,Dynamic Programming,52.2%,Easy,73.457,https://leetcode.com/problems/paint-house
+269,Alien Dictionary,"Graph, Topological Sort",33.3%,Hard,0.57747,https://leetcode.com/problems/alien-dictionary
+295,Find Median from Data Stream,"Heap, Design",44.8%,Hard,2.52796,https://leetcode.com/problems/find-median-from-data-stream
+307,Range Sum Query - Mutable,"Binary Indexed Tree, Segment Tree",35.0%,Medium,4.08159,https://leetcode.com/problems/range-sum-query-mutable
+341,Flatten Nested List Iterator,"Stack, Design",53.1%,Medium,7.26828,https://leetcode.com/problems/flatten-nested-list-iterator
+346,Moving Average from Data Stream,"Design, Queue",71.3%,Easy,0.784687,https://leetcode.com/problems/moving-average-from-data-stream
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",47.7%,Medium,2.59836,https://leetcode.com/problems/insert-delete-getrandom-o1
+482,License Key Formatting,,43.0%,Easy,0.947878,https://leetcode.com/problems/license-key-formatting
+490,The Maze,"Depth-first Search, Breadth-first Search",52.1%,Medium,0.452084,https://leetcode.com/problems/the-maze
+496,Next Greater Element I,Stack,64.2%,Easy,1.04242,https://leetcode.com/problems/next-greater-element-i
+528,Random Pick with Weight,"Binary Search, Random",44.1%,Medium,1.58257,https://leetcode.com/problems/random-pick-with-weight
+532,K-diff Pairs in an Array,"Array, Two Pointers",31.7%,Easy,6.37644,https://leetcode.com/problems/k-diff-pairs-in-an-array
+540,Single Element in a Sorted Array,,57.9%,Medium,0.984732,https://leetcode.com/problems/single-element-in-a-sorted-array
+547,Friend Circles,"Depth-first Search, Union Find",58.9%,Medium,8.21221,https://leetcode.com/problems/friend-circles
+635,Design Log Storage System,"String, Design",58.7%,Medium,100.0,https://leetcode.com/problems/design-log-storage-system
+647,Palindromic Substrings,"String, Dynamic Programming",60.9%,Medium,2.53719,https://leetcode.com/problems/palindromic-substrings
+706,Design HashMap,"Hash Table, Design",61.6%,Easy,4.25041,https://leetcode.com/problems/design-hashmap
+716,Max Stack,Design,42.7%,Easy,1.92419,https://leetcode.com/problems/max-stack
+767,Reorganize String,"String, Heap, Greedy, Sort",48.9%,Medium,1.8585,https://leetcode.com/problems/reorganize-string
+780,Reaching Points,Math,29.6%,Hard,55.4647,https://leetcode.com/problems/reaching-points
+814,Binary Tree Pruning,Tree,74.0%,Medium,1.47462,https://leetcode.com/problems/binary-tree-pruning
+920,Number of Music Playlists,Dynamic Programming,46.7%,Hard,10.6836,https://leetcode.com/problems/number-of-music-playlists
+945,Minimum Increment to Make Array Unique,Array,46.4%,Medium,12.4535,https://leetcode.com/problems/minimum-increment-to-make-array-unique
+981,Time Based Key-Value Store,"Hash Table, Binary Search",53.1%,Medium,2.1922,https://leetcode.com/problems/time-based-key-value-store
+1041,Robot Bounded In Circle,Math,50.3%,Medium,1.33491,https://leetcode.com/problems/robot-bounded-in-circle
+1326,Minimum Number of Taps to Open to Water a Garden,"Dynamic Programming, Greedy",43.9%,Hard,9.55711,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden
+1348,Tweet Counts Per Frequency,Design,29.3%,Medium,16.5502,https://leetcode.com/problems/tweet-counts-per-frequency

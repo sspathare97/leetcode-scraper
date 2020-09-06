@@ -1,0 +1,10 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+20,Valid Parentheses,"String, Stack",39.1%,Easy,7.97731,https://leetcode.com/problems/valid-parentheses
+33,Search in Rotated Sorted Array,"Array, Binary Search",34.7%,Medium,3.14991,https://leetcode.com/problems/search-in-rotated-sorted-array
+41,First Missing Positive,Array,32.2%,Hard,14.7441,https://leetcode.com/problems/first-missing-positive
+49,Group Anagrams,"Hash Table, String",57.3%,Medium,3.68035,https://leetcode.com/problems/group-anagrams
+146,LRU Cache,Design,33.5%,Medium,27.3252,https://leetcode.com/problems/lru-cache
+273,Integer to English Words,"Math, String",27.2%,Hard,13.135,https://leetcode.com/problems/integer-to-english-words
+283,Move Zeroes,"Array, Two Pointers",58.0%,Easy,2.69438,https://leetcode.com/problems/move-zeroes
+1189,Maximum Number of Balloons,"Hash Table, String",61.2%,Easy,100.0,https://leetcode.com/problems/maximum-number-of-balloons
+1239,Maximum Length of a Concatenated String with Unique Characters,"Backtracking, Bit Manipulation",48.0%,Medium,63.6626,https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters

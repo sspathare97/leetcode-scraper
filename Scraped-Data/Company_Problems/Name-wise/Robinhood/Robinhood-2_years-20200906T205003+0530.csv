@@ -1,0 +1,12 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+54,Spiral Matrix,Array,34.3%,Medium,25.9137,https://leetcode.com/problems/spiral-matrix
+59,Spiral Matrix II,Array,54.3%,Medium,22.0124,https://leetcode.com/problems/spiral-matrix-ii
+68,Text Justification,String,28.0%,Hard,44.3091,https://leetcode.com/problems/text-justification
+224,Basic Calculator,"Math, Stack",37.1%,Hard,100.0,https://leetcode.com/problems/basic-calculator
+418,Sentence Screen Fitting,Dynamic Programming,32.7%,Medium,89.3696,https://leetcode.com/problems/sentence-screen-fitting
+438,Find All Anagrams in a String,Hash Table,43.6%,Medium,2.94339,https://leetcode.com/problems/find-all-anagrams-in-a-string
+498,Diagonal Traverse,,48.4%,Medium,20.384,https://leetcode.com/problems/diagonal-traverse
+525,Contiguous Array,Hash Table,42.9%,Medium,8.33438,https://leetcode.com/problems/contiguous-array
+697,Degree of an Array,Array,53.9%,Easy,23.8794,https://leetcode.com/problems/degree-of-an-array
+755,Pour Water,Array,43.5%,Medium,66.8393,https://leetcode.com/problems/pour-water
+1329,Sort the Matrix Diagonally,"Array, Sort",78.5%,Medium,14.0617,https://leetcode.com/problems/sort-the-matrix-diagonally

@@ -1,0 +1,15 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",30.5%,Medium,0.932228,https://leetcode.com/problems/longest-substring-without-repeating-characters
+20,Valid Parentheses,"String, Stack",39.1%,Easy,15.8633,https://leetcode.com/problems/valid-parentheses
+33,Search in Rotated Sorted Array,"Array, Binary Search",34.7%,Medium,2.06045,https://leetcode.com/problems/search-in-rotated-sorted-array
+41,First Missing Positive,Array,32.2%,Hard,26.4792,https://leetcode.com/problems/first-missing-positive
+49,Group Anagrams,"Hash Table, String",57.3%,Medium,5.4055,https://leetcode.com/problems/group-anagrams
+127,Word Ladder,Breadth-first Search,29.9%,Medium,8.18616,https://leetcode.com/problems/word-ladder
+146,LRU Cache,Design,33.5%,Medium,44.9046,https://leetcode.com/problems/lru-cache
+273,Integer to English Words,"Math, String",27.2%,Hard,8.59205,https://leetcode.com/problems/integer-to-english-words
+283,Move Zeroes,"Array, Two Pointers",58.0%,Easy,1.76248,https://leetcode.com/problems/move-zeroes
+724,Find Pivot Index,Array,44.2%,Easy,29.0333,https://leetcode.com/problems/find-pivot-index
+728,Self Dividing Numbers,Math,74.6%,Easy,16.6026,https://leetcode.com/problems/self-dividing-numbers
+767,Reorganize String,"String, Heap, Greedy, Sort",48.9%,Medium,6.80968,https://leetcode.com/problems/reorganize-string
+1189,Maximum Number of Balloons,"Hash Table, String",61.2%,Easy,100.0,https://leetcode.com/problems/maximum-number-of-balloons
+1239,Maximum Length of a Concatenated String with Unique Characters,"Backtracking, Bit Manipulation",48.0%,Medium,72.4523,https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters

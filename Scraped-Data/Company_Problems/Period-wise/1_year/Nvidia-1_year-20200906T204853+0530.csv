@@ -1,0 +1,14 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,6.50099,https://leetcode.com/problems/two-sum
+22,Generate Parentheses,"String, Backtracking",63.1%,Medium,8.98324,https://leetcode.com/problems/generate-parentheses
+23,Merge k Sorted Lists,"Linked List, Divide and Conquer, Heap",40.6%,Hard,8.63137,https://leetcode.com/problems/merge-k-sorted-lists
+33,Search in Rotated Sorted Array,"Array, Binary Search",34.7%,Medium,6.75087,https://leetcode.com/problems/search-in-rotated-sorted-array
+114,Flatten Binary Tree to Linked List,"Tree, Depth-first Search",49.7%,Medium,18.0556,https://leetcode.com/problems/flatten-binary-tree-to-linked-list
+146,LRU Cache,Design,33.5%,Medium,21.2499,https://leetcode.com/problems/lru-cache
+199,Binary Tree Right Side View,"Tree, Depth-first Search, Breadth-first Search",54.4%,Medium,11.9913,https://leetcode.com/problems/binary-tree-right-side-view
+206,Reverse Linked List,Linked List,63.0%,Easy,17.7694,https://leetcode.com/problems/reverse-linked-list
+231,Power of Two,"Math, Bit Manipulation",43.7%,Easy,42.8588,https://leetcode.com/problems/power-of-two
+268,Missing Number,"Array, Math, Bit Manipulation",51.9%,Easy,10.1516,https://leetcode.com/problems/missing-number
+388,Longest Absolute File Path,,41.8%,Medium,100.0,https://leetcode.com/problems/longest-absolute-file-path
+867,Transpose Matrix,Array,62.7%,Easy,58.9835,https://leetcode.com/problems/transpose-matrix
+939,Minimum Area Rectangle,Hash Table,51.6%,Medium,78.3911,https://leetcode.com/problems/minimum-area-rectangle

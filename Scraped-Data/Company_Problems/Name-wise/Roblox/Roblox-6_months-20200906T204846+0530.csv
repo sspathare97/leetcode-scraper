@@ -1,0 +1,17 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+36,Valid Sudoku,Hash Table,49.1%,Medium,3.36923,https://leetcode.com/problems/valid-sudoku
+37,Sudoku Solver,"Hash Table, Backtracking",44.0%,Hard,3.79569,https://leetcode.com/problems/sudoku-solver
+146,LRU Cache,Design,33.5%,Medium,3.6856,https://leetcode.com/problems/lru-cache
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,0.55691,https://leetcode.com/problems/number-of-islands
+207,Course Schedule,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",43.3%,Medium,2.40021,https://leetcode.com/problems/course-schedule
+224,Basic Calculator,"Math, Stack",37.1%,Hard,68.9543,https://leetcode.com/problems/basic-calculator
+239,Sliding Window Maximum,"Heap, Sliding Window",43.4%,Hard,3.15007,https://leetcode.com/problems/sliding-window-maximum
+718,Maximum Length of Repeated Subarray,"Array, Hash Table, Binary Search, Dynamic Programming",49.5%,Medium,4.93709,https://leetcode.com/problems/maximum-length-of-repeated-subarray
+770,Basic Calculator IV,"Hash Table, String, Stack",53.0%,Hard,37.9086,https://leetcode.com/problems/basic-calculator-iv
+811,Subdomain Visit Count,Hash Table,70.1%,Easy,100.0,https://leetcode.com/problems/subdomain-visit-count
+829,Consecutive Numbers Sum,Math,38.1%,Hard,30.5588,https://leetcode.com/problems/consecutive-numbers-sum
+1163,Last Substring in Lexicographical Order,"String, Suffix Array",34.6%,Hard,29.6777,https://leetcode.com/problems/last-substring-in-lexicographical-order
+1248,Count Number of Nice Subarrays,Two Pointers,56.6%,Medium,10.2406,https://leetcode.com/problems/count-number-of-nice-subarrays
+1290,Convert Binary Number in a Linked List to Integer,"Linked List, Bit Manipulation",80.7%,Easy,3.76759,https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer
+1297,Maximum Number of Occurrences of a Substring,"String, Bit Manipulation",47.9%,Medium,31.1061,https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring
+1328,Break a Palindrome,String,43.8%,Medium,8.48809,https://leetcode.com/problems/break-a-palindrome

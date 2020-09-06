@@ -1,0 +1,10 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+68,Text Justification,String,28.0%,Hard,46.4355,https://leetcode.com/problems/text-justification
+224,Basic Calculator,"Math, Stack",37.1%,Hard,63.2214,https://leetcode.com/problems/basic-calculator
+227,Basic Calculator II,String,37.1%,Medium,4.39132,https://leetcode.com/problems/basic-calculator-ii
+362,Design Hit Counter,Design,63.9%,Medium,9.6569,https://leetcode.com/problems/design-hit-counter
+718,Maximum Length of Repeated Subarray,"Array, Hash Table, Binary Search, Dynamic Programming",49.5%,Medium,62.907,https://leetcode.com/problems/maximum-length-of-repeated-subarray
+770,Basic Calculator IV,"Hash Table, String, Stack",53.0%,Hard,9.23619,https://leetcode.com/problems/basic-calculator-iv
+811,Subdomain Visit Count,Hash Table,70.1%,Easy,100.0,https://leetcode.com/problems/subdomain-visit-count
+1143,Longest Common Subsequence,Dynamic Programming,58.4%,Medium,1.58384,https://leetcode.com/problems/longest-common-subsequence
+1197,Minimum Knight Moves,Breadth-first Search,36.1%,Medium,9.58434,https://leetcode.com/problems/minimum-knight-moves

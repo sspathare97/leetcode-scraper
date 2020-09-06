@@ -1,0 +1,4 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+10,Regular Expression Matching,"String, Dynamic Programming, Backtracking",26.9%,Hard,60.8111,https://leetcode.com/problems/regular-expression-matching
+44,Wildcard Matching,"String, Dynamic Programming, Backtracking, Greedy",24.8%,Hard,39.1889,https://leetcode.com/problems/wildcard-matching
+68,Text Justification,String,28.0%,Hard,100.0,https://leetcode.com/problems/text-justification

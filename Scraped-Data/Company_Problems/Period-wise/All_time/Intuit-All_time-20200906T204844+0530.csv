@@ -1,0 +1,27 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,3.64486,https://leetcode.com/problems/two-sum
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",30.5%,Medium,0.412674,https://leetcode.com/problems/longest-substring-without-repeating-characters
+20,Valid Parentheses,"String, Stack",39.1%,Easy,0.784268,https://leetcode.com/problems/valid-parentheses
+49,Group Anagrams,"Hash Table, String",57.3%,Medium,0.119022,https://leetcode.com/problems/group-anagrams
+56,Merge Intervals,"Array, Sort",39.5%,Medium,2.99018,https://leetcode.com/problems/merge-intervals
+68,Text Justification,String,28.0%,Hard,66.5685,https://leetcode.com/problems/text-justification
+72,Edit Distance,"String, Dynamic Programming",45.1%,Hard,0.309083,https://leetcode.com/problems/edit-distance
+79,Word Search,"Array, Backtracking",35.8%,Medium,18.6692,https://leetcode.com/problems/word-search
+124,Binary Tree Maximum Path Sum,"Tree, Depth-first Search",34.5%,Hard,2.07215,https://leetcode.com/problems/binary-tree-maximum-path-sum
+146,LRU Cache,Design,33.5%,Medium,11.0288,https://leetcode.com/problems/lru-cache
+155,Min Stack,"Stack, Design",44.8%,Easy,0.319473,https://leetcode.com/problems/min-stack
+207,Course Schedule,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",43.3%,Medium,9.26589,https://leetcode.com/problems/course-schedule
+210,Course Schedule II,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",41.0%,Medium,9.34848,https://leetcode.com/problems/course-schedule-ii
+224,Basic Calculator,"Math, Stack",37.1%,Hard,33.1371,https://leetcode.com/problems/basic-calculator
+227,Basic Calculator II,String,37.1%,Medium,4.9457,https://leetcode.com/problems/basic-calculator-ii
+236,Lowest Common Ancestor of a Binary Tree,Tree,46.2%,Medium,0.59851,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+287,Find the Duplicate Number,"Array, Two Pointers, Binary Search",55.9%,Medium,0.161688,https://leetcode.com/problems/find-the-duplicate-number
+409,Longest Palindrome,Hash Table,51.8%,Easy,3.47044,https://leetcode.com/problems/longest-palindrome
+628,Maximum Product of Three Numbers,"Array, Math",47.1%,Easy,0.0,https://leetcode.com/problems/maximum-product-of-three-numbers
+695,Max Area of Island,"Array, Depth-first Search",63.0%,Medium,1.54306,https://leetcode.com/problems/max-area-of-island
+718,Maximum Length of Repeated Subarray,"Array, Hash Table, Binary Search, Dynamic Programming",49.5%,Medium,12.9278,https://leetcode.com/problems/maximum-length-of-repeated-subarray
+729,My Calendar I,Array,52.0%,Medium,10.5515,https://leetcode.com/problems/my-calendar-i
+759,Employee Free Time,"Heap, Greedy",66.5%,Hard,4.51287,https://leetcode.com/problems/employee-free-time
+770,Basic Calculator IV,"Hash Table, String, Stack",53.0%,Hard,15.5232,https://leetcode.com/problems/basic-calculator-iv
+811,Subdomain Visit Count,Hash Table,70.1%,Easy,100.0,https://leetcode.com/problems/subdomain-visit-count
+986,Interval List Intersections,Two Pointers,67.5%,Medium,0.38251,https://leetcode.com/problems/interval-list-intersections

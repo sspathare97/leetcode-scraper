@@ -1,0 +1,5 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+68,Text Justification,String,28.0%,Hard,100.0,https://leetcode.com/problems/text-justification
+224,Basic Calculator,"Math, Stack",37.1%,Hard,45.4213,https://leetcode.com/problems/basic-calculator
+718,Maximum Length of Repeated Subarray,"Array, Hash Table, Binary Search, Dynamic Programming",49.5%,Medium,69.9764,https://leetcode.com/problems/maximum-length-of-repeated-subarray
+1197,Minimum Knight Moves,Breadth-first Search,36.1%,Medium,30.0236,https://leetcode.com/problems/minimum-knight-moves

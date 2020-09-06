@@ -1,0 +1,17 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+14,Longest Common Prefix,String,35.5%,Easy,10.8568,https://leetcode.com/problems/longest-common-prefix
+23,Merge k Sorted Lists,"Linked List, Divide and Conquer, Heap",40.6%,Hard,5.3347,https://leetcode.com/problems/merge-k-sorted-lists
+33,Search in Rotated Sorted Array,"Array, Binary Search",34.7%,Medium,1.48475,https://leetcode.com/problems/search-in-rotated-sorted-array
+56,Merge Intervals,"Array, Sort",39.5%,Medium,0.124447,https://leetcode.com/problems/merge-intervals
+162,Find Peak Element,"Array, Binary Search",43.4%,Medium,0.533806,https://leetcode.com/problems/find-peak-element
+166,Fraction to Recurring Decimal,"Hash Table, Math",21.7%,Medium,49.5138,https://leetcode.com/problems/fraction-to-recurring-decimal
+234,Palindrome Linked List,"Linked List, Two Pointers",39.5%,Easy,7.4138,https://leetcode.com/problems/palindrome-linked-list
+518,Coin Change 2,,50.4%,Medium,2.01944,https://leetcode.com/problems/coin-change-2
+592,Fraction Addition and Subtraction,Math,49.2%,Medium,100.0,https://leetcode.com/problems/fraction-addition-and-subtraction
+598,Range Addition II,Math,49.6%,Easy,71.7058,https://leetcode.com/problems/range-addition-ii
+634,Find the Derangement of An Array,Math,40.3%,Medium,55.1137,https://leetcode.com/problems/find-the-derangement-of-an-array
+691,Stickers to Spell Word,"Dynamic Programming, Backtracking",43.1%,Hard,64.5972,https://leetcode.com/problems/stickers-to-spell-word
+697,Degree of an Array,Array,53.9%,Easy,21.2195,https://leetcode.com/problems/degree-of-an-array
+717,1-bit and 2-bit Characters,Array,48.5%,Easy,11.9188,https://leetcode.com/problems/1-bit-and-2-bit-characters
+726,Number of Atoms,"Hash Table, Stack, Recursion",49.4%,Hard,9.3155,https://leetcode.com/problems/number-of-atoms
+945,Minimum Increment to Make Array Unique,Array,46.4%,Medium,10.7569,https://leetcode.com/problems/minimum-increment-to-make-array-unique

@@ -1,0 +1,17 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,61.2461,https://leetcode.com/problems/two-sum
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",30.5%,Medium,1.28435,https://leetcode.com/problems/longest-substring-without-repeating-characters
+5,Longest Palindromic Substring,"String, Dynamic Programming",29.6%,Medium,10.1817,https://leetcode.com/problems/longest-palindromic-substring
+17,Letter Combinations of a Phone Number,"String, Backtracking",47.1%,Medium,25.6461,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+41,First Missing Positive,Array,32.2%,Hard,2.63656,https://leetcode.com/problems/first-missing-positive
+50,"Pow(x, n)","Math, Binary Search",30.5%,Medium,8.03146,https://leetcode.com/problems/powx-n
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",46.7%,Easy,9.4876,https://leetcode.com/problems/maximum-subarray
+56,Merge Intervals,"Array, Sort",39.5%,Medium,1.27613,https://leetcode.com/problems/merge-intervals
+91,Decode Ways,"String, Dynamic Programming",24.9%,Medium,4.12122,https://leetcode.com/problems/decode-ways
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",50.6%,Easy,100.0,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+146,LRU Cache,Design,33.5%,Medium,7.04144,https://leetcode.com/problems/lru-cache
+155,Min Stack,"Stack, Design",44.8%,Easy,1.76436,https://leetcode.com/problems/min-stack
+160,Intersection of Two Linked Lists,Linked List,41.1%,Easy,21.9299,https://leetcode.com/problems/intersection-of-two-linked-lists
+242,Valid Anagram,"Hash Table, Sort",57.1%,Easy,6.45832,https://leetcode.com/problems/valid-anagram
+871,Minimum Number of Refueling Stops,"Dynamic Programming, Heap",31.4%,Hard,96.846,https://leetcode.com/problems/minimum-number-of-refueling-stops
+1217,Minimum Cost to Move Chips to The Same Position,"Array, Math, Greedy",64.5%,Easy,0.0,https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position

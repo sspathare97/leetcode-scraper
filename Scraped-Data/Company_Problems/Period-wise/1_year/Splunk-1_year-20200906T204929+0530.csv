@@ -1,0 +1,9 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,3.26153,https://leetcode.com/problems/two-sum
+20,Valid Parentheses,"String, Stack",39.1%,Easy,3.82026,https://leetcode.com/problems/valid-parentheses
+130,Surrounded Regions,"Depth-first Search, Breadth-first Search, Union Find",28.3%,Medium,54.4473,https://leetcode.com/problems/surrounded-regions
+146,LRU Cache,Design,33.5%,Medium,8.43947,https://leetcode.com/problems/lru-cache
+236,Lowest Common Ancestor of a Binary Tree,Tree,46.2%,Medium,8.89451,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+238,Product of Array Except Self,Array,60.3%,Medium,6.90671,https://leetcode.com/problems/product-of-array-except-self
+498,Diagonal Traverse,,48.4%,Medium,100.0,https://leetcode.com/problems/diagonal-traverse
+977,Squares of a Sorted Array,"Array, Two Pointers",72.2%,Easy,6.73596,https://leetcode.com/problems/squares-of-a-sorted-array

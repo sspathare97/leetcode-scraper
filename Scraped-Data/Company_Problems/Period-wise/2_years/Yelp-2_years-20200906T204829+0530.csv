@@ -1,0 +1,17 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+14,Longest Common Prefix,String,35.5%,Easy,0.519286,https://leetcode.com/problems/longest-common-prefix
+22,Generate Parentheses,"String, Backtracking",63.1%,Medium,0.690363,https://leetcode.com/problems/generate-parentheses
+56,Merge Intervals,"Array, Sort",39.5%,Medium,4.66551,https://leetcode.com/problems/merge-intervals
+192,Word Frequency,,25.8%,Medium,18.4511,https://leetcode.com/problems/word-frequency
+205,Isomorphic Strings,Hash Table,39.9%,Easy,1.88311,https://leetcode.com/problems/isomorphic-strings
+239,Sliding Window Maximum,"Heap, Sliding Window",43.4%,Hard,1.10316,https://leetcode.com/problems/sliding-window-maximum
+253,Meeting Rooms II,"Heap, Greedy, Sort",45.8%,Medium,7.09332,https://leetcode.com/problems/meeting-rooms-ii
+273,Integer to English Words,"Math, String",27.2%,Hard,2.16341,https://leetcode.com/problems/integer-to-english-words
+332,Reconstruct Itinerary,"Depth-first Search, Graph",36.9%,Medium,14.1413,https://leetcode.com/problems/reconstruct-itinerary
+347,Top K Frequent Elements,"Hash Table, Heap",61.4%,Medium,67.5404,https://leetcode.com/problems/top-k-frequent-elements
+349,Intersection of Two Arrays,"Hash Table, Two Pointers, Binary Search, Sort",62.9%,Easy,1.25638,https://leetcode.com/problems/intersection-of-two-arrays
+355,Design Twitter,"Hash Table, Heap, Design",30.4%,Medium,100.0,https://leetcode.com/problems/design-twitter
+528,Random Pick with Weight,"Binary Search, Random",44.1%,Medium,22.0192,https://leetcode.com/problems/random-pick-with-weight
+599,Minimum Index Sum of Two Lists,Hash Table,50.8%,Easy,79.1344,https://leetcode.com/problems/minimum-index-sum-of-two-lists
+692,Top K Frequent Words,"Hash Table, Heap, Trie",52.1%,Medium,34.2471,https://leetcode.com/problems/top-k-frequent-words
+1126,Active Businesses,,68.3%,Medium,55.1127,https://leetcode.com/problems/active-businesses

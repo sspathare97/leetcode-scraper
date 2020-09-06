@@ -1,0 +1,18 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,15.2703,https://leetcode.com/problems/two-sum
+2,Add Two Numbers,"Linked List, Math",34.1%,Medium,20.4903,https://leetcode.com/problems/add-two-numbers
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",30.5%,Medium,4.59516,https://leetcode.com/problems/longest-substring-without-repeating-characters
+7,Reverse Integer,Math,25.8%,Easy,5.6795,https://leetcode.com/problems/reverse-integer
+13,Roman to Integer,"Math, String",55.9%,Easy,10.5137,https://leetcode.com/problems/roman-to-integer
+20,Valid Parentheses,"String, Stack",39.1%,Easy,6.44785,https://leetcode.com/problems/valid-parentheses
+21,Merge Two Sorted Lists,Linked List,53.9%,Easy,6.53205,https://leetcode.com/problems/merge-two-sorted-lists
+28,Implement strStr(),"Two Pointers, String",34.6%,Easy,12.031,https://leetcode.com/problems/implement-strstr
+77,Combinations,Backtracking,55.1%,Medium,40.9882,https://leetcode.com/problems/combinations
+98,Validate Binary Search Tree,"Tree, Depth-first Search",27.9%,Medium,9.07015,https://leetcode.com/problems/validate-binary-search-tree
+148,Sort List,"Linked List, Sort",42.9%,Medium,35.9719,https://leetcode.com/problems/sort-list
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,8.5583,https://leetcode.com/problems/number-of-islands
+260,Single Number III,Bit Manipulation,64.5%,Medium,83.2722,https://leetcode.com/problems/single-number-iii
+371,Sum of Two Integers,Bit Manipulation,50.7%,Medium,57.716,https://leetcode.com/problems/sum-of-two-integers
+420,Strong Password Checker,,13.7%,Hard,100.0,https://leetcode.com/problems/strong-password-checker
+560,Subarray Sum Equals K,"Array, Hash Table",43.8%,Medium,27.4663,https://leetcode.com/problems/subarray-sum-equals-k
+669,Trim a Binary Search Tree,Tree,63.0%,Easy,67.1185,https://leetcode.com/problems/trim-a-binary-search-tree

@@ -1,0 +1,4 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+346,Moving Average from Data Stream,"Design, Queue",71.3%,Easy,64.8715,https://leetcode.com/problems/moving-average-from-data-stream
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",47.7%,Medium,35.1285,https://leetcode.com/problems/insert-delete-getrandom-o1
+1283,Find the Smallest Divisor Given a Threshold,Binary Search,48.8%,Medium,100.0,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold

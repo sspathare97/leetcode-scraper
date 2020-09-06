@@ -1,0 +1,4 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+291,Word Pattern II,Backtracking,43.5%,Hard,100.0,https://leetcode.com/problems/word-pattern-ii
+301,Remove Invalid Parentheses,"Depth-first Search, Breadth-first Search",43.5%,Hard,5.70014,https://leetcode.com/problems/remove-invalid-parentheses
+786,K-th Smallest Prime Fraction,"Binary Search, Heap",41.0%,Hard,52.8501,https://leetcode.com/problems/k-th-smallest-prime-fraction

@@ -1,0 +1,24 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,3.76792,https://leetcode.com/problems/two-sum
+2,Add Two Numbers,"Linked List, Math",34.1%,Medium,3.51384,https://leetcode.com/problems/add-two-numbers
+17,Letter Combinations of a Phone Number,"String, Backtracking",47.1%,Medium,80.4269,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+20,Valid Parentheses,"String, Stack",39.1%,Easy,9.91894,https://leetcode.com/problems/valid-parentheses
+41,First Missing Positive,Array,32.2%,Hard,14.5159,https://leetcode.com/problems/first-missing-positive
+42,Trapping Rain Water,"Array, Two Pointers, Stack",49.2%,Hard,7.80982,https://leetcode.com/problems/trapping-rain-water
+48,Rotate Image,Array,57.3%,Medium,9.92129,https://leetcode.com/problems/rotate-image
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",46.7%,Easy,4.30627,https://leetcode.com/problems/maximum-subarray
+56,Merge Intervals,"Array, Sort",39.5%,Medium,43.5836,https://leetcode.com/problems/merge-intervals
+76,Minimum Window Substring,"Hash Table, Two Pointers, String, Sliding Window",34.9%,Hard,13.0554,https://leetcode.com/problems/minimum-window-substring
+98,Validate Binary Search Tree,"Tree, Depth-first Search",27.9%,Medium,13.9465,https://leetcode.com/problems/validate-binary-search-tree
+146,LRU Cache,Design,33.5%,Medium,86.3762,https://leetcode.com/problems/lru-cache
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,5.85795,https://leetcode.com/problems/number-of-islands
+211,Design Add and Search Words Data Structure,"Backtracking, Design, Trie",38.3%,Medium,20.9481,https://leetcode.com/problems/design-add-and-search-words-data-structure
+212,Word Search II,"Backtracking, Trie",35.1%,Hard,19.5661,https://leetcode.com/problems/word-search-ii
+295,Find Median from Data Stream,"Heap, Design",44.8%,Hard,20.1479,https://leetcode.com/problems/find-median-from-data-stream
+348,Design Tic-Tac-Toe,Design,54.6%,Medium,50.4285,https://leetcode.com/problems/design-tic-tac-toe
+412,Fizz Buzz,,63.2%,Easy,4.14176,https://leetcode.com/problems/fizz-buzz
+460,LFU Cache,Design,34.5%,Hard,69.2073,https://leetcode.com/problems/lfu-cache
+557,Reverse Words in a String III,String,70.2%,Easy,30.0052,https://leetcode.com/problems/reverse-words-in-a-string-iii
+706,Design HashMap,"Hash Table, Design",61.6%,Easy,34.3703,https://leetcode.com/problems/design-hashmap
+724,Find Pivot Index,Array,44.2%,Easy,55.5835,https://leetcode.com/problems/find-pivot-index
+1283,Find the Smallest Divisor Given a Threshold,Binary Search,48.8%,Medium,100.0,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold

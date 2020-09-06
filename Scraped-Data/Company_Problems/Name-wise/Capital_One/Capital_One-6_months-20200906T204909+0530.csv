@@ -1,0 +1,13 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+21,Merge Two Sorted Lists,Linked List,53.9%,Easy,2.25193,https://leetcode.com/problems/merge-two-sorted-lists
+66,Plus One,Array,43.0%,Easy,3.81806,https://leetcode.com/problems/plus-one
+138,Copy List with Random Pointer,"Hash Table, Linked List",37.0%,Medium,14.5366,https://leetcode.com/problems/copy-list-with-random-pointer
+155,Min Stack,"Stack, Design",44.8%,Easy,10.9811,https://leetcode.com/problems/min-stack
+204,Count Primes,"Hash Table, Math",31.6%,Easy,47.0517,https://leetcode.com/problems/count-primes
+228,Summary Ranges,Array,39.7%,Medium,100.0,https://leetcode.com/problems/summary-ranges
+283,Move Zeroes,"Array, Two Pointers",58.0%,Easy,2.99507,https://leetcode.com/problems/move-zeroes
+290,Word Pattern,Hash Table,37.1%,Easy,70.9119,https://leetcode.com/problems/word-pattern
+322,Coin Change,Dynamic Programming,35.8%,Medium,3.81214,https://leetcode.com/problems/coin-change
+328,Odd Even Linked List,Linked List,56.0%,Medium,8.08193,https://leetcode.com/problems/odd-even-linked-list
+482,License Key Formatting,,43.0%,Easy,23.2816,https://leetcode.com/problems/license-key-formatting
+1071,Greatest Common Divisor of Strings,String,52.4%,Easy,94.7722,https://leetcode.com/problems/greatest-common-divisor-of-strings

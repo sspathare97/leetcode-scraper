@@ -1,0 +1,19 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,4.69009,https://leetcode.com/problems/two-sum
+14,Longest Common Prefix,String,35.5%,Easy,1.59629,https://leetcode.com/problems/longest-common-prefix
+15,3Sum,"Array, Two Pointers",27.0%,Medium,2.44697,https://leetcode.com/problems/3sum
+20,Valid Parentheses,"String, Stack",39.1%,Easy,1.01248,https://leetcode.com/problems/valid-parentheses
+130,Surrounded Regions,"Depth-first Search, Breadth-first Search, Union Find",28.3%,Medium,100.0,https://leetcode.com/problems/surrounded-regions
+133,Clone Graph,"Depth-first Search, Breadth-first Search, Graph",35.4%,Medium,8.50791,https://leetcode.com/problems/clone-graph
+143,Reorder List,Linked List,39.0%,Medium,2.51817,https://leetcode.com/problems/reorder-list
+146,LRU Cache,Design,33.5%,Medium,8.89364,https://leetcode.com/problems/lru-cache
+173,Binary Search Tree Iterator,"Stack, Tree, Design",57.1%,Medium,4.40562,https://leetcode.com/problems/binary-search-tree-iterator
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,8.34672,https://leetcode.com/problems/number-of-islands
+236,Lowest Common Ancestor of a Binary Tree,Tree,46.2%,Medium,5.29002,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
+238,Product of Array Except Self,Array,60.3%,Medium,4.11018,https://leetcode.com/problems/product-of-array-except-self
+273,Integer to English Words,"Math, String",27.2%,Hard,14.8537,https://leetcode.com/problems/integer-to-english-words
+317,Shortest Distance from All Buildings,Breadth-first Search,41.7%,Hard,41.5065,https://leetcode.com/problems/shortest-distance-from-all-buildings
+341,Flatten Nested List Iterator,"Stack, Design",53.1%,Medium,21.4623,https://leetcode.com/problems/flatten-nested-list-iterator
+498,Diagonal Traverse,,48.4%,Medium,70.7533,https://leetcode.com/problems/diagonal-traverse
+622,Design Circular Queue,"Design, Queue",44.1%,Medium,8.93268,https://leetcode.com/problems/design-circular-queue
+977,Squares of a Sorted Array,"Array, Two Pointers",72.2%,Easy,7.10695,https://leetcode.com/problems/squares-of-a-sorted-array

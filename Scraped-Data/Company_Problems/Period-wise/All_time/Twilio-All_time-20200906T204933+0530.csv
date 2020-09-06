@@ -1,0 +1,19 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,0.25359,https://leetcode.com/problems/two-sum
+14,Longest Common Prefix,String,35.5%,Easy,0.168822,https://leetcode.com/problems/longest-common-prefix
+17,Letter Combinations of a Phone Number,"String, Backtracking",47.1%,Medium,0.220018,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+20,Valid Parentheses,"String, Stack",39.1%,Easy,4.36328,https://leetcode.com/problems/valid-parentheses
+49,Group Anagrams,"Hash Table, String",57.3%,Medium,0.442486,https://leetcode.com/problems/group-anagrams
+68,Text Justification,String,28.0%,Hard,16.9762,https://leetcode.com/problems/text-justification
+139,Word Break,Dynamic Programming,40.3%,Medium,0.933992,https://leetcode.com/problems/word-break
+146,LRU Cache,Design,33.5%,Medium,63.7916,https://leetcode.com/problems/lru-cache
+221,Maximal Square,Dynamic Programming,37.8%,Medium,1.18189,https://leetcode.com/problems/maximal-square
+225,Implement Stack using Queues,"Stack, Design",45.7%,Easy,2.61199,https://leetcode.com/problems/implement-stack-using-queues
+332,Reconstruct Itinerary,"Depth-first Search, Graph",36.9%,Medium,16.5705,https://leetcode.com/problems/reconstruct-itinerary
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",47.7%,Medium,0.50274,https://leetcode.com/problems/insert-delete-getrandom-o1
+532,K-diff Pairs in an Array,"Array, Two Pointers",31.7%,Easy,0.887343,https://leetcode.com/problems/k-diff-pairs-in-an-array
+560,Subarray Sum Equals K,"Array, Hash Table",43.8%,Medium,2.44188,https://leetcode.com/problems/subarray-sum-equals-k
+935,Knight Dialer,Dynamic Programming,45.3%,Medium,27.5832,https://leetcode.com/problems/knight-dialer
+965,Univalued Binary Tree,Tree,67.6%,Easy,0.0,https://leetcode.com/problems/univalued-binary-tree
+974,Subarray Sums Divisible by K,"Array, Hash Table",49.1%,Medium,100.0,https://leetcode.com/problems/subarray-sums-divisible-by-k
+1507,Reformat Date,String,60.3%,Easy,0.0,https://leetcode.com/problems/reformat-date

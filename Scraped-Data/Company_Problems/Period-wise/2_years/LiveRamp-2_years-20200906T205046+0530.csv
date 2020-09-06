@@ -1,0 +1,5 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+20,Valid Parentheses,"String, Stack",39.1%,Easy,9.6023,https://leetcode.com/problems/valid-parentheses
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,12.7452,https://leetcode.com/problems/number-of-islands
+529,Minesweeper,"Depth-first Search, Breadth-first Search",59.4%,Medium,100.0,https://leetcode.com/problems/minesweeper
+785,Is Graph Bipartite?,"Depth-first Search, Breadth-first Search, Graph",47.6%,Medium,56.3726,https://leetcode.com/problems/is-graph-bipartite

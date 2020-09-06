@@ -1,0 +1,5 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+146,LRU Cache,Design,33.5%,Medium,14.8337,https://leetcode.com/problems/lru-cache
+208,Implement Trie (Prefix Tree),"Design, Trie",49.9%,Medium,26.997,https://leetcode.com/problems/implement-trie-prefix-tree
+698,Partition to K Equal Sum Subsets,"Dynamic Programming, Recursion",45.0%,Medium,63.4985,https://leetcode.com/problems/partition-to-k-equal-sum-subsets
+759,Employee Free Time,"Heap, Greedy",66.5%,Hard,100.0,https://leetcode.com/problems/employee-free-time

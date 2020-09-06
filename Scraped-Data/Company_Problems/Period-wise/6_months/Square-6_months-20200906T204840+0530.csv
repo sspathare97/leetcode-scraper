@@ -1,0 +1,9 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+72,Edit Distance,"String, Dynamic Programming",45.1%,Hard,9.50107,https://leetcode.com/problems/edit-distance
+91,Decode Ways,"String, Dynamic Programming",24.9%,Medium,2.03494,https://leetcode.com/problems/decode-ways
+273,Integer to English Words,"Math, String",27.2%,Hard,5.83464,https://leetcode.com/problems/integer-to-english-words
+336,Palindrome Pairs,"Hash Table, String, Trie",33.8%,Hard,100.0,https://leetcode.com/problems/palindrome-pairs
+388,Longest Absolute File Path,,41.8%,Medium,49.636,https://leetcode.com/problems/longest-absolute-file-path
+415,Add Strings,String,47.7%,Easy,3.32586,https://leetcode.com/problems/add-strings
+999,Available Captures for Rook,Array,66.7%,Easy,29.0605,https://leetcode.com/problems/available-captures-for-rook
+1336,Number of Transactions per Visit,,44.7%,Hard,74.818,https://leetcode.com/problems/number-of-transactions-per-visit

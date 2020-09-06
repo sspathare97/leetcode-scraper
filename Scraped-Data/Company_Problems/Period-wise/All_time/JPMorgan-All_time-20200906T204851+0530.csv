@@ -1,0 +1,26 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,2.29484,https://leetcode.com/problems/two-sum
+4,Median of Two Sorted Arrays,"Array, Binary Search, Divide and Conquer",29.8%,Hard,0.945423,https://leetcode.com/problems/median-of-two-sorted-arrays
+5,Longest Palindromic Substring,"String, Dynamic Programming",29.6%,Medium,1.60079,https://leetcode.com/problems/longest-palindromic-substring
+7,Reverse Integer,Math,25.8%,Easy,1.62733,https://leetcode.com/problems/reverse-integer
+9,Palindrome Number,Math,48.6%,Easy,2.65195,https://leetcode.com/problems/palindrome-number
+17,Letter Combinations of a Phone Number,"String, Backtracking",47.1%,Medium,1.54084,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+20,Valid Parentheses,"String, Stack",39.1%,Easy,65.5845,https://leetcode.com/problems/valid-parentheses
+31,Next Permutation,Array,32.7%,Medium,3.34173,https://leetcode.com/problems/next-permutation
+33,Search in Rotated Sorted Array,"Array, Binary Search",34.7%,Medium,0.875887,https://leetcode.com/problems/search-in-rotated-sorted-array
+39,Combination Sum,"Array, Backtracking",56.5%,Medium,0.176549,https://leetcode.com/problems/combination-sum
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",46.7%,Easy,1.49283,https://leetcode.com/problems/maximum-subarray
+79,Word Search,"Array, Backtracking",35.8%,Medium,1.44967,https://leetcode.com/problems/word-search
+91,Decode Ways,"String, Dynamic Programming",24.9%,Medium,54.6301,https://leetcode.com/problems/decode-ways
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",50.6%,Easy,9.82876,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+146,LRU Cache,Design,33.5%,Medium,0.853829,https://leetcode.com/problems/lru-cache
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,1.30368,https://leetcode.com/problems/number-of-islands
+202,Happy Number,"Hash Table, Math",50.6%,Easy,100.0,https://leetcode.com/problems/happy-number
+215,Kth Largest Element in an Array,"Divide and Conquer, Heap",55.8%,Medium,0.290801,https://leetcode.com/problems/kth-largest-element-in-an-array
+268,Missing Number,"Array, Math, Bit Manipulation",51.9%,Easy,0.914804,https://leetcode.com/problems/missing-number
+273,Integer to English Words,"Math, String",27.2%,Hard,3.52928,https://leetcode.com/problems/integer-to-english-words
+322,Coin Change,Dynamic Programming,35.8%,Medium,20.2146,https://leetcode.com/problems/coin-change
+349,Intersection of Two Arrays,"Hash Table, Two Pointers, Binary Search, Sort",62.9%,Easy,0.534001,https://leetcode.com/problems/intersection-of-two-arrays
+387,First Unique Character in a String,"Hash Table, String",53.4%,Easy,0.129584,https://leetcode.com/problems/first-unique-character-in-a-string
+509,Fibonacci Number,Array,67.2%,Easy,4.99676,https://leetcode.com/problems/fibonacci-number
+1328,Break a Palindrome,String,43.8%,Medium,4.8004,https://leetcode.com/problems/break-a-palindrome

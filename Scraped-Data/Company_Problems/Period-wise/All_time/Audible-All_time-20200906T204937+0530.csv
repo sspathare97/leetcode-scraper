@@ -1,0 +1,18 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,5.43497,https://leetcode.com/problems/two-sum
+20,Valid Parentheses,"String, Stack",39.1%,Easy,1.17328,https://leetcode.com/problems/valid-parentheses
+23,Merge k Sorted Lists,"Linked List, Divide and Conquer, Heap",40.6%,Hard,9.4004,https://leetcode.com/problems/merge-k-sorted-lists
+42,Trapping Rain Water,"Array, Two Pointers, Stack",49.2%,Hard,4.66213,https://leetcode.com/problems/trapping-rain-water
+73,Set Matrix Zeroes,Array,43.3%,Medium,8.97384,https://leetcode.com/problems/set-matrix-zeroes
+101,Symmetric Tree,"Tree, Depth-first Search, Breadth-first Search",47.1%,Easy,7.88758,https://leetcode.com/problems/symmetric-tree
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",50.6%,Easy,4.66884,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+127,Word Ladder,Breadth-first Search,29.9%,Medium,3.2736,https://leetcode.com/problems/word-ladder
+139,Word Break,Dynamic Programming,40.3%,Medium,10.2339,https://leetcode.com/problems/word-break
+140,Word Break II,"Dynamic Programming, Backtracking",32.9%,Hard,74.5697,https://leetcode.com/problems/word-break-ii
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,24.4789,https://leetcode.com/problems/number-of-islands
+472,Concatenated Words,"Dynamic Programming, Depth-first Search, Trie",44.1%,Hard,15.2147,https://leetcode.com/problems/concatenated-words
+545,Boundary of Binary Tree,Tree,39.1%,Medium,49.9092,https://leetcode.com/problems/boundary-of-binary-tree
+849,Maximize Distance to Closest Person,Array,42.6%,Easy,13.1479,https://leetcode.com/problems/maximize-distance-to-closest-person
+937,Reorder Data in Log Files,String,54.2%,Easy,8.71391,https://leetcode.com/problems/reorder-data-in-log-files
+1200,Minimum Absolute Difference,Array,66.6%,Easy,0.0,https://leetcode.com/problems/minimum-absolute-difference
+1228,Missing Number In Arithmetic Progression,Math,52.4%,Easy,100.0,https://leetcode.com/problems/missing-number-in-arithmetic-progression

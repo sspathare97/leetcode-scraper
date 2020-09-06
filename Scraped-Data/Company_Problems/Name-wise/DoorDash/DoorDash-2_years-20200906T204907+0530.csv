@@ -1,0 +1,21 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+15,3Sum,"Array, Two Pointers",27.0%,Medium,0.576148,https://leetcode.com/problems/3sum
+20,Valid Parentheses,"String, Stack",39.1%,Easy,0.238391,https://leetcode.com/problems/valid-parentheses
+36,Valid Sudoku,Hash Table,49.1%,Medium,1.91429,https://leetcode.com/problems/valid-sudoku
+37,Sudoku Solver,"Hash Table, Backtracking",44.0%,Hard,4.80362,https://leetcode.com/problems/sudoku-solver
+56,Merge Intervals,"Array, Sort",39.5%,Medium,1.51151,https://leetcode.com/problems/merge-intervals
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",50.6%,Easy,17.9928,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+146,LRU Cache,Design,33.5%,Medium,0.526638,https://leetcode.com/problems/lru-cache
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,0.710877,https://leetcode.com/problems/number-of-islands
+210,Course Schedule II,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",41.0%,Medium,43.4307,https://leetcode.com/problems/course-schedule-ii
+227,Basic Calculator II,String,37.1%,Medium,7.42449,https://leetcode.com/problems/basic-calculator-ii
+269,Alien Dictionary,"Graph, Topological Sort",33.3%,Hard,1.52111,https://leetcode.com/problems/alien-dictionary
+348,Design Tic-Tac-Toe,Design,54.6%,Medium,2.72392,https://leetcode.com/problems/design-tic-tac-toe
+355,Design Twitter,"Hash Table, Heap, Design",30.4%,Medium,59.5557,https://leetcode.com/problems/design-twitter
+528,Random Pick with Weight,"Binary Search, Random",44.1%,Medium,1.86903,https://leetcode.com/problems/random-pick-with-weight
+695,Max Area of Island,"Array, Depth-first Search",63.0%,Medium,100.0,https://leetcode.com/problems/max-area-of-island
+759,Employee Free Time,"Heap, Greedy",66.5%,Hard,80.4203,https://leetcode.com/problems/employee-free-time
+1173,Immediate Food Delivery I,,80.8%,Easy,7.48865,https://leetcode.com/problems/immediate-food-delivery-i
+1174,Immediate Food Delivery II,,58.8%,Medium,29.924,https://leetcode.com/problems/immediate-food-delivery-ii
+1229,Meeting Scheduler,Line Sweep,53.1%,Medium,60.8405,https://leetcode.com/problems/meeting-scheduler
+1359,Count All Valid Pickup and Delivery Options,"Math, Dynamic Programming",58.1%,Hard,58.055,https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options

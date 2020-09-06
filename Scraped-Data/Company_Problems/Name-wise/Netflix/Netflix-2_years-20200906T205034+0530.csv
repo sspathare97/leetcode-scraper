@@ -1,0 +1,10 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+34,Find First and Last Position of Element in Sorted Array,"Array, Binary Search",36.3%,Medium,3.28414,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array
+56,Merge Intervals,"Array, Sort",39.5%,Medium,2.6355,https://leetcode.com/problems/merge-intervals
+88,Merge Sorted Array,"Array, Two Pointers",39.6%,Easy,2.32466,https://leetcode.com/problems/merge-sorted-array
+155,Min Stack,"Stack, Design",44.8%,Easy,3.64378,https://leetcode.com/problems/min-stack
+185,Department Top Three Salaries,,35.2%,Hard,40.238,https://leetcode.com/problems/department-top-three-salaries
+295,Find Median from Data Stream,"Heap, Design",44.8%,Hard,29.8633,https://leetcode.com/problems/find-median-from-data-stream
+362,Design Hit Counter,Design,63.9%,Medium,18.7036,https://leetcode.com/problems/design-hit-counter
+927,Three Equal Parts,"Math, Binary Search, Greedy",33.7%,Hard,100.0,https://leetcode.com/problems/three-equal-parts
+981,Time Based Key-Value Store,"Hash Table, Binary Search",53.1%,Medium,70.119,https://leetcode.com/problems/time-based-key-value-store

@@ -1,0 +1,19 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+5,Longest Palindromic Substring,"String, Dynamic Programming",29.6%,Medium,0.212765,https://leetcode.com/problems/longest-palindromic-substring
+17,Letter Combinations of a Phone Number,"String, Backtracking",47.1%,Medium,1.6596,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+22,Generate Parentheses,"String, Backtracking",63.1%,Medium,0.425592,https://leetcode.com/problems/generate-parentheses
+40,Combination Sum II,"Array, Backtracking",48.6%,Medium,0.999369,https://leetcode.com/problems/combination-sum-ii
+45,Jump Game II,"Array, Greedy",30.7%,Hard,38.4889,https://leetcode.com/problems/jump-game-ii
+55,Jump Game,"Array, Greedy",34.7%,Medium,1.13134,https://leetcode.com/problems/jump-game
+128,Longest Consecutive Sequence,"Array, Union Find",45.3%,Hard,0.864463,https://leetcode.com/problems/longest-consecutive-sequence
+146,LRU Cache,Design,33.5%,Medium,1.00674,https://leetcode.com/problems/lru-cache
+234,Palindrome Linked List,"Linked List, Two Pointers",39.5%,Easy,0.9605,https://leetcode.com/problems/palindrome-linked-list
+238,Product of Array Except Self,Array,60.3%,Medium,0.82427,https://leetcode.com/problems/product-of-array-except-self
+253,Meeting Rooms II,"Heap, Greedy, Sort",45.8%,Medium,1.59393,https://leetcode.com/problems/meeting-rooms-ii
+273,Integer to English Words,"Math, String",27.2%,Hard,5.24221,https://leetcode.com/problems/integer-to-english-words
+283,Move Zeroes,"Array, Two Pointers",58.0%,Easy,0.273578,https://leetcode.com/problems/move-zeroes
+403,Frog Jump,Dynamic Programming,40.0%,Hard,9.75453,https://leetcode.com/problems/frog-jump
+853,Car Fleet,Sort,42.4%,Medium,54.0596,https://leetcode.com/problems/car-fleet
+977,Squares of a Sorted Array,"Array, Two Pointers",72.2%,Easy,0.803932,https://leetcode.com/problems/squares-of-a-sorted-array
+991,Broken Calculator,"Math, Greedy",45.8%,Medium,82.7939,https://leetcode.com/problems/broken-calculator
+1052,Grumpy Bookstore Owner,"Array, Sliding Window",55.4%,Medium,100.0,https://leetcode.com/problems/grumpy-bookstore-owner

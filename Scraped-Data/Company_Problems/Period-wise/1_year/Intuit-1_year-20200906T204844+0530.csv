@@ -1,0 +1,15 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,0.484531,https://leetcode.com/problems/two-sum
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",30.5%,Medium,0.227647,https://leetcode.com/problems/longest-substring-without-repeating-characters
+20,Valid Parentheses,"String, Stack",39.1%,Easy,0.717907,https://leetcode.com/problems/valid-parentheses
+68,Text Justification,String,28.0%,Hard,100.0,https://leetcode.com/problems/text-justification
+79,Word Search,"Array, Backtracking",35.8%,Medium,63.1332,https://leetcode.com/problems/word-search
+146,LRU Cache,Design,33.5%,Medium,2.80589,https://leetcode.com/problems/lru-cache
+207,Course Schedule,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",43.3%,Medium,0.814472,https://leetcode.com/problems/course-schedule
+210,Course Schedule II,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",41.0%,Medium,12.7243,https://leetcode.com/problems/course-schedule-ii
+287,Find the Duplicate Number,"Array, Two Pointers, Binary Search",55.9%,Medium,0.798631,https://leetcode.com/problems/find-the-duplicate-number
+409,Longest Palindrome,Hash Table,51.8%,Easy,11.1606,https://leetcode.com/problems/longest-palindrome
+729,My Calendar I,Array,52.0%,Medium,18.7629,https://leetcode.com/problems/my-calendar-i
+759,Employee Free Time,"Heap, Greedy",66.5%,Hard,5.84195,https://leetcode.com/problems/employee-free-time
+811,Subdomain Visit Count,Hash Table,70.1%,Easy,55.6298,https://leetcode.com/problems/subdomain-visit-count
+986,Interval List Intersections,Two Pointers,67.5%,Medium,1.88934,https://leetcode.com/problems/interval-list-intersections

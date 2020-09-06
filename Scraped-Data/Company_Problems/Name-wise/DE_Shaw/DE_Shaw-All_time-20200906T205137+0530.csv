@@ -1,0 +1,4 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1122,Relative Sort Array,"Array, Sort",67.6%,Easy,0,https://leetcode.com/problems/relative-sort-array
+1262,Greatest Sum Divisible by Three,Dynamic Programming,47.5%,Medium,0,https://leetcode.com/problems/greatest-sum-divisible-by-three
+1358,Number of Substrings Containing All Three Characters,String,58.5%,Medium,100,https://leetcode.com/problems/number-of-substrings-containing-all-three-characters

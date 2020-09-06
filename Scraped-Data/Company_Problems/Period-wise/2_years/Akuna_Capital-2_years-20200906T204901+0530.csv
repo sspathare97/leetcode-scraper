@@ -1,0 +1,17 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+15,3Sum,"Array, Two Pointers",27.0%,Medium,1.03618,https://leetcode.com/problems/3sum
+39,Combination Sum,"Array, Backtracking",56.5%,Medium,1.21137,https://leetcode.com/problems/combination-sum
+48,Rotate Image,Array,57.3%,Medium,5.96041,https://leetcode.com/problems/rotate-image
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",50.6%,Easy,0.427673,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+152,Maximum Product Subarray,"Array, Dynamic Programming",31.8%,Medium,1.08207,https://leetcode.com/problems/maximum-product-subarray
+324,Wiggle Sort II,Sort,30.0%,Medium,39.5874,https://leetcode.com/problems/wiggle-sort-ii
+443,String Compression,String,41.5%,Easy,2.85686,https://leetcode.com/problems/string-compression
+713,Subarray Product Less Than K,"Array, Two Pointers",39.2%,Medium,100.0,https://leetcode.com/problems/subarray-product-less-than-k
+995,Minimum Number of K Consecutive Bit Flips,"Greedy, Sliding Window",47.1%,Hard,44.7509,https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips
+1012,Numbers With Repeated Digits,"Math, Dynamic Programming",37.5%,Hard,52.2932,https://leetcode.com/problems/numbers-with-repeated-digits
+1048,Longest String Chain,"Hash Table, Dynamic Programming",54.8%,Medium,4.04057,https://leetcode.com/problems/longest-string-chain
+1177,Can Make Palindrome from Substring,"Array, String",34.9%,Medium,42.3452,https://leetcode.com/problems/can-make-palindrome-from-substring
+1223,Dice Roll Simulation,Dynamic Programming,46.0%,Medium,80.6112,https://leetcode.com/problems/dice-roll-simulation
+1319,Number of Operations to Make Network Connected,"Depth-first Search, Breadth-first Search, Union Find",53.7%,Medium,9.41428,https://leetcode.com/problems/number-of-operations-to-make-network-connected
+1370,Increasing Decreasing String,"String, Sort",75.5%,Easy,28.803,https://leetcode.com/problems/increasing-decreasing-string
+1411,Number of Ways to Paint N × 3 Grid,Dynamic Programming,61.1%,Hard,62.4135,https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid

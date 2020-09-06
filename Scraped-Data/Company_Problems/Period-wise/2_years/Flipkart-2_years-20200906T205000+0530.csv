@@ -1,0 +1,12 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+2,Add Two Numbers,"Linked List, Math",34.1%,Medium,0.384233,https://leetcode.com/problems/add-two-numbers
+10,Regular Expression Matching,"String, Dynamic Programming, Backtracking",26.9%,Hard,1.64353,https://leetcode.com/problems/regular-expression-matching
+42,Trapping Rain Water,"Array, Two Pointers, Stack",49.2%,Hard,3.39968,https://leetcode.com/problems/trapping-rain-water
+84,Largest Rectangle in Histogram,"Array, Stack",35.5%,Hard,3.66133,https://leetcode.com/problems/largest-rectangle-in-histogram
+123,Best Time to Buy and Sell Stock III,"Array, Dynamic Programming",38.6%,Hard,2.41727,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii
+155,Min Stack,"Stack, Design",44.8%,Easy,1.0622,https://leetcode.com/problems/min-stack
+269,Alien Dictionary,"Graph, Topological Sort",33.3%,Hard,6.87916,https://leetcode.com/problems/alien-dictionary
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",47.7%,Medium,2.26584,https://leetcode.com/problems/insert-delete-getrandom-o1
+741,Cherry Pickup,Dynamic Programming,34.0%,Hard,53.4396,https://leetcode.com/problems/cherry-pickup
+871,Minimum Number of Refueling Stops,"Dynamic Programming, Heap",31.4%,Hard,100.0,https://leetcode.com/problems/minimum-number-of-refueling-stops
+994,Rotting Oranges,Breadth-first Search,49.3%,Medium,1.03389,https://leetcode.com/problems/rotting-oranges

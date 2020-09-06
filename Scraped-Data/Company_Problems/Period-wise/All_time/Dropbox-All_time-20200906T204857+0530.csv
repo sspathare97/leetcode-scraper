@@ -1,0 +1,25 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,0.249625,https://leetcode.com/problems/two-sum
+4,Median of Two Sorted Arrays,"Array, Binary Search, Divide and Conquer",29.8%,Hard,0.221484,https://leetcode.com/problems/median-of-two-sorted-arrays
+17,Letter Combinations of a Phone Number,"String, Backtracking",47.1%,Medium,13.2002,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+28,Implement strStr(),"Two Pointers, String",34.6%,Easy,0.136944,https://leetcode.com/problems/implement-strstr
+64,Minimum Path Sum,"Array, Dynamic Programming",54.8%,Medium,0.219711,https://leetcode.com/problems/minimum-path-sum
+140,Word Break II,"Dynamic Programming, Backtracking",32.9%,Hard,4.75301,https://leetcode.com/problems/word-break-ii
+146,LRU Cache,Design,33.5%,Medium,5.07604,https://leetcode.com/problems/lru-cache
+239,Sliding Window Maximum,"Heap, Sliding Window",43.4%,Hard,0.962251,https://leetcode.com/problems/sliding-window-maximum
+289,Game of Life,Array,54.9%,Medium,86.4281,https://leetcode.com/problems/game-of-life
+290,Word Pattern,Hash Table,37.1%,Easy,5.70536,https://leetcode.com/problems/word-pattern
+291,Word Pattern II,Backtracking,43.5%,Hard,48.3565,https://leetcode.com/problems/word-pattern-ii
+362,Design Hit Counter,Design,63.9%,Medium,45.6133,https://leetcode.com/problems/design-hit-counter
+379,Design Phone Directory,"Linked List, Design",46.9%,Medium,58.112,https://leetcode.com/problems/design-phone-directory
+547,Friend Circles,"Depth-first Search, Union Find",58.9%,Medium,1.85177,https://leetcode.com/problems/friend-circles
+609,Find Duplicate File in System,"Hash Table, String",59.8%,Medium,100.0,https://leetcode.com/problems/find-duplicate-file-in-system
+642,Design Search Autocomplete System,"Design, Trie",45.0%,Hard,14.378,https://leetcode.com/problems/design-search-autocomplete-system
+924,Minimize Malware Spread,"Depth-first Search, Union Find",41.9%,Hard,70.4407,https://leetcode.com/problems/minimize-malware-spread
+928,Minimize Malware Spread II,"Depth-first Search, Union Find, Graph",40.7%,Hard,29.6258,https://leetcode.com/problems/minimize-malware-spread-ii
+1001,Grid Illumination,Hash Table,36.0%,Hard,20.6895,https://leetcode.com/problems/grid-illumination
+1010,Pairs of Songs With Total Durations Divisible by 60,Array,47.3%,Easy,1.29107,https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60
+1178,Number of Valid Words for Each Puzzle,"Hash Table, Bit Manipulation",38.0%,Hard,18.0277,https://leetcode.com/problems/number-of-valid-words-for-each-puzzle
+1236,Web Crawler,"Depth-first Search, Breadth-first Search",64.3%,Medium,4.79826,https://leetcode.com/problems/web-crawler
+1242,Web Crawler Multithreaded,"Depth-first Search, Breadth-first Search",45.5%,Medium,23.4503,https://leetcode.com/problems/web-crawler-multithreaded
+1250,Check If It Is a Good Array,Math,55.9%,Hard,0.0,https://leetcode.com/problems/check-if-it-is-a-good-array

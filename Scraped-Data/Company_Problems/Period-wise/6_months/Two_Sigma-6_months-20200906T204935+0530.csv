@@ -1,0 +1,3 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+547,Friend Circles,"Depth-first Search, Union Find",58.9%,Medium,50,https://leetcode.com/problems/friend-circles
+1048,Longest String Chain,"Hash Table, Dynamic Programming",54.8%,Medium,100,https://leetcode.com/problems/longest-string-chain

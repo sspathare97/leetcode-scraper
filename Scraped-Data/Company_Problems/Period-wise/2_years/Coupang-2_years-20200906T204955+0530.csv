@@ -1,0 +1,8 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",30.5%,Medium,5.51365,https://leetcode.com/problems/longest-substring-without-repeating-characters
+20,Valid Parentheses,"String, Stack",39.1%,Easy,3.44129,https://leetcode.com/problems/valid-parentheses
+56,Merge Intervals,"Array, Sort",39.5%,Medium,5.47836,https://leetcode.com/problems/merge-intervals
+79,Word Search,"Array, Backtracking",35.8%,Medium,20.2759,https://leetcode.com/problems/word-search
+114,Flatten Binary Tree to Linked List,"Tree, Depth-first Search",49.7%,Medium,57.3393,https://leetcode.com/problems/flatten-binary-tree-to-linked-list
+759,Employee Free Time,"Heap, Greedy",66.5%,Hard,62.9366,https://leetcode.com/problems/employee-free-time
+1296,Divide Array in Sets of K Consecutive Numbers,"Array, Greedy",54.3%,Medium,100.0,https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers

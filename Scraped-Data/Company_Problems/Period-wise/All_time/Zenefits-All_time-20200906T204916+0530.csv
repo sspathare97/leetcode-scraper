@@ -1,0 +1,22 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+4,Median of Two Sorted Arrays,"Array, Binary Search, Divide and Conquer",29.8%,Hard,4.52152,https://leetcode.com/problems/median-of-two-sorted-arrays
+20,Valid Parentheses,"String, Stack",39.1%,Easy,4.71984,https://leetcode.com/problems/valid-parentheses
+22,Generate Parentheses,"String, Backtracking",63.1%,Medium,0.0,https://leetcode.com/problems/generate-parentheses
+42,Trapping Rain Water,"Array, Two Pointers, Stack",49.2%,Hard,78.9552,https://leetcode.com/problems/trapping-rain-water
+52,N-Queens II,Backtracking,58.2%,Hard,100.0,https://leetcode.com/problems/n-queens-ii
+109,Convert Sorted List to Binary Search Tree,"Linked List, Depth-first Search",48.1%,Medium,19.4068,https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree
+125,Valid Palindrome,"Two Pointers, String",36.9%,Easy,0.0,https://leetcode.com/problems/valid-palindrome
+146,LRU Cache,Design,33.5%,Medium,10.3929,https://leetcode.com/problems/lru-cache
+155,Min Stack,"Stack, Design",44.8%,Easy,0.0,https://leetcode.com/problems/min-stack
+168,Excel Sheet Column Title,Math,31.2%,Easy,0.0,https://leetcode.com/problems/excel-sheet-column-title
+169,Majority Element,"Array, Divide and Conquer, Bit Manipulation",58.9%,Easy,0.0,https://leetcode.com/problems/majority-element
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,3.52815,https://leetcode.com/problems/number-of-islands
+206,Reverse Linked List,Linked List,63.0%,Easy,10.9861,https://leetcode.com/problems/reverse-linked-list
+207,Course Schedule,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",43.3%,Medium,0.0,https://leetcode.com/problems/course-schedule
+210,Course Schedule II,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",41.0%,Medium,15.766,https://leetcode.com/problems/course-schedule-ii
+229,Majority Element II,Array,35.8%,Medium,0.0,https://leetcode.com/problems/majority-element-ii
+239,Sliding Window Maximum,"Heap, Sliding Window",43.4%,Hard,0.0,https://leetcode.com/problems/sliding-window-maximum
+251,Flatten 2D Vector,Design,45.8%,Medium,40.6317,https://leetcode.com/problems/flatten-2d-vector
+255,Verify Preorder Sequence in Binary Search Tree,"Stack, Tree",45.7%,Medium,57.9104,https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree
+261,Graph Valid Tree,"Depth-first Search, Breadth-first Search, Union Find, Graph",42.3%,Medium,0.0,https://leetcode.com/problems/graph-valid-tree
+317,Shortest Distance from All Buildings,Breadth-first Search,41.7%,Hard,22.0024,https://leetcode.com/problems/shortest-distance-from-all-buildings

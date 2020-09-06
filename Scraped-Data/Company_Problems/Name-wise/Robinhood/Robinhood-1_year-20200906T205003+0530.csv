@@ -1,0 +1,8 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+54,Spiral Matrix,Array,34.3%,Medium,6.02248,https://leetcode.com/problems/spiral-matrix
+68,Text Justification,String,28.0%,Hard,14.2129,https://leetcode.com/problems/text-justification
+224,Basic Calculator,"Math, Stack",37.1%,Hard,28.6418,https://leetcode.com/problems/basic-calculator
+418,Sentence Screen Fitting,Dynamic Programming,32.7%,Medium,100.0,https://leetcode.com/problems/sentence-screen-fitting
+498,Diagonal Traverse,,48.4%,Medium,25.1657,https://leetcode.com/problems/diagonal-traverse
+755,Pour Water,Array,43.5%,Medium,64.3209,https://leetcode.com/problems/pour-water
+1329,Sort the Matrix Diagonally,"Array, Sort",78.5%,Medium,17.3603,https://leetcode.com/problems/sort-the-matrix-diagonally

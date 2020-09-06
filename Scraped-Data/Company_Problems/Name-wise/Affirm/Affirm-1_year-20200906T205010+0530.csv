@@ -1,0 +1,7 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+42,Trapping Rain Water,"Array, Two Pointers, Stack",49.2%,Hard,6.86052,https://leetcode.com/problems/trapping-rain-water
+49,Group Anagrams,"Hash Table, String",57.3%,Medium,16.0209,https://leetcode.com/problems/group-anagrams
+322,Coin Change,Dynamic Programming,35.8%,Medium,6.64872,https://leetcode.com/problems/coin-change
+362,Design Hit Counter,Design,63.9%,Medium,43.8008,https://leetcode.com/problems/design-hit-counter
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",47.7%,Medium,71.9004,https://leetcode.com/problems/insert-delete-getrandom-o1
+381,Insert Delete GetRandom O(1) - Duplicates allowed,"Array, Hash Table, Design",34.2%,Hard,100.0,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed

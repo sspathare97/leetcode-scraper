@@ -1,0 +1,20 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+4,Median of Two Sorted Arrays,"Array, Binary Search, Divide and Conquer",29.8%,Hard,1.57252,https://leetcode.com/problems/median-of-two-sorted-arrays
+10,Regular Expression Matching,"String, Dynamic Programming, Backtracking",26.9%,Hard,3.14698,https://leetcode.com/problems/regular-expression-matching
+31,Next Permutation,Array,32.7%,Medium,5.73313,https://leetcode.com/problems/next-permutation
+43,Multiply Strings,"Math, String",34.1%,Medium,47.782,https://leetcode.com/problems/multiply-strings
+48,Rotate Image,Array,57.3%,Medium,18.3983,https://leetcode.com/problems/rotate-image
+120,Triangle,"Array, Dynamic Programming",44.4%,Medium,6.12421,https://leetcode.com/problems/triangle
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,19.2794,https://leetcode.com/problems/number-of-islands
+212,Word Search II,"Backtracking, Trie",35.1%,Hard,4.0967,https://leetcode.com/problems/word-search-ii
+218,The Skyline Problem,"Divide and Conquer, Heap, Binary Indexed Tree, Segment Tree, Line Sweep",34.7%,Hard,26.3032,https://leetcode.com/problems/the-skyline-problem
+227,Basic Calculator II,String,37.1%,Medium,85.4107,https://leetcode.com/problems/basic-calculator-ii
+238,Product of Array Except Self,Array,60.3%,Medium,1.67063,https://leetcode.com/problems/product-of-array-except-self
+301,Remove Invalid Parentheses,"Depth-first Search, Breadth-first Search",43.5%,Hard,7.14102,https://leetcode.com/problems/remove-invalid-parentheses
+304,Range Sum Query 2D - Immutable,Dynamic Programming,38.9%,Medium,100.0,https://leetcode.com/problems/range-sum-query-2d-immutable
+556,Next Greater Element III,String,31.8%,Medium,19.349,https://leetcode.com/problems/next-greater-element-iii
+660,Remove 9,Math,53.5%,Hard,0.0,https://leetcode.com/problems/remove-9
+698,Partition to K Equal Sum Subsets,"Dynamic Programming, Recursion",45.0%,Medium,8.7385,https://leetcode.com/problems/partition-to-k-equal-sum-subsets
+721,Accounts Merge,"Depth-first Search, Union Find",49.2%,Medium,63.9319,https://leetcode.com/problems/accounts-merge
+727,Minimum Window Subsequence,"Dynamic Programming, Sliding Window",41.9%,Hard,61.6352,https://leetcode.com/problems/minimum-window-subsequence
+772,Basic Calculator III,"String, Stack",41.5%,Hard,0.0,https://leetcode.com/problems/basic-calculator-iii

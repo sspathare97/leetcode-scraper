@@ -1,0 +1,8 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+14,Longest Common Prefix,String,35.5%,Easy,0.902906,https://leetcode.com/problems/longest-common-prefix
+68,Text Justification,String,28.0%,Hard,18.7478,https://leetcode.com/problems/text-justification
+146,LRU Cache,Design,33.5%,Medium,72.2263,https://leetcode.com/problems/lru-cache
+332,Reconstruct Itinerary,"Depth-first Search, Graph",36.9%,Medium,46.5215,https://leetcode.com/problems/reconstruct-itinerary
+560,Subarray Sum Equals K,"Array, Hash Table",43.8%,Medium,4.32396,https://leetcode.com/problems/subarray-sum-equals-k
+935,Knight Dialer,Dynamic Programming,45.3%,Medium,66.0189,https://leetcode.com/problems/knight-dialer
+974,Subarray Sums Divisible by K,"Array, Hash Table",49.1%,Medium,100.0,https://leetcode.com/problems/subarray-sums-divisible-by-k

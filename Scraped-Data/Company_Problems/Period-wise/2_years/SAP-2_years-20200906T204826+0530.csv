@@ -1,0 +1,36 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,3.39784,https://leetcode.com/problems/two-sum
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",30.5%,Medium,0.179317,https://leetcode.com/problems/longest-substring-without-repeating-characters
+5,Longest Palindromic Substring,"String, Dynamic Programming",29.6%,Medium,1.05165,https://leetcode.com/problems/longest-palindromic-substring
+8,String to Integer (atoi),"Math, String",15.4%,Medium,1.85759,https://leetcode.com/problems/string-to-integer-atoi
+20,Valid Parentheses,"String, Stack",39.1%,Easy,0.565493,https://leetcode.com/problems/valid-parentheses
+22,Generate Parentheses,"String, Backtracking",63.1%,Medium,0.527393,https://leetcode.com/problems/generate-parentheses
+23,Merge k Sorted Lists,"Linked List, Divide and Conquer, Heap",40.6%,Hard,1.13757,https://leetcode.com/problems/merge-k-sorted-lists
+24,Swap Nodes in Pairs,Linked List,50.8%,Medium,0.770172,https://leetcode.com/problems/swap-nodes-in-pairs
+41,First Missing Positive,Array,32.2%,Hard,0.827574,https://leetcode.com/problems/first-missing-positive
+46,Permutations,Backtracking,64.0%,Medium,0.502025,https://leetcode.com/problems/permutations
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",46.7%,Easy,1.52735,https://leetcode.com/problems/maximum-subarray
+56,Merge Intervals,"Array, Sort",39.5%,Medium,1.59535,https://leetcode.com/problems/merge-intervals
+94,Binary Tree Inorder Traversal,"Hash Table, Stack, Tree",63.8%,Medium,0.807942,https://leetcode.com/problems/binary-tree-inorder-traversal
+98,Validate Binary Search Tree,"Tree, Depth-first Search",27.9%,Medium,0.353944,https://leetcode.com/problems/validate-binary-search-tree
+101,Symmetric Tree,"Tree, Depth-first Search, Breadth-first Search",47.1%,Easy,0.424814,https://leetcode.com/problems/symmetric-tree
+102,Binary Tree Level Order Traversal,"Tree, Breadth-first Search",54.9%,Medium,0.445285,https://leetcode.com/problems/binary-tree-level-order-traversal
+104,Maximum Depth of Binary Tree,"Tree, Depth-first Search",66.3%,Easy,0.337557,https://leetcode.com/problems/maximum-depth-of-binary-tree
+116,Populating Next Right Pointers in Each Node,"Tree, Depth-first Search",45.7%,Medium,0.952888,https://leetcode.com/problems/populating-next-right-pointers-in-each-node
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",50.6%,Easy,0.564091,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+146,LRU Cache,Design,33.5%,Medium,2.21019,https://leetcode.com/problems/lru-cache
+160,Intersection of Two Linked Lists,Linked List,41.1%,Easy,0.574862,https://leetcode.com/problems/intersection-of-two-linked-lists
+199,Binary Tree Right Side View,"Tree, Depth-first Search, Breadth-first Search",54.4%,Medium,0.703992,https://leetcode.com/problems/binary-tree-right-side-view
+209,Minimum Size Subarray Sum,"Array, Two Pointers, Binary Search",38.4%,Medium,1.06103,https://leetcode.com/problems/minimum-size-subarray-sum
+238,Product of Array Except Self,Array,60.3%,Medium,0.454897,https://leetcode.com/problems/product-of-array-except-self
+240,Search a 2D Matrix II,"Binary Search, Divide and Conquer",43.3%,Medium,0.88385,https://leetcode.com/problems/search-a-2d-matrix-ii
+283,Move Zeroes,"Array, Two Pointers",58.0%,Easy,0.761631,https://leetcode.com/problems/move-zeroes
+322,Coin Change,Dynamic Programming,35.8%,Medium,0.431503,https://leetcode.com/problems/coin-change
+509,Fibonacci Number,Array,67.2%,Easy,1.93489,https://leetcode.com/problems/fibonacci-number
+738,Monotone Increasing Digits,Greedy,44.7%,Medium,60.9908,https://leetcode.com/problems/monotone-increasing-digits
+917,Reverse Only Letters,String,58.0%,Easy,3.65523,https://leetcode.com/problems/reverse-only-letters
+1048,Longest String Chain,"Hash Table, Dynamic Programming",54.8%,Medium,2.3713,https://leetcode.com/problems/longest-string-chain
+1283,Find the Smallest Divisor Given a Threshold,Binary Search,48.8%,Medium,21.9815,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold
+1312,Minimum Insertion Steps to Make a String Palindrome,Dynamic Programming,58.3%,Hard,12.2311,https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome
+1341,Movie Rating,,57.2%,Medium,15.0905,https://leetcode.com/problems/movie-rating
+1349,Maximum Students Taking Exam,Dynamic Programming,42.7%,Hard,100.0,https://leetcode.com/problems/maximum-students-taking-exam

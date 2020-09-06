@@ -1,0 +1,8 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+31,Next Permutation,Array,32.7%,Medium,19.2112,https://leetcode.com/problems/next-permutation
+56,Merge Intervals,"Array, Sort",39.5%,Medium,1.28439,https://leetcode.com/problems/merge-intervals
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,0.476799,https://leetcode.com/problems/number-of-islands
+558,Logical OR of Two Binary Grids Represented as Quad-Trees,,44.7%,Medium,100.0,https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees
+850,Rectangle Area II,"Segment Tree, Line Sweep",47.7%,Hard,57.4897,https://leetcode.com/problems/rectangle-area-ii
+981,Time Based Key-Value Store,"Hash Table, Binary Search",53.1%,Medium,67.2582,https://leetcode.com/problems/time-based-key-value-store
+990,Satisfiability of Equality Equations,"Union Find, Graph",45.3%,Medium,24.7479,https://leetcode.com/problems/satisfiability-of-equality-equations

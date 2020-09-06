@@ -1,0 +1,29 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,58.0174,https://leetcode.com/problems/two-sum
+2,Add Two Numbers,"Linked List, Math",34.1%,Medium,6.56566,https://leetcode.com/problems/add-two-numbers
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",30.5%,Medium,10.4372,https://leetcode.com/problems/longest-substring-without-repeating-characters
+5,Longest Palindromic Substring,"String, Dynamic Programming",29.6%,Medium,3.84401,https://leetcode.com/problems/longest-palindromic-substring
+10,Regular Expression Matching,"String, Dynamic Programming, Backtracking",26.9%,Hard,12.4931,https://leetcode.com/problems/regular-expression-matching
+14,Longest Common Prefix,String,35.5%,Easy,5.7837,https://leetcode.com/problems/longest-common-prefix
+15,3Sum,"Array, Two Pointers",27.0%,Medium,15.7348,https://leetcode.com/problems/3sum
+22,Generate Parentheses,"String, Backtracking",63.1%,Medium,7.68912,https://leetcode.com/problems/generate-parentheses
+33,Search in Rotated Sorted Array,"Array, Binary Search",34.7%,Medium,12.9782,https://leetcode.com/problems/search-in-rotated-sorted-array
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",46.7%,Easy,22.2681,https://leetcode.com/problems/maximum-subarray
+56,Merge Intervals,"Array, Sort",39.5%,Medium,5.83992,https://leetcode.com/problems/merge-intervals
+62,Unique Paths,"Array, Dynamic Programming",54.4%,Medium,8.49711,https://leetcode.com/problems/unique-paths
+94,Binary Tree Inorder Traversal,"Hash Table, Stack, Tree",63.8%,Medium,5.24373,https://leetcode.com/problems/binary-tree-inorder-traversal
+101,Symmetric Tree,"Tree, Depth-first Search, Breadth-first Search",47.1%,Easy,6.19357,https://leetcode.com/problems/symmetric-tree
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",50.6%,Easy,3.6593,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+146,LRU Cache,Design,33.5%,Medium,71.7958,https://leetcode.com/problems/lru-cache
+152,Maximum Product Subarray,"Array, Dynamic Programming",31.8%,Medium,20.7726,https://leetcode.com/problems/maximum-product-subarray
+160,Intersection of Two Linked Lists,Linked List,41.1%,Easy,8.3812,https://leetcode.com/problems/intersection-of-two-linked-lists
+173,Binary Search Tree Iterator,"Stack, Tree, Design",57.1%,Medium,15.9624,https://leetcode.com/problems/binary-search-tree-iterator
+206,Reverse Linked List,Linked List,63.0%,Easy,8.56943,https://leetcode.com/problems/reverse-linked-list
+215,Kth Largest Element in an Array,"Divide and Conquer, Heap",55.8%,Medium,17.0724,https://leetcode.com/problems/kth-largest-element-in-an-array
+239,Sliding Window Maximum,"Heap, Sliding Window",43.4%,Hard,12.2868,https://leetcode.com/problems/sliding-window-maximum
+328,Odd Even Linked List,Linked List,56.0%,Medium,13.3375,https://leetcode.com/problems/odd-even-linked-list
+394,Decode String,"Stack, Depth-first Search",50.4%,Medium,12.222,https://leetcode.com/problems/decode-string
+446,Arithmetic Slices II - Subsequence,Dynamic Programming,32.8%,Hard,100.0,https://leetcode.com/problems/arithmetic-slices-ii-subsequence
+460,LFU Cache,Design,34.5%,Hard,57.525,https://leetcode.com/problems/lfu-cache
+678,Valid Parenthesis String,String,31.1%,Medium,50.4723,https://leetcode.com/problems/valid-parenthesis-string
+992,Subarrays with K Different Integers,"Hash Table, Two Pointers, Sliding Window",49.0%,Hard,67.369,https://leetcode.com/problems/subarrays-with-k-different-integers

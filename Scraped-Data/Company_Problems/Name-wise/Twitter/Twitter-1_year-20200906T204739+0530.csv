@@ -1,0 +1,29 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+10,Regular Expression Matching,"String, Dynamic Programming, Backtracking",26.9%,Hard,0.559048,https://leetcode.com/problems/regular-expression-matching
+23,Merge k Sorted Lists,"Linked List, Divide and Conquer, Heap",40.6%,Hard,0.330601,https://leetcode.com/problems/merge-k-sorted-lists
+56,Merge Intervals,"Array, Sort",39.5%,Medium,0.261329,https://leetcode.com/problems/merge-intervals
+57,Insert Interval,"Array, Sort",33.7%,Hard,21.7479,https://leetcode.com/problems/insert-interval
+105,Construct Binary Tree from Preorder and Inorder Traversal,"Array, Tree, Depth-first Search",49.3%,Medium,0.507529,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal
+139,Word Break,Dynamic Programming,40.3%,Medium,0.360089,https://leetcode.com/problems/word-break
+210,Course Schedule II,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",41.0%,Medium,0.551823,https://leetcode.com/problems/course-schedule-ii
+239,Sliding Window Maximum,"Heap, Sliding Window",43.4%,Hard,1.23244,https://leetcode.com/problems/sliding-window-maximum
+256,Paint House,Dynamic Programming,52.2%,Easy,100.0,https://leetcode.com/problems/paint-house
+269,Alien Dictionary,"Graph, Topological Sort",33.3%,Hard,1.04744,https://leetcode.com/problems/alien-dictionary
+307,Range Sum Query - Mutable,"Binary Indexed Tree, Segment Tree",35.0%,Medium,4.23844,https://leetcode.com/problems/range-sum-query-mutable
+341,Flatten Nested List Iterator,"Stack, Design",53.1%,Medium,3.47976,https://leetcode.com/problems/flatten-nested-list-iterator
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",47.7%,Medium,0.770727,https://leetcode.com/problems/insert-delete-getrandom-o1
+496,Next Greater Element I,Stack,64.2%,Easy,1.89078,https://leetcode.com/problems/next-greater-element-i
+528,Random Pick with Weight,"Binary Search, Random",44.1%,Medium,2.87054,https://leetcode.com/problems/random-pick-with-weight
+532,K-diff Pairs in an Array,"Array, Two Pointers",31.7%,Easy,11.5658,https://leetcode.com/problems/k-diff-pairs-in-an-array
+540,Single Element in a Sorted Array,,57.9%,Medium,1.78615,https://leetcode.com/problems/single-element-in-a-sorted-array
+547,Friend Circles,"Depth-first Search, Union Find",58.9%,Medium,9.29952,https://leetcode.com/problems/friend-circles
+635,Design Log Storage System,"String, Design",58.7%,Medium,56.0928,https://leetcode.com/problems/design-log-storage-system
+647,Palindromic Substrings,"String, Dynamic Programming",60.9%,Medium,2.97208,https://leetcode.com/problems/palindromic-substrings
+706,Design HashMap,"Hash Table, Design",61.6%,Easy,2.85149,https://leetcode.com/problems/design-hashmap
+716,Max Stack,Design,42.7%,Easy,3.49017,https://leetcode.com/problems/max-stack
+767,Reorganize String,"String, Heap, Greedy, Sort",48.9%,Medium,0.85457,https://leetcode.com/problems/reorganize-string
+780,Reaching Points,Math,29.6%,Hard,82.1661,https://leetcode.com/problems/reaching-points
+945,Minimum Increment to Make Array Unique,Array,46.4%,Medium,13.3892,https://leetcode.com/problems/minimum-increment-to-make-array-unique
+981,Time Based Key-Value Store,"Hash Table, Binary Search",53.1%,Medium,1.78879,https://leetcode.com/problems/time-based-key-value-store
+1326,Minimum Number of Taps to Open to Water a Garden,"Dynamic Programming, Greedy",43.9%,Hard,17.3351,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden
+1348,Tweet Counts Per Frequency,Design,29.3%,Medium,30.0195,https://leetcode.com/problems/tweet-counts-per-frequency

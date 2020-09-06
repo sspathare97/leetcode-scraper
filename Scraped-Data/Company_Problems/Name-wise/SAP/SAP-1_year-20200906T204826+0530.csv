@@ -1,0 +1,14 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,0.381664,https://leetcode.com/problems/two-sum
+5,Longest Palindromic Substring,"String, Dynamic Programming",29.6%,Medium,0.263659,https://leetcode.com/problems/longest-palindromic-substring
+8,String to Integer (atoi),"Math, String",15.4%,Medium,1.04795,https://leetcode.com/problems/string-to-integer-atoi
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",50.6%,Easy,0.25099,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+209,Minimum Size Subarray Sum,"Array, Two Pointers, Binary Search",38.4%,Medium,1.06103,https://leetcode.com/problems/minimum-size-subarray-sum
+322,Coin Change,Dynamic Programming,35.8%,Medium,0.431503,https://leetcode.com/problems/coin-change
+509,Fibonacci Number,Array,67.2%,Easy,1.93489,https://leetcode.com/problems/fibonacci-number
+738,Monotone Increasing Digits,Greedy,44.7%,Medium,60.9908,https://leetcode.com/problems/monotone-increasing-digits
+1048,Longest String Chain,"Hash Table, Dynamic Programming",54.8%,Medium,2.3713,https://leetcode.com/problems/longest-string-chain
+1283,Find the Smallest Divisor Given a Threshold,Binary Search,48.8%,Medium,21.9815,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold
+1312,Minimum Insertion Steps to Make a String Palindrome,Dynamic Programming,58.3%,Hard,12.2311,https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome
+1341,Movie Rating,,57.2%,Medium,15.0905,https://leetcode.com/problems/movie-rating
+1349,Maximum Students Taking Exam,Dynamic Programming,42.7%,Hard,100.0,https://leetcode.com/problems/maximum-students-taking-exam

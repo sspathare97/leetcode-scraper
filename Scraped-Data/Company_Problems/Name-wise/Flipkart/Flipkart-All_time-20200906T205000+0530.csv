@@ -1,0 +1,15 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+2,Add Two Numbers,"Linked List, Math",34.1%,Medium,13.7852,https://leetcode.com/problems/add-two-numbers
+10,Regular Expression Matching,"String, Dynamic Programming, Backtracking",26.9%,Hard,14.7642,https://leetcode.com/problems/regular-expression-matching
+42,Trapping Rain Water,"Array, Two Pointers, Stack",49.2%,Hard,55.9709,https://leetcode.com/problems/trapping-rain-water
+84,Largest Rectangle in Histogram,"Array, Stack",35.5%,Hard,8.29823,https://leetcode.com/problems/largest-rectangle-in-histogram
+123,Best Time to Buy and Sell Stock III,"Array, Dynamic Programming",38.6%,Hard,5.47863,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii
+155,Min Stack,"Stack, Design",44.8%,Easy,2.40742,https://leetcode.com/problems/min-stack
+269,Alien Dictionary,"Graph, Topological Sort",33.3%,Hard,27.4459,https://leetcode.com/problems/alien-dictionary
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",47.7%,Medium,31.4031,https://leetcode.com/problems/insert-delete-getrandom-o1
+741,Cherry Pickup,Dynamic Programming,34.0%,Hard,100.0,https://leetcode.com/problems/cherry-pickup
+871,Minimum Number of Refueling Stops,"Dynamic Programming, Heap",31.4%,Hard,80.5387,https://leetcode.com/problems/minimum-number-of-refueling-stops
+967,Numbers With Same Consecutive Differences,Dynamic Programming,43.6%,Medium,0.0,https://leetcode.com/problems/numbers-with-same-consecutive-differences
+982,Triples with Bitwise AND Equal To Zero,Dynamic Programming,55.5%,Hard,0.0,https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero
+994,Rotting Oranges,Breadth-first Search,49.3%,Medium,2.34327,https://leetcode.com/problems/rotting-oranges
+1423,Maximum Points You Can Obtain from Cards,"Array, Dynamic Programming, Sliding Window",43.5%,Medium,0.0,https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards

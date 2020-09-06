@@ -1,0 +1,56 @@
+ChapterSerial,Chapter,ProblemSerial,Problem,Id,Acceptance,Difficulty,Frequency,Link
+1,Arrays and Strings,1,Two Sum,1,45.7%,Easy,100.0,https://leetcode.com/problems/two-sum
+1,Arrays and Strings,2,Longest Substring Without Repeating Characters,3,30.5%,Medium,91.7317,https://leetcode.com/problems/longest-substring-without-repeating-characters
+1,Arrays and Strings,3,Container With Most Water,11,51.1%,Medium,79.0269,https://leetcode.com/problems/container-with-most-water
+1,Arrays and Strings,4,Integer to Roman,12,55.3%,Medium,57.7306,https://leetcode.com/problems/integer-to-roman
+1,Arrays and Strings,5,Roman to Integer,13,55.9%,Easy,63.4908,https://leetcode.com/problems/roman-to-integer
+1,Arrays and Strings,6,Longest Common Prefix,14,35.5%,Easy,58.4984,https://leetcode.com/problems/longest-common-prefix
+1,Arrays and Strings,7,3Sum,15,27.0%,Medium,91.8944,https://leetcode.com/problems/3sum
+1,Arrays and Strings,8,3Sum Closest,16,46.0%,Medium,47.4193,https://leetcode.com/problems/3sum-closest
+1,Arrays and Strings,9,4Sum,18,33.8%,Medium,58.2091,https://leetcode.com/problems/4sum
+1,Arrays and Strings,10,Substring with Concatenation of All Words,30,25.5%,Hard,26.6525,https://leetcode.com/problems/substring-with-concatenation-of-all-words
+1,Arrays and Strings,11,Spiral Matrix,54,34.3%,Medium,73.5962,https://leetcode.com/problems/spiral-matrix
+1,Arrays and Strings,12,Product of Array Except Self,238,60.3%,Medium,86.5206,https://leetcode.com/problems/product-of-array-except-self
+1,Arrays and Strings,13,Missing Number,268,51.9%,Easy,47.0576,https://leetcode.com/problems/missing-number
+1,Arrays and Strings,14,Find All Numbers Disappeared in an Array,448,56.0%,Easy,36.3208,https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array
+1,Arrays and Strings,15,Positions of Large Groups,830,49.7%,Easy,10.4636,https://leetcode.com/problems/positions-of-large-groups
+1,Arrays and Strings,16,Unique Email Addresses,929,67.3%,Easy,3.83649,https://leetcode.com/problems/unique-email-addresses
+2,Linked Lists,1,Add Two Numbers,2,34.1%,Medium,97.8625,https://leetcode.com/problems/add-two-numbers
+2,Linked Lists,2,Remove Nth Node From End of List,19,35.3%,Medium,46.9641,https://leetcode.com/problems/remove-nth-node-from-end-of-list
+2,Linked Lists,3,Merge Two Sorted Lists,21,53.9%,Easy,89.5942,https://leetcode.com/problems/merge-two-sorted-lists
+2,Linked Lists,4,Copy List with Random Pointer,138,37.0%,Medium,67.3527,https://leetcode.com/problems/copy-list-with-random-pointer
+2,Linked Lists,5,Linked List Cycle,141,41.4%,Easy,37.5698,https://leetcode.com/problems/linked-list-cycle
+2,Linked Lists,6,Reverse Linked List,206,63.0%,Easy,79.9546,https://leetcode.com/problems/reverse-linked-list
+3,Trees and Graphs,1,Validate Binary Search Tree,98,27.9%,Medium,55.1922,https://leetcode.com/problems/validate-binary-search-tree
+3,Trees and Graphs,2,Sum of Left Leaves,404,52.0%,Easy,1.88625,https://leetcode.com/problems/sum-of-left-leaves
+3,Trees and Graphs,3,Binary Tree Inorder Traversal,94,63.8%,Medium,37.0932,https://leetcode.com/problems/binary-tree-inorder-traversal
+3,Trees and Graphs,4,Binary Tree Zigzag Level Order Traversal,103,48.6%,Medium,54.8992,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal
+4,"Heaps, Queues, Stacks",1,Merge k Sorted Lists,23,40.6%,Hard,90.663,https://leetcode.com/problems/merge-k-sorted-lists
+4,"Heaps, Queues, Stacks",2,Simplify Path,71,32.8%,Medium,50.1995,https://leetcode.com/problems/simplify-path
+4,"Heaps, Queues, Stacks",3,Basic Calculator,224,37.1%,Hard,61.4785,https://leetcode.com/problems/basic-calculator
+4,"Heaps, Queues, Stacks",4,Remove K Digits,402,28.4%,Medium,42.2341,https://leetcode.com/problems/remove-k-digits
+5,Sorting and Searching,1,Median of Two Sorted Arrays,4,29.8%,Hard,92.6333,https://leetcode.com/problems/median-of-two-sorted-arrays
+5,Sorting and Searching,2,Search Insert Position,35,42.7%,Easy,19.0951,https://leetcode.com/problems/search-insert-position
+5,Sorting and Searching,3,Merge Intervals,56,39.5%,Medium,86.3523,https://leetcode.com/problems/merge-intervals
+6,Dynamic Programming,1,Longest Palindromic Substring,5,29.6%,Medium,93.7021,https://leetcode.com/problems/longest-palindromic-substring
+6,Dynamic Programming,2,Maximum Subarray,53,46.7%,Easy,93.8573,https://leetcode.com/problems/maximum-subarray
+6,Dynamic Programming,3,Best Time to Buy and Sell Stock,121,50.6%,Easy,84.3863,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+6,Dynamic Programming,4,Climbing Stairs,70,47.9%,Easy,57.54,https://leetcode.com/problems/climbing-stairs
+6,Dynamic Programming,5,Maximal Rectangle,85,38.0%,Hard,75.9636,https://leetcode.com/problems/maximal-rectangle
+6,Dynamic Programming,6,Maximum Product Subarray,152,31.8%,Medium,58.7899,https://leetcode.com/problems/maximum-product-subarray
+6,Dynamic Programming,7,Regular Expression Matching,10,26.9%,Hard,71.373,https://leetcode.com/problems/regular-expression-matching
+6,Dynamic Programming,8,Longest Increasing Subsequence,300,42.7%,Medium,59.5774,https://leetcode.com/problems/longest-increasing-subsequence
+6,Dynamic Programming,9,Perfect Squares,279,47.6%,Medium,49.6274,https://leetcode.com/problems/perfect-squares
+7,Design,1,Min Stack,155,44.8%,Easy,56.1068,https://leetcode.com/problems/min-stack
+7,Design,2,LRU Cache,146,33.5%,Medium,95.725,https://leetcode.com/problems/lru-cache
+8,Others,1,Reverse Integer,7,25.8%,Easy,74.1591,https://leetcode.com/problems/reverse-integer
+8,Others,2,Tenth Line,195,33.0%,Easy,14.4692,https://leetcode.com/problems/tenth-line
+8,Others,3,Add Digits,258,57.8%,Easy,18.1873,https://leetcode.com/problems/add-digits
+8,Others,4,Nth Digit,400,31.9%,Medium,30.8548,https://leetcode.com/problems/nth-digit
+8,Others,5,Encode and Decode TinyURL,535,80.0%,Medium,43.9119,https://leetcode.com/problems/encode-and-decode-tinyurl
+8,Others,6,Jewels and Stones,771,86.5%,Easy,21.9604,https://leetcode.com/problems/jewels-and-stones
+8,Others,7,Rectangle Overlap,836,48.4%,Easy,40.3318,https://leetcode.com/problems/rectangle-overlap
+9,SQL,1,Combine Two Tables,175,61.3%,Easy,52.8311,https://leetcode.com/problems/combine-two-tables
+9,SQL,2,Nth Highest Salary,177,31.6%,Medium,51.0239,https://leetcode.com/problems/nth-highest-salary
+9,SQL,3,Department Top Three Salaries,185,35.2%,Hard,32.0789,https://leetcode.com/problems/department-top-three-salaries
+9,SQL,4,Big Countries,595,77.5%,Easy,1.15609,https://leetcode.com/problems/big-countries

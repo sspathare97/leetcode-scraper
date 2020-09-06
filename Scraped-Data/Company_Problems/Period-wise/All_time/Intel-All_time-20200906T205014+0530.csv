@@ -1,0 +1,13 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,71.4179,https://leetcode.com/problems/two-sum
+2,Add Two Numbers,"Linked List, Math",34.1%,Medium,18.9219,https://leetcode.com/problems/add-two-numbers
+20,Valid Parentheses,"String, Stack",39.1%,Easy,2.69934,https://leetcode.com/problems/valid-parentheses
+21,Merge Two Sorted Lists,Linked List,53.9%,Easy,2.7345,https://leetcode.com/problems/merge-two-sorted-lists
+42,Trapping Rain Water,"Array, Two Pointers, Stack",49.2%,Hard,100.0,https://leetcode.com/problems/trapping-rain-water
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",46.7%,Easy,13.1478,https://leetcode.com/problems/maximum-subarray
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",50.6%,Easy,6.03146,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+204,Count Primes,"Hash Table, Math",31.6%,Easy,14.3228,https://leetcode.com/problems/count-primes
+206,Reverse Linked List,Linked List,63.0%,Easy,47.6912,https://leetcode.com/problems/reverse-linked-list
+234,Palindrome Linked List,"Linked List, Two Pointers",39.5%,Easy,3.20094,https://leetcode.com/problems/palindrome-linked-list
+238,Product of Array Except Self,Array,60.3%,Medium,19.1091,https://leetcode.com/problems/product-of-array-except-self
+543,Diameter of Binary Tree,Tree,48.6%,Easy,1.71525,https://leetcode.com/problems/diameter-of-binary-tree

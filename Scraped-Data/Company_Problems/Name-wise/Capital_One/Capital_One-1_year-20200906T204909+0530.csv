@@ -1,0 +1,18 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+2,Add Two Numbers,"Linked List, Math",34.1%,Medium,0.143033,https://leetcode.com/problems/add-two-numbers
+21,Merge Two Sorted Lists,Linked List,53.9%,Easy,0.181997,https://leetcode.com/problems/merge-two-sorted-lists
+53,Maximum Subarray,"Array, Divide and Conquer, Dynamic Programming",46.7%,Easy,0.393968,https://leetcode.com/problems/maximum-subarray
+66,Plus One,Array,43.0%,Easy,0.308569,https://leetcode.com/problems/plus-one
+138,Copy List with Random Pointer,"Hash Table, Linked List",37.0%,Medium,22.885,https://leetcode.com/problems/copy-list-with-random-pointer
+155,Min Stack,"Stack, Design",44.8%,Easy,0.887469,https://leetcode.com/problems/min-stack
+203,Remove Linked List Elements,Linked List,38.8%,Easy,0.617139,https://leetcode.com/problems/remove-linked-list-elements
+204,Count Primes,"Hash Table, Math",31.6%,Easy,3.80263,https://leetcode.com/problems/count-primes
+228,Summary Ranges,Array,39.7%,Medium,100.0,https://leetcode.com/problems/summary-ranges
+283,Move Zeroes,"Array, Two Pointers",58.0%,Easy,0.242056,https://leetcode.com/problems/move-zeroes
+290,Word Pattern,Hash Table,37.1%,Easy,54.3014,https://leetcode.com/problems/word-pattern
+322,Coin Change,Dynamic Programming,35.8%,Medium,26.87,https://leetcode.com/problems/coin-change
+328,Odd Even Linked List,Linked List,56.0%,Medium,54.2893,https://leetcode.com/problems/odd-even-linked-list
+412,Fizz Buzz,,63.2%,Easy,0.378934,https://leetcode.com/problems/fizz-buzz
+482,License Key Formatting,,43.0%,Easy,4.18449,https://leetcode.com/problems/license-key-formatting
+814,Binary Tree Pruning,Tree,74.0%,Medium,72.5807,https://leetcode.com/problems/binary-tree-pruning
+1071,Greatest Common Divisor of Strings,String,52.4%,Easy,10.6373,https://leetcode.com/problems/greatest-common-divisor-of-strings

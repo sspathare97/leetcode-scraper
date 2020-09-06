@@ -1,0 +1,11 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+146,LRU Cache,Design,33.5%,Medium,4.08977,https://leetcode.com/problems/lru-cache
+239,Sliding Window Maximum,"Heap, Sliding Window",43.4%,Hard,1.02959,https://leetcode.com/problems/sliding-window-maximum
+289,Game of Life,Array,54.9%,Medium,65.0766,https://leetcode.com/problems/game-of-life
+362,Design Hit Counter,Design,63.9%,Medium,0.876085,https://leetcode.com/problems/design-hit-counter
+379,Design Phone Directory,"Linked List, Design",46.9%,Medium,30.1531,https://leetcode.com/problems/design-phone-directory
+547,Friend Circles,"Depth-first Search, Union Find",58.9%,Medium,2.29749,https://leetcode.com/problems/friend-circles
+609,Find Duplicate File in System,"Hash Table, String",59.8%,Medium,100.0,https://leetcode.com/problems/find-duplicate-file-in-system
+642,Design Search Autocomplete System,"Design, Trie",45.0%,Hard,3.14012,https://leetcode.com/problems/design-search-autocomplete-system
+1178,Number of Valid Words for Each Puzzle,"Hash Table, Bit Manipulation",38.0%,Hard,20.5829,https://leetcode.com/problems/number-of-valid-words-for-each-puzzle
+1242,Web Crawler Multithreaded,"Depth-first Search, Breadth-first Search",45.5%,Medium,21.8628,https://leetcode.com/problems/web-crawler-multithreaded

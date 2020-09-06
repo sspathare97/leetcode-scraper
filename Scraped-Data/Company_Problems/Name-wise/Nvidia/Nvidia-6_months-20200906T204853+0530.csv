@@ -1,0 +1,5 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+146,LRU Cache,Design,33.5%,Medium,8.98135,https://leetcode.com/problems/lru-cache
+231,Power of Two,"Math, Bit Manipulation",43.7%,Easy,22.1831,https://leetcode.com/problems/power-of-two
+388,Longest Absolute File Path,,41.8%,Medium,100.0,https://leetcode.com/problems/longest-absolute-file-path
+867,Transpose Matrix,Array,62.7%,Easy,61.0916,https://leetcode.com/problems/transpose-matrix

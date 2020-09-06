@@ -1,0 +1,14 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,24.7894,https://leetcode.com/problems/two-sum
+2,Add Two Numbers,"Linked List, Math",34.1%,Medium,29.2497,https://leetcode.com/problems/add-two-numbers
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",30.5%,Medium,11.6468,https://leetcode.com/problems/longest-substring-without-repeating-characters
+15,3Sum,"Array, Two Pointers",27.0%,Medium,17.5755,https://leetcode.com/problems/3sum
+33,Search in Rotated Sorted Array,"Array, Binary Search",34.7%,Medium,57.8171,https://leetcode.com/problems/search-in-rotated-sorted-array
+70,Climbing Stairs,Dynamic Programming,47.9%,Easy,23.2568,https://leetcode.com/problems/climbing-stairs
+91,Decode Ways,"String, Dynamic Programming",24.9%,Medium,84.0192,https://leetcode.com/problems/decode-ways
+113,Path Sum II,"Tree, Depth-first Search",47.1%,Medium,67.6374,https://leetcode.com/problems/path-sum-ii
+146,LRU Cache,Design,33.5%,Medium,81.0296,https://leetcode.com/problems/lru-cache
+215,Kth Largest Element in an Array,"Divide and Conquer, Heap",55.8%,Medium,76.0566,https://leetcode.com/problems/kth-largest-element-in-an-array
+240,Search a 2D Matrix II,"Binary Search, Divide and Conquer",43.3%,Medium,57.4068,https://leetcode.com/problems/search-a-2d-matrix-ii
+543,Diameter of Binary Tree,Tree,48.6%,Easy,41.4261,https://leetcode.com/problems/diameter-of-binary-tree
+871,Minimum Number of Refueling Stops,"Dynamic Programming, Heap",31.4%,Hard,100.0,https://leetcode.com/problems/minimum-number-of-refueling-stops

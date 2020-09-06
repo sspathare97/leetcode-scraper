@@ -1,0 +1,21 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+3,Longest Substring Without Repeating Characters,"Hash Table, Two Pointers, String, Sliding Window",30.5%,Medium,1.15962,https://leetcode.com/problems/longest-substring-without-repeating-characters
+17,Letter Combinations of a Phone Number,"String, Backtracking",47.1%,Medium,29.6523,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+31,Next Permutation,Array,32.7%,Medium,10.0953,https://leetcode.com/problems/next-permutation
+98,Validate Binary Search Tree,"Tree, Depth-first Search",27.9%,Medium,14.2111,https://leetcode.com/problems/validate-binary-search-tree
+102,Binary Tree Level Order Traversal,"Tree, Breadth-first Search",54.9%,Medium,2.87961,https://leetcode.com/problems/binary-tree-level-order-traversal
+150,Evaluate Reverse Polish Notation,Stack,36.6%,Medium,26.2822,https://leetcode.com/problems/evaluate-reverse-polish-notation
+173,Binary Search Tree Iterator,"Stack, Tree, Design",57.1%,Medium,7.08032,https://leetcode.com/problems/binary-search-tree-iterator
+284,Peeking Iterator,Design,46.1%,Medium,28.3514,https://leetcode.com/problems/peeking-iterator
+300,Longest Increasing Subsequence,"Binary Search, Dynamic Programming",42.7%,Medium,15.6247,https://leetcode.com/problems/longest-increasing-subsequence
+359,Logger Rate Limiter,"Hash Table, Design",70.9%,Easy,32.6027,https://leetcode.com/problems/logger-rate-limiter
+362,Design Hit Counter,Design,63.9%,Medium,70.7249,https://leetcode.com/problems/design-hit-counter
+366,Find Leaves of Binary Tree,"Tree, Depth-first Search",70.8%,Medium,84.6116,https://leetcode.com/problems/find-leaves-of-binary-tree
+540,Single Element in a Sorted Array,,57.9%,Medium,17.7048,https://leetcode.com/problems/single-element-in-a-sorted-array
+706,Design HashMap,"Hash Table, Design",61.6%,Easy,12.6719,https://leetcode.com/problems/design-hashmap
+872,Leaf-Similar Trees,"Tree, Depth-first Search",64.5%,Easy,15.394,https://leetcode.com/problems/leaf-similar-trees
+981,Time Based Key-Value Store,"Hash Table, Binary Search",53.1%,Medium,39.4141,https://leetcode.com/problems/time-based-key-value-store
+1071,Greatest Common Divisor of Strings,String,52.4%,Easy,54.8024,https://leetcode.com/problems/greatest-common-divisor-of-strings
+1223,Dice Roll Simulation,Dynamic Programming,46.0%,Medium,55.8382,https://leetcode.com/problems/dice-roll-simulation
+1326,Minimum Number of Taps to Open to Water a Garden,"Dynamic Programming, Greedy",43.9%,Hard,100.0,https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden
+1366,Rank Teams by Votes,"Array, Sort",53.9%,Medium,25.3719,https://leetcode.com/problems/rank-teams-by-votes

@@ -1,0 +1,4 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1399,Count Largest Group,Array,65.0%,Easy,0,https://leetcode.com/problems/count-largest-group
+1403,Minimum Subsequence in Non-Increasing Order,"Greedy, Sort",70.7%,Easy,0,https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order
+1432,Max Difference You Can Get From Changing an Integer,String,43.0%,Medium,0,https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer

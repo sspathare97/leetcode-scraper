@@ -1,0 +1,12 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+42,Trapping Rain Water,"Array, Two Pointers, Stack",49.2%,Hard,2.81289,https://leetcode.com/problems/trapping-rain-water
+73,Set Matrix Zeroes,Array,43.3%,Medium,12.158,https://leetcode.com/problems/set-matrix-zeroes
+121,Best Time to Buy and Sell Stock,"Array, Dynamic Programming",50.6%,Easy,1.58564,https://leetcode.com/problems/best-time-to-buy-and-sell-stock
+139,Word Break,Dynamic Programming,40.3%,Medium,3.48687,https://leetcode.com/problems/word-break
+140,Word Break II,"Dynamic Programming, Backtracking",32.9%,Hard,52.9951,https://leetcode.com/problems/word-break-ii
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,8.40927,https://leetcode.com/problems/number-of-islands
+472,Concatenated Words,"Dynamic Programming, Depth-first Search, Trie",44.1%,Hard,20.6134,https://leetcode.com/problems/concatenated-words
+545,Boundary of Binary Tree,Tree,39.1%,Medium,67.6183,https://leetcode.com/problems/boundary-of-binary-tree
+849,Maximize Distance to Closest Person,Array,42.6%,Easy,17.8132,https://leetcode.com/problems/maximize-distance-to-closest-person
+937,Reorder Data in Log Files,String,54.2%,Easy,5.26664,https://leetcode.com/problems/reorder-data-in-log-files
+1228,Missing Number In Arithmetic Progression,Math,52.4%,Easy,100.0,https://leetcode.com/problems/missing-number-in-arithmetic-progression

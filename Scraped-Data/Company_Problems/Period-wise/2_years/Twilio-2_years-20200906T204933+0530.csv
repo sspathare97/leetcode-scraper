@@ -1,0 +1,17 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+1,Two Sum,"Array, Hash Table",45.7%,Easy,0.448594,https://leetcode.com/problems/two-sum
+14,Longest Common Prefix,String,35.5%,Easy,0.466269,https://leetcode.com/problems/longest-common-prefix
+17,Letter Combinations of a Phone Number,"String, Backtracking",47.1%,Medium,0.607666,https://leetcode.com/problems/letter-combinations-of-a-phone-number
+20,Valid Parentheses,"String, Stack",39.1%,Easy,0.295738,https://leetcode.com/problems/valid-parentheses
+49,Group Anagrams,"Hash Table, String",57.3%,Medium,1.2221,https://leetcode.com/problems/group-anagrams
+68,Text Justification,String,28.0%,Hard,25.5931,https://leetcode.com/problems/text-justification
+139,Word Break,Dynamic Programming,40.3%,Medium,2.57959,https://leetcode.com/problems/word-break
+146,LRU Cache,Design,33.5%,Medium,69.4762,https://leetcode.com/problems/lru-cache
+221,Maximal Square,Dynamic Programming,37.8%,Medium,1.45884,https://leetcode.com/problems/maximal-square
+225,Implement Stack using Queues,"Stack, Design",45.7%,Easy,4.09701,https://leetcode.com/problems/implement-stack-using-queues
+332,Reconstruct Itinerary,"Depth-first Search, Graph",36.9%,Medium,30.7243,https://leetcode.com/problems/reconstruct-itinerary
+380,Insert Delete GetRandom O(1),"Array, Hash Table, Design",47.7%,Medium,1.38852,https://leetcode.com/problems/insert-delete-getrandom-o1
+532,K-diff Pairs in an Array,"Array, Two Pointers",31.7%,Easy,2.45075,https://leetcode.com/problems/k-diff-pairs-in-an-array
+560,Subarray Sum Equals K,"Array, Hash Table",43.8%,Medium,6.74421,https://leetcode.com/problems/subarray-sum-equals-k
+935,Knight Dialer,Dynamic Programming,45.3%,Medium,61.2481,https://leetcode.com/problems/knight-dialer
+974,Subarray Sums Divisible by K,"Array, Hash Table",49.1%,Medium,100.0,https://leetcode.com/problems/subarray-sums-divisible-by-k

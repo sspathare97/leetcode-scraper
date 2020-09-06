@@ -1,0 +1,8 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+115,Distinct Subsequences,"String, Dynamic Programming",38.5%,Hard,55.9968,https://leetcode.com/problems/distinct-subsequences
+206,Reverse Linked List,Linked List,63.0%,Easy,0.605157,https://leetcode.com/problems/reverse-linked-list
+338,Counting Bits,"Dynamic Programming, Bit Manipulation",69.7%,Medium,3.19955,https://leetcode.com/problems/counting-bits
+526,Beautiful Arrangement,Backtracking,58.2%,Medium,100.0,https://leetcode.com/problems/beautiful-arrangement
+1130,Minimum Cost Tree From Leaf Values,"Dynamic Programming, Stack, Tree",66.9%,Medium,11.9936,https://leetcode.com/problems/minimum-cost-tree-from-leaf-values
+1197,Minimum Knight Moves,Breadth-first Search,36.1%,Medium,6.52745,https://leetcode.com/problems/minimum-knight-moves
+1290,Convert Binary Number in a Linked List to Integer,"Linked List, Bit Manipulation",80.7%,Easy,5.22779,https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer

@@ -1,0 +1,13 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+23,Merge k Sorted Lists,"Linked List, Divide and Conquer, Heap",40.6%,Hard,18.754,https://leetcode.com/problems/merge-k-sorted-lists
+25,Reverse Nodes in k-Group,Linked List,42.5%,Hard,100.0,https://leetcode.com/problems/reverse-nodes-in-k-group
+26,Remove Duplicates from Sorted Array,"Array, Two Pointers",45.4%,Easy,3.69801,https://leetcode.com/problems/remove-duplicates-from-sorted-array
+56,Merge Intervals,"Array, Sort",39.5%,Medium,6.60359,https://leetcode.com/problems/merge-intervals
+76,Minimum Window Substring,"Hash Table, Two Pointers, String, Sliding Window",34.9%,Hard,82.575,https://leetcode.com/problems/minimum-window-substring
+127,Word Ladder,Breadth-first Search,29.9%,Medium,11.5738,https://leetcode.com/problems/word-ladder
+166,Fraction to Recurring Decimal,"Hash Table, Math",21.7%,Medium,40.2957,https://leetcode.com/problems/fraction-to-recurring-decimal
+200,Number of Islands,"Depth-first Search, Breadth-first Search, Union Find",47.1%,Medium,5.50583,https://leetcode.com/problems/number-of-islands
+207,Course Schedule,"Depth-first Search, Breadth-first Search, Graph, Topological Sort",43.3%,Medium,23.7294,https://leetcode.com/problems/course-schedule
+269,Alien Dictionary,"Graph, Topological Sort",33.3%,Hard,59.129,https://leetcode.com/problems/alien-dictionary
+283,Move Zeroes,"Array, Two Pointers",58.0%,Easy,5.58905,https://leetcode.com/problems/move-zeroes
+845,Longest Mountain in Array,Two Pointers,37.4%,Medium,77.9624,https://leetcode.com/problems/longest-mountain-in-array

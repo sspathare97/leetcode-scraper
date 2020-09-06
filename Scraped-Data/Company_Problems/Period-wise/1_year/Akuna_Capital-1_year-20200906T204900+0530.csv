@@ -1,0 +1,10 @@
+Id,Title,Tags,Acceptance,Difficulty,Frequency,Link
+48,Rotate Image,Array,57.3%,Medium,2.87187,https://leetcode.com/problems/rotate-image
+152,Maximum Product Subarray,"Array, Dynamic Programming",31.8%,Medium,1.43666,https://leetcode.com/problems/maximum-product-subarray
+713,Subarray Product Less Than K,"Array, Two Pointers",39.2%,Medium,66.8286,https://leetcode.com/problems/subarray-product-less-than-k
+1012,Numbers With Repeated Digits,"Math, Dynamic Programming",37.5%,Hard,62.4025,https://leetcode.com/problems/numbers-with-repeated-digits
+1177,Can Make Palindrome from Substring,"Array, String",34.9%,Medium,26.2341,https://leetcode.com/problems/can-make-palindrome-from-substring
+1223,Dice Roll Simulation,Dynamic Programming,46.0%,Medium,100.0,https://leetcode.com/problems/dice-roll-simulation
+1319,Number of Operations to Make Network Connected,"Depth-first Search, Breadth-first Search, Union Find",53.7%,Medium,12.4993,https://leetcode.com/problems/number-of-operations-to-make-network-connected
+1370,Increasing Decreasing String,"String, Sort",75.5%,Easy,38.2415,https://leetcode.com/problems/increasing-decreasing-string
+1411,Number of Ways to Paint N × 3 Grid,Dynamic Programming,61.1%,Hard,75.8391,https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid
